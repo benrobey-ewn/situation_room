@@ -1,0 +1,9 @@
+{
+  "name": "Situation Room Dev",
+  "version": "0.0.1",
+  "description": "live update warning and remove ajax polling | NOTE : DO NOT DELETE THIS FILE ",
+  "dependencies": {
+    "express": "4.10.2",
+    "socket.io": "1.2.0"
+  }
+}

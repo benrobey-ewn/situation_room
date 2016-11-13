@@ -1,0 +1,4 @@
+[23-May-2016 21:41:34 Australia/Melbourne] PHP Parse error:  syntax error, unexpected '$payment_status' (T_VARIABLE), expecting '(' in /home/situatio/public_html/dev/sradmin/data/client.php on line 233
+[23-May-2016 21:41:43 Australia/Melbourne] PHP Parse error:  syntax error, unexpected '$payment_status' (T_VARIABLE), expecting '(' in /home/situatio/public_html/dev/sradmin/data/client.php on line 233
+[23-May-2016 21:42:51 Australia/Melbourne] PHP Parse error:  syntax error, unexpected '$payment_status' (T_VARIABLE), expecting '(' in /home/situatio/public_html/dev/sradmin/data/client.php on line 234
+[23-May-2016 21:44:57 Australia/Melbourne] PHP Parse error:  syntax error, unexpected '$payment_status' (T_VARIABLE), expecting '(' in /home/situatio/public_html/dev/sradmin/data/client.php on line 234

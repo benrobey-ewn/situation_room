@@ -1,0 +1,218 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"124.189453 -20.920397,118.916016 -24.647017,124.40918 -26.037042,124.189453 -20.920397"},"error":null,"response":"{\"postcodes\":[2654,2655,2673,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"144.052734 -27.137368,145.415039 -28.343065,144.799805 -26.70636,144.052734 -27.137368"},"error":null,"response":"{\"postcodes\":[80044,80054,1823,1828]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"142.910156 -20.509355,136.713867 -26.824071,143.349609 -26.509905,142.910156 -20.509355"},"error":null,"response":"{\"postcodes\":null}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"142.954102 -16.003576,138.383789 -20.715015,143.261719 -20.262197,142.954102 -16.003576"},"error":"","response":"{\"postcodes\":null}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.661133 -16.551962,118.740234 -25.085599,128.188477 -28.07198,127.661133 -16.551962"},"error":"","response":"{\"postcodes\":null}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"143.173828 -15.199386,133.637695 -20.673905,144.228516 -21.166484,143.173828 -15.199386"},"error":"","httpcode":null,"response":"{\"postcodes\":[80061,1984,1985,1986,1987,1988,1989,1990,1992,2008,301,2026,2027]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"137.416992 -16.972741,134.384766 -17.266728,136.054688 -19.145168,137.416992 -16.972741"},"error":"","httpcode":null,"response":"{\"postcodes\":[301]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"133.857422 -17.350638,137.8125 -17.308688,136.318359 -19.394068,133.857422 -17.350638"},"error":"","httpcode":null,"response":"{\"postcodes\":[301]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"121.948242 -20.550509,124.892578 -20.96144,122.036133 -22.674847,123.310547 -21.207459,121.948242 -20.550509"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"122.299805 -20.262197,125.375977 -21.002471,122.167969 -22.43134,123.837891 -21.248422,122.299805 -20.262197"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"122.124023 -20.838278,125.068359 -20.838278,121.860352 -23.241346,123.398438 -21.412162,122.124023 -20.838278"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.045898 -18.521283,128.935547 -19.311143,126.342773 -20.632784,127.529297 -19.228177,127.045898 -18.521283"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.792969 -17.936929,133.989258 -20.262197,126.518555 -19.103648,129.155273 -19.020577,127.792969 -17.936929"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.573242 -18.229351,131.835938 -20.756114,127.573242 -20.550509,129.418945 -20.055931,127.573242 -18.229351"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.606445 -18.354526,131.088867 -20.014645,126.079102 -20.632784,128.056641 -19.55979,126.606445 -18.354526"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.397461 -17.936929,130.561523 -20.220966,125.81543 -19.47695,127.397461 -17.936929"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.474609 -18.479609,128.891602 -19.518375,126.035156 -20.756114,127.441406 -19.55979,126.474609 -18.479609"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.425781 -32.745703,145.667725 -33.486435,146.233521 -33.431441,146.035767 -33.330528,146.425781 -32.745703"},"error":"","httpcode":null,"response":"{\"postcodes\":[794,795,923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.678467 -32.546813,146.271973 -32.930318,147.106934 -32.939539,146.557617 -32.87036,146.678467 -32.546813"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.442261 -32.653251,147.046509 -32.782656,146.167603 -33.031693,146.672974 -32.805745,146.442261 -32.653251"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.815796 -32.782656,148.068237 -32.805745,146.799316 -33.220308,147.458496 -32.962586,146.815796 -32.782656"},"error":"","httpcode":null,"response":"{\"postcodes\":[916,917,921,923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.101685 -32.657876,145.228271 -33.174342,146.453247 -32.944149,145.83252 -32.953368,146.101685 -32.657876"},"error":"","httpcode":null,"response":"{\"postcodes\":[795,923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.310547 -20.838278,117.993164 -25.403585,122.695313 -25.918526,123.310547 -20.838278"},"error":"","httpcode":null,"response":"{\"postcodes\":[2654,2655,2673,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.320313 -16.214675,121.992188 -19.394068,124.936523 -21.534847,128.320313 -16.214675"},"error":"","httpcode":null,"response":"{\"postcodes\":[2667,2671,2677,2678,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.880859 -19.186678,122.827148 -20.920397,124.101563 -24.607069,127.880859 -19.186678"},"error":"","httpcode":null,"response":"{\"postcodes\":[2655,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"122.783203 -21.0845,122.431641 -20.632784,125.727539 -20.797201,123.266602 -21.616579,122.783203 -21.0845"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.925781 -20.715015,118.608398 -24.367114,125.639648 -28.613459,123.925781 -20.715015"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2673,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.381836 -32.667125,147.11792 -32.838058,146.398315 -33.050112,146.68396 -32.865746,146.332397 -32.6625,146.381836 -32.667125"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.151123 -32.625497,146.8927 -32.8842,145.953369 -33.027088,146.491699 -32.856518,146.151123 -32.625497"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.206055 -32.694866,147.255249 -32.898038,146.211548 -33.114549,146.738892 -32.879587,146.206055 -32.694866"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.206055 -32.671749,147.046509 -32.8842,146.151123 -33.045508,146.601563 -32.879587,146.206055 -32.671749"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.140137 -32.565333,147.002563 -32.828827,145.876465 -33.040903,146.607056 -32.805745,146.140137 -32.565333"},"error":"","httpcode":null,"response":"{\"postcodes\":[923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"124.145508 -21.002471,119.311523 -24.407138,125.595703 -27.488781,124.145508 -21.002471"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2673,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.188477 -19.973349,122.607422 -21.0845,119.179688 -25.085599,127.22168 -27.994401,128.188477 -19.973349"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2673,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.100586 -19.311143,117.553711 -25.045792,126.694336 -27.566721,128.100586 -19.311143"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2657,2673,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.617188 -20.055931,119.091797 -24.166802,124.980469 -28.806174,127.617188 -20.055931"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2673,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.056641 -19.642588,117.773438 -25.799891,124.013672 -28.07198,128.056641 -19.642588"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"124.013672 -20.920397,118.564453 -24.726875,124.321289 -28.110749,124.013672 -20.920397"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2654,2655,2673,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.001953 -18.229351,134.033203 -20.385825,126.914063 -22.22809,130.03418 -20.13847,127.001953 -18.229351"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.408203 -19.47695,133.813477 -22.105999,126.870117 -22.917923,130.12207 -21.575719,128.408203 -19.47695"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.441406 -18.145852,135 -21.166484,127.30957 -20.920397,130.78125 -19.973349,127.441406 -18.145852"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.914063 -18.271086,131.484375 -20.179724,126.166992 -20.097206,128.408203 -19.68397,126.914063 -18.271086"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.22168 -19.228177,126.826172 -22.43134,128.364258 -21.207459,127.22168 -19.228177"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.836914 -18.895893,126.166992 -22.87744,128.056641 -22.146708,127.836914 -18.895893"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.782227 -18.271086,126.210938 -22.390714,127.96875 -21.534847,126.782227 -18.271086"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"125.859375 -14.902322,126.958008 -16.594081,128.408203 -14.98724,125.859375 -14.902322"},"error":"","httpcode":null,"response":"{\"postcodes\":[2670,2671]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.30957 -18.062312,126.430664 -20.13847,128.671875 -20.014645,127.30957 -18.062312"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.320313 -17.602139,126.386719 -19.394068,128.320313 -20.262197,128.320313 -17.602139"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"151.501465 -34.216345,151.062012 -32.579221,150.342407 -34.207259,150.963135 -33.385586,151.501465 -34.216345"},"error":"","httpcode":null,"response":"{\"postcodes\":[718,506,508,509,510,511,560,565,325,328,329,830,831,833,834,835,836,837,838,839,840,846,852,853,854,855,856,359,360,365,366,368,369,370,371,372,373,374,375,376,377,378,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,442,444]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"150.924683 -32.208153,150.249023 -34.125448,151.040039 -32.907262,151.583862 -33.518499,150.924683 -32.208153"},"error":"","httpcode":null,"response":"{\"postcodes\":[836,838,840,854,855,857,858,860,861,862,864,866,510,511,512,513,516,517,560,565,566]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.661133 -18.562947,121.816406 -20.468189,123.354492 -25.165173,127.661133 -18.562947"},"error":"","httpcode":null,"response":"{\"postcodes\":[2655,2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.37085 -31.868228,147.260742 -32.161663,146.843262 -32.500496,146.722412 -32.277845,146.37085 -31.868228"},"error":"","httpcode":null,"response":"{\"postcodes\":[888,919,923]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"148.134155 -32.801128,147.76062 -33.486435,149.276733 -33.403931,148.364868 -32.962586,149.902954 -32.778038,147.32666 -32.704111,149.782104 -32.375322,148.134155 -32.801128"},"error":"SSL read: error:00000000:lib(0):func(0):reason(0), errno 104","httpcode":null,"response":"error:SSL read: error:00000000:lib(0):func(0):reason(0), errno 104"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.485352 -18.312811,126.5625 -20.879343,128.408203 -20.550509,127.485352 -18.312811"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.617188 -18.271086,126.342773 -20.303418,128.540039 -20.13847,127.617188 -18.271086"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.529297 -19.020577,126.386719 -20.591652,128.144531 -20.632784,127.529297 -19.020577"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.30957 -18.437925,126.342773 -20.13847,128.056641 -19.932041,127.30957 -18.437925"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.265625 -18.521283,126.342773 -20.13847,128.100586 -20.014645,127.265625 -18.521283"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.529297 -18.354526,126.079102 -20.385825,128.62793 -20.344627,127.529297 -18.354526"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.958008 -18.271086,125.947266 -22.755921,130.649414 -21.043491,126.958008 -18.271086"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.133789 -18.771115,128.188477 -22.593726,131.352539 -20.591652,127.133789 -18.771115"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.880859 -16.467695,126.298828 -19.68397,127.792969 -18.145852,128.62793 -19.766704,127.880859 -16.467695"},"error":"","httpcode":null,"response":"{\"postcodes\":[2671,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"118.78418 -25.641526,120.366211 -21.739091,121.904297 -25.482951,120.410156 -23.5237,118.78418 -25.641526"},"error":"","httpcode":null,"response":"{\"postcodes\":[2654,2655,2673,2675,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.134766 -25.085599,124.365234 -21.616579,125.595703 -23.160563,126.606445 -21.534847,128.276367 -24.766785,123.134766 -25.085599"},"error":"","httpcode":null,"response":"{\"postcodes\":[2655,2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.354492 -20.262197,121.860352 -22.187405,123.222656 -21.248422,124.321289 -22.024546,123.354492 -20.262197"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"124.936523 -21.739091,125.595703 -19.932041,126.035156 -20.591652,126.782227 -19.808054,127.485352 -21.698265,126.650391 -20.715015,126.123047 -21.289374,125.683594 -20.591652,124.936523 -21.739091"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.232422 -21.616579,129.375 -19.145168,130.297852 -21.534847,129.287109 -20.220966,128.232422 -21.616579"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"131.220703 -21.371244,131.52832 -19.020577,132.495117 -20.509355,132.978516 -18.39623,133.110352 -21.207459,131.704102 -20.13847,131.220703 -21.371244"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"131.396484 -21.207459,130.737305 -19.020577,132.319336 -20.179724,132.407227 -18.229351,132.890625 -20.920397,131.52832 -20.014645,131.52832 -20.879343,131.396484 -21.207459"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.891602 -24.766785,130.561523 -24.647017,130.605469 -27.059126,129.199219 -26.588527,130.869141 -27.839076,130.737305 -24.006326,128.891602 -24.766785"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.62793 -24.20689,132.099609 -24.20689,132.011719 -27.371767,130.825195 -25.918526,132.1875 -28.613459,132.319336 -23.483401,128.62793 -24.20689"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"132.319336 -22.309426,133.549805 -22.187405,133.549805 -24.126702,132.275391 -24.246965,132.275391 -25.005973,135.131836 -24.766785,135 -23.885838,134.121094 -24.006326,133.989258 -22.146708,134.912109 -22.024546,134.780273 -21.330315,132.099609 -21.779905,132.319336 -22.309426"},"error":"","httpcode":null,"response":"{\"postcodes\":[104903,80143,80144,302]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"130.341797 -22.268764,129.023438 -24.686952,130.209961 -23.604262,131.484375 -24.726875,130.341797 -22.268764"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.133789 -18.646245,126.870117 -22.634293,129.902344 -21.207459,127.133789 -18.646245"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.001953 -19.186678,126.298828 -22.674847,129.682617 -21.698265,127.001953 -19.186678"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.880859 -18.604601,124.145508 -20.838278,127.485352 -22.71539,127.880859 -18.604601"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.914063 -19.518375,124.453125 -21.412162,127.880859 -24.086589,126.914063 -19.518375"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.441406 -19.47695,124.101563 -21.248422,127.749023 -22.87744,127.441406 -19.47695"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"120.256348 -25.482951,122.178955 -25.987675,119.663086 -26.873081,121.311035 -26.046913,121.464844 -25.115445,120.256348 -25.482951"},"error":"SSL read: error:00000000:lib(0):func(0):reason(0), errno 104","httpcode":null,"response":"error:SSL read: error:00000000:lib(0):func(0):reason(0), errno 104","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.738281 -18.895893,123.09082 -21.248422,126.958008 -22.958393,126.738281 -18.895893"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.265625 -19.269665,123.837891 -21.207459,127.617188 -24.407138,127.265625 -19.269665"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.276367 -19.145168,124.101563 -20.756114,126.738281 -24.086589,128.276367 -19.145168"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"121.333008 -24.926295,123.178711 -25.79,124.321289 -24.106647,123.244629 -24.946219,122.332764 -24.517139,122.156982 -24.766785,121.333008 -24.926295"},"error":"","httpcode":null,"response":"{\"postcodes\":[2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"128.012695 -19.062118,123.706055 -21.002471,126.738281 -23.32208,128.012695 -19.062118"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.265625 -19.849394,123.266602 -21.616579,127.792969 -23.563987,127.265625 -19.849394"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"120.695801 -24.786735,120.926514 -26.02717,121.992188 -24.996016,121.992188 -23.563987,119.94873 -23.483401,120.695801 -24.786735"},"error":"","httpcode":null,"response":"{\"postcodes\":[2654,2655,2673]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"122.67334 -24.507143,124.387207 -24.487149,123.354492 -25.463115,124.508057 -26.283565,122.640381 -26.32296,122.67334 -24.507143"},"error":"","httpcode":null,"response":"{\"postcodes\":[2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"121.585693 -23.714954,120.629883 -24.666986,121.585693 -23.714954"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"120.794678 -23.976215,124.82666 -25.572176,122.596436 -25.849337,122.76123 -23.251441,120.794678 -23.976215"},"error":"SSL read: error:00000000:lib(0):func(0):reason(0), errno 104","httpcode":null,"response":"error:SSL read: error:00000000:lib(0):func(0):reason(0), errno 104","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"145.06897 -31.751525,145.376587 -32.588478,145.843506 -31.615966,145.453491 -32.147711,145.06897 -31.751525"},"error":"","httpcode":null,"response":"{\"postcodes\":[897]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.485352 -19.228177,122.563477 -21.983801,127.133789 -23.200961,127.485352 -19.228177"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.239014 -32.542183,148.018799 -33.096144,146.260986 -33.655781,147.178345 -33.082337,146.239014 -32.542183"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.705078 -19.062118,123.530273 -20.879343,126.826172 -23.5237,127.705078 -19.062118"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"122.958984 -20.468189,122.124023 -22.998852,125.859375 -19.973349,122.958984 -20.468189"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"148.238525 -32.407792,147.683716 -33.399345,148.656006 -33.261657,148.183594 -33.027088,148.238525 -32.407792"},"error":"","httpcode":null,"response":"{\"postcodes\":[879,885,912,916,917,918,922]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.574219 -25.324167,125.507813 -28.265682,127.265625 -25.363882,123.574219 -25.324167"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"119.091797 -25.99755,119.047852 -28.381735,123.178711 -28.88316,119.091797 -25.99755"},"error":"","httpcode":null,"response":"{\"postcodes\":[2585,2586,2587,2588,2652,2654,2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.529297 -20.303418,122.167969 -25.005973,127.617188 -28.265682,127.529297 -20.303418"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2655,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.045898 -18.020528,123.925781 -20.591652,126.518555 -23.362429,127.045898 -18.020528"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.177734 -18.521283,127.617188 -24.487149,132.319336 -21.943046,127.177734 -18.521283"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"127.661133 -18.521283,127.441406 -23.80545,131.660156 -21.330315,127.661133 -18.521283"},"error":"","httpcode":null,"response":"{\"postcodes\":[2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.881836 -25.799891,125.595703 -27.994401,127.177734 -25.284438,123.881836 -25.799891"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"130.429688 -26.39187,124.453125 -26.549223,129.375 -28.536275,125.244141 -28.921631,132.011719 -29.075375,128.276367 -27.176469,130.429688 -26.39187"},"error":"","httpcode":null,"response":"{\"postcodes\":[2582,2588,2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.782227 -20.014645,123.75 -20.715015,122.431641 -24.487149,125.639648 -28.033198,126.782227 -20.014645"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2655,2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"133.989258 -21.657428,131.791992 -17.350638,134.428711 -17.811456,133.989258 -21.657428"},"error":"","httpcode":null,"response":"{\"postcodes\":[300,301]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"126.782227 -19.020577,124.365234 -20.920397,127.177734 -22.512557,126.782227 -19.020577"},"error":"","httpcode":null,"response":"{\"postcodes\":[2677,2679]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"123.222656 -25.204941,125.288086 -27.839076,127.089844 -25.085599,123.222656 -25.204941"},"error":"","httpcode":null,"response":"{\"postcodes\":[2588,2655]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"136.274414 -20.879343,132.890625 -16.425548,132.758789 -19.68397,136.274414 -20.879343"},"error":"","httpcode":null,"response":"{\"postcodes\":[300,301]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"135.131836 -22.553147,131.088867 -26.509905,136.362305 -26.549223,135.131836 -22.553147"},"error":"","httpcode":null,"response":"{\"postcodes\":[104903,303,2344]}","status":"false"}
+

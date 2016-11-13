@@ -1,0 +1,73 @@
+[25-Aug-2015 16:16:00 Australia/Melbourne] PHP Notice:  Undefined index: session_id in /home/situatio/public_html/dev/logout.php on line 5
+[30-Sep-2015 21:08:57 Australia/Melbourne] PHP Notice:  Undefined index: session_id in /home/situatio/public_html/dev/logout.php on line 5
+[06-Oct-2015 15:22:01 Australia/Melbourne] PHP Notice:  Undefined index: session_id in /home/situatio/public_html/dev/logout.php on line 5
+[10-Nov-2015 15:24:31 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:24:49 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:27:58 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:28:12 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:28:12 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:29:33 Australia/Melbourne] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/distancematrix/json?origins=Indore+India&amp;destinations=Ujjain+india&amp;departuretime=15&amp;client=gme-earlywarningnetwork&amp;language=en-EN&amp;sensor=false&amp;alternate=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 3
+[10-Nov-2015 15:57:12 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;departure_time=1500&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 15:59:45 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;departure_time=1500&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 16:03:44 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;departure_time=1500&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 16:04:20 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 16:08:38 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 17:12:39 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 17:12:45 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true&amp;sensor=false): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 18:18:44 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true&amp;sensor=false&amp;signature=1af3691151b75150900b2aa30213cf5e014ffb57): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 18:18:51 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true&amp;sensor=false&amp;signature=1af3691151b75150900b2aa30213cf5e014ffb57): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[10-Nov-2015 18:29:02 Australia/Melbourne] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=Indore+India&amp;destination=Ujjain+india&amp;units=metric&amp;client=gme-earlywarningnetwork&amp;alternatives=true&amp;sensor=false&amp;signature=1af3691151b75150900b2aa30213cf5e014ffb57): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/situatio/public_html/dev/meeneshtesting.php on line 4
+[23-Nov-2015 17:02:26 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:23:21 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:26:13 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:31:47 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:32:35 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:33:21 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 18:34:11 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 19:55:42 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 21:01:57 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 21:02:13 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 21:03:27 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-Nov-2015 22:13:59 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[24-Nov-2015 17:10:54 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[16-Jan-2016 08:25:00 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[19-May-2016 15:22:16 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[23-May-2016 23:56:20 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[25-May-2016 17:27:41 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[25-May-2016 21:46:11 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[25-May-2016 21:47:43 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[06-Jun-2016 15:11:31 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[06-Jun-2016 18:37:58 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[28-Jun-2016 15:28:52 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[05-Jul-2016 18:59:47 Australia/Melbourne] PHP Parse error:  syntax error, unexpected '}' in /home/situatio/public_html/dev/send_ewn_alert.php on line 53
+[06-Jul-2016 15:29:08 Australia/Melbourne] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/situatio/public_html/dev/send_ewn_alert.php on line 50
+[06-Jul-2016 15:29:20 Australia/Melbourne] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/situatio/public_html/dev/send_ewn_alert.php on line 50
+[06-Jul-2016 15:31:45 Australia/Melbourne] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home/situatio/public_html/dev/send_ewn_alert.php on line 36
+[06-Jul-2016 15:32:03 Australia/Melbourne] PHP Parse error:  syntax error, unexpected ';' in /home/situatio/public_html/dev/send_ewn_alert.php on line 35
+[06-Jul-2016 15:36:08 Australia/Melbourne] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/situatio/public_html/dev/send_ewn_alert.php on line 37
+[06-Jul-2016 15:39:09 Australia/Melbourne] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/situatio/public_html/dev/send_ewn_alert.php on line 38
+[06-Jul-2016 20:14:27 Australia/Melbourne] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/situatio/public_html/dev/send_ewn_alert.php on line 31
+[06-Jul-2016 20:14:27 Australia/Melbourne] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/situatio/public_html/dev/send_ewn_alert.php on line 32
+[11-Jul-2016 14:57:43 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[11-Jul-2016 18:27:45 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[22-Aug-2016 14:37:41 Australia/Melbourne] PHP Fatal error:  Class 'SoapClient' not found in /home/situatio/public_html/dev/get_suburbname.php on line 21
+[22-Aug-2016 14:43:44 Australia/Melbourne] PHP Fatal error:  Class 'SoapClient' not found in /home/situatio/public_html/dev/get_suburbname.php on line 21
+[07-Sep-2016 15:32:43 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[07-Sep-2016 17:05:07 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7
+[09-Sep-2016 15:33:03 Australia/Melbourne] PHP Notice:  Undefined index: login_no in /home/situatio/public_html/dev/logout.php on line 7

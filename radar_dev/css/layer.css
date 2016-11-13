@@ -1,0 +1,24 @@
+                     .navigation {
+		                     display: none;
+				     right:385px;
+				position:absolute; 
+				z-index:7;
+				width: 200px;
+				border: 1px solid #999;
+				margin: 0 auto; 
+				height:400px;
+				/*background-color:#FFF;*/
+				overflow-y: scroll;
+				overflow-x:hidden;
+                                top:0;
+                                background: none repeat scroll 0 0 rgba(255, 255, 255, 0.6);
+                      }
+
+                     .navigation li {
+                            line-height:30px;
+			    text-align:left;
+                            float:left;
+                            font-size:13px;
+                            width:100%;
+                            padding-left:15px;
+                      }

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>KML Layers</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+  }
+  #map_canvas {
+      height: 100%;
+  }
+</style>
+</head>
+<body onload="initMap()">
+  <div id="map_canvas"></div>
+
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyDu9rvCu-0n6phmMQAvpXJniDiZ-4qeB1U"></script>
+  <script src="https://rawgit.com/makeusabrew/bootbox/f3a04a57877cab071738de558581fbc91812dce9/bootbox.js"></script>
+  <script type="text/javascript" src="geoxml3.js"></script>
+  <script charset="utf-8">
+    var polygonAry = [];
+    var polygonAryIndex;
+    var geoXml = null;
+    var map = null;
+    var myLatLng = null;
+    var kmlUrl = 'http://situationroom.ewn.com.au/dev/test_kml/polylines.kml';
+   //var kmlUrl = 'http://situationroom.ewn.com.au/test_kml/Hume_highway.kml';
+   function initMap() { 
+      var myOptions = {
+        zoom: 11,
+        center: new google.maps.LatLng(41.876,-87.624),
+          //mapTypeId: google.maps.MapTypeId.HYBRID
+      };
+
+      map = new google.maps.Map(document.getElementById("map_canvas"),
+          myOptions);
+
+      geoXml = new geoXML3.parser({
+          map: map,
+          singleInfoWindow: true,
+          afterParse: useTheData
+      });
+      geoXml.parse(kmlUrl);
+  }
+
+
+  function useTheData(doc)
+  {  
+    geoXmlDoc = doc[0];
+    console.log(geoXmlDoc.gpolygons[0]);
+   for (var i = 0; i < geoXmlDoc.gpolygons.length; i++)
+   {
+      google.maps.event.addListener(geoXmlDoc.gpolygons[0],"click",function() { 
+
+        var mark = geoXmlDoc.placemarks[0];
+        var polygon_id = mark.name; 
+
+       // console.log(' Polygon Id :_: ' + mark.ExtendedData.getName(PolygonId)); 
+       //console.log(polygon_id+'************************');
+
+       if(geoXmlDoc.gpolygons[0].fillColor ==  "#ee0000"){
+          geoXmlDoc.gpolygons[0].setOptions({fillColor: "#000000"});
+      }else{
+          geoXmlDoc.gpolygons[0].setOptions({fillColor: "#ee0000"});
+      }
+      sendNotification();
+  });
+  }
+}
+
+//show notification popup
+function sendNotification() 
+{
+    $("#notification").modal("show");
+}
+
+function confirmBoxAndProcessing()
+{
+    bootbox.confirm("Are you sure you wish to send this alert?", function(result) { 
+        if (result)
+        {
+            alert('Processing');
+        }
+    });
+}
+
+
+/*function useTheData(doc)
+{  
+    geoXmlDoc = doc[0];
+    for (var i = 0; i < geoXmlDoc.gpolygons.length; i++)
+    {
+        polygonAry[i] = geoXmlDoc.gpolygons[i];
+    }
+
+    for (var j = 0 ; j < polygonAry.length; j++) 
+    {
+        
+        google.maps.event.addListener(polygonAry[j],"click",function() {  
+        var mark = geoXmlDoc.placemarks[0];
+        console.log(mark.id); 
+        // console.log(' Polygon Id :_: ' + mark.ExtendedData.getName(PolygonId));
+        if(polygonAry[j].fillColor ==  "#ee0000")
+        { 
+            console.log('if');
+          polygonAry[j].setOptions({fillColor: "#000000"});
+        }
+      else
+      {   console.log('else');
+          polygonAry[j].setOptions({fillColor: "#ee0000"});
+      }
+  });    
+ }
+
+}*/
+
+</script>
+</body>
+</html>
+<!-- Popup html -->
+<div id="notification" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+         <div class="modal-header">
+            <div class="form-body">
+
+                <div class="form-group">
+                    <label class="control-label col-md-3">Subject</label>
+                    <input type="text" class="form-control input-lg" placeholder="Subject" name="subject" id="subject">
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3">Alert Status</label>
+                    <select class="form-control input-lg" name="alert_status" id="alert_status">
+                        <option value="">Select</option>
+                        <option value="">Black</option>
+                        <option value="">Red</option>
+                        <option value="">Amber</option>
+                        <option value="">Green</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3">Message</label>
+                    <textarea name="message" id="message" class="form-control input-lg"></textarea>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default" id="" onclick="confirmBoxAndProcessing()">Send</button>
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        </div>
+    </div>
+</div>
+</div>
+
+
+

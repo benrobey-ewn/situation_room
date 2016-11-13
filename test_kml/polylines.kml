@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="thickLine"><LineStyle><width>2.5</width></LineStyle></Style>
+<Style id="transparent50Poly"><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+<Placemark>
+<name>Shape1</name>
+<description>Shape123</description>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>132.9345703125,-21.783985120288605,0 135.098876953125,-21.07834847322051,0 135.68115234375,-22.00824833811045,0 134.945068359375,-22.49631641397479,0 134.417724609375,-22.658625935926572,0 133.08837890625,-22.638347708350274,0 132.9345703125,-21.783985120288605,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#transparent50Poly</styleUrl></Placemark>
+<Placemark>
+<name>Shape2</name>
+<description>Shape</description>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>136.7138671875,-20.503179483550475,0 138.4716796875,-20.698571526719657,0 138.658447265625,-21.692139642734936,0 137.537841796875,-22.272829758640004,0 136.5380859375,-22.00824833811045,0 136.7138671875,-20.503179483550475,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#transparent50Poly</styleUrl></Placemark>
+<Placemark>
+<name>Shape3</name>
+<description>Shape</description>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>123.046875,-21.563456567193565,0 127.177734375,-21.19516546092365,0 127.55126953125,-24.034422015890343,0 124.453125,-25.649447683680762,0 121.46484375,-25.76823316369451,0 120.08056640625,-22.784283014136836,0 121.04736328125,-20.55873641730476,0 124.0576171875,-20.270440066848344,0 126.0791015625,-20.064185111265505,0 127.79296875,-20.53816175562075,0 127.96875,-20.94912598159956,0 128.1884765625,-21.583889940660388,0 127.880859375,-22.68295486469598,0 123.046875,-21.563456567193565,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#transparent50Poly</styleUrl></Placemark>
+</Document>
+</kml>

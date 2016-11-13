@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+		<Document>
+			<name>Testing polygon earth.kml</name>
+			<Style id="s_ylw-pushpin">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>assets/img/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>78000000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin_hl">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>assets/img/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>78000000</color>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+					<name>map shaped polygon</name>
+					<description>map shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygonmap shaped polygon</description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.029297,-36.809285
+150.600586,-35.101934
+152.709961,-32.063956
+153.720703,-28.960089
+153.369141,-25.403585
+150.073242,-21.943046
+148.139648,-19.890723
+146.381836,-18.937464
+146.425781,-18.187607
+145.195313,-14.306969
+143.701172,-14.221789
+142.822266,-10.703792
+142.163086,-10.53102
+141.28418,-14.264383
+141.064453,-17.014768
+140.317383,-17.602139
+135.087891,-14.774883
+137.197266,-11.953349
+133.725586,-11.781325
+132.451172,-11.049038
+129.682617,-11.307708
+130.429688,-12.46876
+129.155273,-14.647368
+128.408203,-14.689881
+127.089844,-13.496473
+126.5625,-13.752725
+125.683594,-13.923404
+123.881836,-15.665354
+123.266602,-16.509833
+122.958984,-16.130262
+121.772461,-17.476432
+122.211914,-18.39623
+121.640625,-18.39623
+121.464844,-18.687879
+121.289063,-19.601194
+119.750977,-19.973349
+119.135742,-19.766704
+118.652344,-19.932041
+118.520508,-20.385825
+116.586914,-20.632784
+114.916992,-21.412162
+114.433594,-22.268764
+114.213867,-21.739091
+113.642578,-21.739091
+113.291016,-25.045792
+113.598633,-25.165173
+112.807617,-25.403585
+113.15918,-26.784847
+113.994141,-28.110749
+114.433594,-29.152161
+115.576172,-32.026706
+115.048828,-33.541395
+115.004883,-34.524661
+116.05957,-35.101934
+118.168945,-35.209722
+119.487305,-34.669359
+121.201172,-34.161818
+122.783203,-33.94336
+123.969727,-34.307144
+124.321289,-33.100745
+126.958008,-32.546813
+130.913086,-31.728167
+133.637695,-32.657876
+135.703125,-35.209722
+137.504883,-33.651208
+136.713867,-35.137879
+138.251953,-35.245619
+136.538086,-35.710838
+136.625977,-36.208823
+138.779297,-35.56798
+139.833984,-36.633162
+139.394531,-37.509726
+141.503906,-38.582526
+143.920898,-39.061849
+144.84375,-38.307181
+145.678711,-38.959409
+146.337891,-39.061849
+147.128906,-38.754083
+147.568359,-38.23818
+149.677734,-37.926868
+150.249023,-37.509726
+
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+	</kml>

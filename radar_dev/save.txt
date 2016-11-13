@@ -1,0 +1,23 @@
+<?php
+  header('Content-type: image/png');
+  //$png_image = imagecreate(512, 512);
+  $png_image = ImageCreateFromPNG('IDR00004.T.201412190548.png');
+  //$dest = imagecreatetruecolor(512, 40);
+  $grey = imagecolorallocate($png_image, 229, 229, 229);
+  $green = imagecolorallocate($png_image, 220, 212, 212);
+  //imagefilltoborder($png_image, 0, 0, 0, 0);
+
+  imagefilledrectangle ($png_image, 0, 0, 512, 10, $green);     // SQUARE
+  imagefilledrectangle ($png_image, 0, 495, 512, 512, $green);
+  //imagecopy($dest, $png_image, 512, 10, 512, 0, 512, 512);
+  //imagefilledrectangle ($png_image, 100, 20, 280, 80, $green);   // RECTANGLE
+  //imagefilledellipse ($png_image, 50, 150, 75, 75, $green);      // CIRCLE
+  //imagefilledellipse ($png_image, 200, 150, 150, 75, $green);    // ELLIPSE
+
+  //$poly_points = array(150, 200, 100, 280, 200, 280);
+  //imagefilledpolygon ($png_image, $poly_points, 3, $green);      // POLYGON
+
+  //imagepng($png_image);
+  imagepng($png_image, 'imagefilledrectangle.png');
+  imagedestroy($png_image);
+?>

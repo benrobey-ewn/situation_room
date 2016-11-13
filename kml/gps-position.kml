@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="nrc-kml-icons"><IconStyle><Icon><scale>1</scale><href>http://situationroom.ewn.com.au/dev/images/layer_markers/FMCG.png</href></Icon><hotSpot x="1" y="1" xunits="pixels" yunits="pixels"></IconStyle></Style>
+<Placemark>
+<name> Vehicle: 1</name>
+<description>Driver ID: 1009
+Time: 6/10/2016 3:17:32 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.1532,-38.20644,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 8</name>
+<description>Driver ID: 162
+Time: 6/10/2016 3:17:20 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>148.1598,-33.14928,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 9</name>
+<description>Driver ID: 1087
+Time: 6/10/2016 3:17:17 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.864,-36.94425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 13</name>
+<description>Driver ID: 1161
+Time: 6/10/2016 3:16:43 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.7748,-32.88231,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 14</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:14:35 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.7945,-37.81533,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 16</name>
+<description>Driver ID: 1190
+Time: 6/10/2016 3:17:13 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>115.7484,-33.4445,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 17</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:26 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1328,-27.41572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 18</name>
+<description>Driver ID: 105
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>148.1742,-33.1335,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 20</name>
+<description>Driver ID: 1020
+Time: 6/10/2016 3:17:24 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.9635,-37.75847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 24</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:14:29 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.4068,-35.06942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 31</name>
+<description>Driver ID: 46
+Time: 6/10/2016 3:17:23 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>116.0619,-32.08597,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 40</name>
+<description>Driver ID: 1276
+Time: 6/10/2016 3:16:58 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0448,-27.55797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 42</name>
+<description>Driver ID: 49
+Time: 6/10/2016 3:17:20 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>117.872,-35.00522,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 43</name>
+<description>Driver ID: 111
+Time: 6/10/2016 3:17:14 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>143.712,-37.04681,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 45</name>
+<description>Driver ID: 5145
+Time: 6/10/2016 3:17:05 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1202,-27.53619,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 50</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:51 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.4253,-36.38594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 52</name>
+<description>Driver ID: 153
+Time: 6/10/2016 3:16:55 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.5737,-34.54292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 56</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:11 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1333,-27.41572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 58</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:15:06 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.7066,-25.54153,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 65</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:15:01 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.1886,-21.14872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 71</name>
+<description>Driver ID: 1203
+Time: 6/10/2016 3:16:54 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.9779,-27.58539,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 76</name>
+<description>Driver ID: 1238
+Time: 6/10/2016 3:16:51 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.9486,-28.984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 78</name>
+<description>Driver ID: 5143
+Time: 6/10/2016 3:16:46 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>141.4545,-31.98469,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 80</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:04 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.3651,-41.18989,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 93</name>
+<description>Driver ID: 1008
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.2802,-37.78381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 94</name>
+<description>Driver ID: 1547
+Time: 6/10/2016 3:17:08 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.4625,-36.36111,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 106</name>
+<description>Driver ID: 1053
+Time: 6/10/2016 3:17:26 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.7462,-16.88269,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 107</name>
+<description>Driver ID: 5917
+Time: 6/10/2016 3:17:11 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>130.9639,-12.45367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 112</name>
+<description>Driver ID: 1639
+Time: 6/10/2016 3:17:31 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>134.2015,-19.57864,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 113</name>
+<description>Driver ID: 1330
+Time: 6/10/2016 3:16:59 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0663,-27.55058,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 114</name>
+<description>Driver ID: 1100
+Time: 6/10/2016 3:16:48 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9399,-29.72853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 115</name>
+<description>Driver ID: 1705
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0443,-27.36653,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 116</name>
+<description>Driver ID: 1272
+Time: 6/10/2016 3:16:55 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0873,-27.55728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 119</name>
+<description>Driver ID: 1265
+Time: 6/10/2016 3:17:34 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9608,-26.908,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 120</name>
+<description>Driver ID: 1070
+Time: 6/10/2016 3:16:43 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>148.673,-33.84328,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 148</name>
+<description>Driver ID: 82
+Time: 6/10/2016 3:17:21 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.7583,-33.87442,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 153</name>
+<description>Driver ID: 5921
+Time: 6/10/2016 3:16:46 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.5001,-33.00764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 154</name>
+<description>Driver ID: 84
+Time: 6/10/2016 3:17:08 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.9818,-33.90153,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 156</name>
+<description>Driver ID: 1701
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.6341,-32.78394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 160</name>
+<description>Driver ID: 5930
+Time: 6/10/2016 3:16:42 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.6914,-33.87094,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 180</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:46 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.8981,-37.04289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 191</name>
+<description>Driver ID: 5940
+Time: 6/10/2016 3:16:43 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.8906,-27.32369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 202</name>
+<description>Driver ID: 1746
+Time: 6/10/2016 3:17:13 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0797,-27.35411,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 207</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.2912,-42.83342,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 211</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:15:55 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9605,-26.57281,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 213</name>
+<description>Driver ID: 1410
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9697,-26.61561,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 216</name>
+<description>Driver ID: 1383
+Time: 6/10/2016 3:16:42 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.3906,-28.07433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 220</name>
+<description>Driver ID: 1584
+Time: 6/10/2016 3:17:14 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.7239,-16.81158,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 222</name>
+<description>Driver ID: 1424
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.2201,-23.87567,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 223</name>
+<description>Driver ID: 1431
+Time: 6/10/2016 3:16:43 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.4538,-23.43161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 224</name>
+<description>Driver ID: 151
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1011,-27.57789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 229</name>
+<description>Driver ID: 1207
+Time: 6/10/2016 3:17:03 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.9747,-27.57189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 251</name>
+<description>Driver ID: 1163
+Time: 6/10/2016 3:17:33 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.8255,-32.67508,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 252</name>
+<description>Driver ID: 1162
+Time: 6/10/2016 3:17:33 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.4056,-33.27969,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 256</name>
+<description>Driver ID: 204
+Time: 6/10/2016 3:17:21 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.0657,-41.12156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 266</name>
+<description>Driver ID: 1143
+Time: 6/10/2016 3:17:23 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.4254,-36.38528,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 268</name>
+<description>Driver ID: 1014
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.8598,-37.72753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 274</name>
+<description>Driver ID: 1661
+Time: 6/10/2016 3:17:02 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.0848,-37.13833,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 275</name>
+<description>Driver ID: 1735
+Time: 6/10/2016 3:17:37 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.9036,-37.73553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 276</name>
+<description>Driver ID: 5932
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.1393,-37.79822,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 281</name>
+<description>Driver ID: 5928
+Time: 6/10/2016 3:15:22 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>115.9225,-32.84614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 289</name>
+<description>Driver ID: 1023
+Time: 6/10/2016 3:17:37 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.1285,-36.74694,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 292</name>
+<description>Driver ID: 1564
+Time: 6/10/2016 3:17:08 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.0381,-41.11219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 294</name>
+<description>Driver ID: 1128
+Time: 6/10/2016 3:17:31 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.6053,-25.9208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 296</name>
+<description>Driver ID: 43
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>115.8969,-32.612,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 301</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:05 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.0409,-28.23542,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 303</name>
+<description>Driver ID: 1217
+Time: 6/10/2016 3:17:34 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.7336,-19.30842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 305</name>
+<description>Driver ID: 1622
+Time: 6/10/2016 3:17:16 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.1297,-21.11569,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 308</name>
+<description>Driver ID: 1544
+Time: 6/10/2016 3:16:48 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>138.6196,-34.78678,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 314</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.1496,-21.1748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 318</name>
+<description>Driver ID: 1677
+Time: 6/10/2016 3:17:24 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.8673,-25.34544,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 319</name>
+<description>Driver ID: 177
+Time: 6/10/2016 3:17:15 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1156,-27.62022,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 320</name>
+<description>Driver ID: 1240
+Time: 6/10/2016 3:16:59 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.5768,-28.3725,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 331</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:14:26 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.5016,-23.32228,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 334</name>
+<description>Driver ID: 212
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.7315,-29.74356,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 342</name>
+<description>Driver ID: 1367
+Time: 6/10/2016 3:17:05 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.854,-33.82364,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 348</name>
+<description>Driver ID: 1127
+Time: 6/10/2016 3:16:59 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>149.1611,-21.05492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 351</name>
+<description>Driver ID: 1454
+Time: 6/10/2016 3:17:29 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>121.4596,-30.75939,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 353</name>
+<description>Driver ID: 1720
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>146.7188,-19.26494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 359</name>
+<description>Driver ID: 171
+Time: 6/10/2016 3:17:11 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>130.8936,-12.42586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 362</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:16:26 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.6727,-26.18239,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 363</name>
+<description>Driver ID: 1648
+Time: 6/10/2016 3:16:39 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>115.9956,-32.35695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 364</name>
+<description>Driver ID: 132
+Time: 6/10/2016 3:16:54 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.1313,-33.94267,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 366</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:13:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.8861,-31.45092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 367</name>
+<description>Driver ID: 164
+Time: 6/10/2016 3:16:54 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.9823,-33.93692,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 368</name>
+<description>Driver ID: 78
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>138.7268,-34.8208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 369</name>
+<description>Driver ID: 1473
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>138.28,-35.47766,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 372</name>
+<description>Driver ID: 2312
+Time: 6/10/2016 3:17:14 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>138.5225,-35.03622,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 375</name>
+<description>Driver ID: 1201
+Time: 6/10/2016 3:17:36 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.9884,-27.44378,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 376</name>
+<description>Driver ID: 1054
+Time: 6/10/2016 3:16:46 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.7579,-16.94781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 382</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:14:19 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.8338,-34.03322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 383</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:15:12 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.8342,-34.03311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 385</name>
+<description>Driver ID: 1175
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>148.1738,-33.13319,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 386</name>
+<description>Driver ID: 1739
+Time: 6/10/2016 3:17:24 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.6838,-27.66514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 387</name>
+<description>Driver ID: 1403
+Time: 6/10/2016 3:17:13 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.4038,-27.92464,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 388</name>
+<description>Driver ID: 1744
+Time: 6/10/2016 3:17:27 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0716,-27.61825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 389</name>
+<description>Driver ID: 1404
+Time: 6/10/2016 3:16:49 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.2094,-27.53664,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 391</name>
+<description>Driver ID: 1745
+Time: 6/10/2016 3:17:01 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9812,-27.2585,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 394</name>
+<description>Driver ID: 1771
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0863,-27.55206,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 395</name>
+<description>Driver ID: 118
+Time: 6/10/2016 3:17:05 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>115.8479,-32.61447,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 401</name>
+<description>Driver ID: 194
+Time: 6/10/2016 3:17:36 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>143.5018,-35.24044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 402</name>
+<description>Driver ID: 5149
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.0605,-38.22292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 403</name>
+<description>Driver ID: 1361
+Time: 6/10/2016 3:17:31 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.7069,-33.78305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 408</name>
+<description>Driver ID: 1673
+Time: 6/10/2016 3:16:59 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9978,-26.55783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 412</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:17:23 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>150.834,-34.03311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 417</name>
+<description>Driver ID: 5920
+Time: 6/10/2016 3:17:23 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1345,-27.41764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 418</name>
+<description>Driver ID: 1743
+Time: 6/10/2016 3:17:16 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.3989,-27.9348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 419</name>
+<description>Driver ID: 5148
+Time: 6/10/2016 3:16:36 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.327,-35.92211,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 422</name>
+<description>Driver ID: 383
+Time: 6/10/2016 3:17:26 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.1317,-33.87639,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 426</name>
+<description>Driver ID: 0
+Time: 6/10/2016 3:14:06 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.1388,-9.437778,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 430</name>
+<description>Driver ID: 1672
+Time: 6/10/2016 3:17:08 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0734,-27.654,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 432</name>
+<description>Driver ID: 1399
+Time: 6/10/2016 3:16:39 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.8644,-27.56428,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 434</name>
+<description>Driver ID: 1045
+Time: 6/10/2016 3:17:34 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>133.8573,-23.70975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 439</name>
+<description>Driver ID: 1386
+Time: 6/10/2016 3:16:43 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1254,-27.49419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 441</name>
+<description>Driver ID: 5931
+Time: 6/10/2016 3:16:36 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.8856,-37.77219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 501</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:15 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.4061,-33.28439,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 502</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:17 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.8288,-32.67264,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 510</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.9214,-27.57942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 511</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:11 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.4625,-36.36114,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 515</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>116.6918,-32.88253,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 516</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:05 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.0456,-33.89925,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 517</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:18 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>134.1994,-19.58108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 531</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:20 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.0894,-27.55619,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 533</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:17:36 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.1329,-27.4143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 535</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:16:42 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>152.9585,-26.90892,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 536</name>
+<description>Driver ID: 4
+Time: 6/10/2016 3:16:52 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>153.133,-27.41553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 582</name>
+<description>Driver ID: 1574
+Time: 6/10/2016 3:17:10 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>118.9153,-34.21453,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 604</name>
+<description>Driver ID: 1586
+Time: 6/10/2016 3:17:03 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>151.6358,-32.78592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1003</name>
+<description>Driver ID: 1551
+Time: 6/10/2016 3:17:32 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.1401,-9.437222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1005</name>
+<description>Driver ID: 1550
+Time: 6/10/2016 3:15:54 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.1812,-9.445972,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1011</name>
+<description>Driver ID: 172
+Time: 6/10/2016 3:17:11 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.0224,-6.717028,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1012</name>
+<description>Driver ID: 23
+Time: 6/10/2016 3:17:01 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>147.0046,-6.722055,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1014</name>
+<description>Driver ID: 135
+Time: 6/10/2016 3:16:46 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>144.2323,-5.854694,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Vehicle: 1024</name>
+<description>Driver ID: 124
+Time: 6/10/2016 3:17:17 PM</description>
+<styleUrl>#nrc-kml-icons</styleUrl>
+<Point>
+<coordinates>145.3446,-5.567111,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

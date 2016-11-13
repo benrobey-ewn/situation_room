@@ -1,0 +1,48 @@
+/* aus post code css */
+
+.SvgOverlay svg {
+    position: absolute;
+    top: -4000px;
+    left: -4000px;
+    width: 8000px;
+    height: 8000px;        
+}
+        
+.SvgOverlay path {
+    stroke: Orange;
+    stroke-width: 2px;
+    fill: Orange;
+    fill-opacity: .3;
+}
+        
+.SvgOverlay path.boundaryprox0 {
+    stroke: #C03F00;
+    stroke-width: 2px;
+    fill: #C03F00;
+    fill-opacity: .3;
+}
+.SvgOverlay path.boundaryprox1 {
+    stroke: #DB7605;
+    stroke-width: 2px;
+    fill: #DB7605;
+    fill-opacity: .3;
+}
+.SvgOverlay path.boundaryprox2 {
+    stroke: Yellow;
+    stroke-width: 2px;
+    fill: Yellow;
+    fill-opacity: .3;
+}
+.SvgOverlay path:hover {
+    stroke: #00D500;
+    stroke-width: 2px;
+    fill: #00D500;
+    fill-opacity: .3;
+}
+
+svg 
+{
+	border: 1px solid purple;
+	stroke: purple;
+	stroke-width: 1px;
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+		<Document>
+			<name>Testing polygon earth.kml</name>
+			<Style id="s_ylw-pushpin">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>assets/img/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>78000000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin_hl">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>assets/img/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>78000000</color>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+					<name>Triangle</name>
+					<description>A triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry. A triangle with vertices A, B, and C is denoted</description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								128.9794921875,-26.017297563851734
+140.99853515625,-25.997549919572098
+138.01025390625,-16.699340234594537
+128.9794921875,-26.017297563851734
+
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+	</kml>

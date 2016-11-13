@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>KML Layers</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+  }
+  #map_canvas {
+      height: 100%;
+  }
+</style>
+</head>
+<body onload="initMap()">
+    <input type="button" value="Clear All" id="clearall" onclick="allClear()">
+    <div id="map_canvas"></div>
+
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyDu9rvCu-0n6phmMQAvpXJniDiZ-4qeB1U"></script>
+    <script src="https://rawgit.com/makeusabrew/bootbox/f3a04a57877cab071738de558581fbc91812dce9/bootbox.js"></script>
+    <script type="text/javascript" src="geoxml3.js"></script>
+    <script charset="utf-8">
+        var polygonAry = [];
+        var polygonAryIndex;
+        var geoXml = null;
+        var map = null;
+        var myLatLng = null;
+   // var kmlUrl = 'http://situationroom.ewn.com.au/test_kml/polylines.kml';
+   var kmlUrl = 'http://situationroom.ewn.com.au/test_kml/Hume_highway.kml';
+   function initMap() { 
+    var myOptions = {
+      zoom: 11,
+      center: new google.maps.LatLng(41.876,-87.624),
+          //mapTypeId: google.maps.MapTypeId.HYBRID
+      };
+
+      map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+      geoXml = new geoXML3.parser({
+          map: map,
+          singleInfoWindow: true,
+          afterParse: allClear
+      });
+      geoXml.parse(kmlUrl);
+  }
+
+
+  function useTheData(doc)
+  {  
+    geoXmlDoc = doc[0];
+    for (var i = 0; i < geoXmlDoc.gpolygons.length; i++)
+    {
+      google.maps.event.addListener(geoXmlDoc.gpolygons[0],"click",function() {  
+        if(geoXmlDoc.gpolygons[0].fillColor ==  "#ee0000"){
+          geoXmlDoc.gpolygons[0].setOptions({fillColor: "#000000"});
+        } else {
+           geoXmlDoc.gpolygons[0].setOptions({fillColor: "#ee0000"});
+        }
+     // sendNotification();
+ });
+  }
+}
+
+function allClear(doc)
+{
+    geoXmlDoc = doc;
+    console.log(doc);
+}
+</script>
+</body>
+</html>
+
+
+
+

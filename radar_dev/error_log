@@ -1,0 +1,1 @@
+[14-Apr-2015 17:34:24 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar_dev/includes/config.php on line 74
