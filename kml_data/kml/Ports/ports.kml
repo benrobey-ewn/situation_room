@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="customIcon">
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://ezwebware.com/kml/icons/boatcrane.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+
+		<Placemark>
+			<name>ABBOT POINT, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>148.083,-19.883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AIRLIE ISLAND, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Novus West Australia<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.167,-21.323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALBANY, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Albany Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.albanyport.com.au">Albany Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>117.917,-34.967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARDROSSAN, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.915,-34.424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BARROW ISLAND, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Chevron Australia<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.406,-20.798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BING BONG, Northern Territory</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>MIM<br/>
+<b>State: </b>Northern Territory<br/>
+<b>Websites</b><br/>
+<a href="http://www.mim.com.au/mcarthur.html">Bing Bong Port</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>136.393,-15.627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRISBANE, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port of Brisbane Corporation<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.portbris.com.au">Port of Brisbane</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>153.165,-27.373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BROOME, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Broome Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.broomeport.com.au">Port of Broome</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>122.234,-17.974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUNBURY, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Bunbury Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.byport.com.au">Bunbury Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.636,-33.318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUNDABERG, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Bundaberg Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.bundabergportmarina.com.au">Bundaberg Port Marina</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>152.403,-24.752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BURNIE, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Burnie Port Corporation Pty Ltd<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.burnieport.com.au">Burnie Port Corporation</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.918,-41.064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAIRNS, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Cairns Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.cairnsport.com.au">Cairns Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.783,-16.901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAPE CUVIER, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>113.392,-24.223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAPE FLATTERY, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.35,-14.948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAPE JERVIS, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>138.106,-35.606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAPE LAMBERT - Port Walcott, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Robe River Iron Associates<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.roberiver.com">Robe River Iron Associates</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>117.189,-20.65,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CATHERINE HILL BAY, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.excelcoal.com.au">Excel Coal</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>151.635,-33.157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CHRISTMAS ISLAND - Flying Fish Cove, </name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Websites</b><br/>
+<a href="http://www.christmas.net.au">Christmas Island</a><br/>
+<a href="http://www.dotars.gov.au">DoTARS</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>105.673,-10.427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COCOS (KEELING) ISLANDS), </name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Websites</b><br/>
+<a href="http://www.dotars.gov.au">DoTARS</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>96.823,-12.166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DALRYMPLE BAY, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.primeinfrastructure.com.au">Prime Infrastructure</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>149.287,-21.265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DAMPIER, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Dampier Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.dpa.wa.gov.au">Dampier Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>116.75,-20.617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DARWIN, Northern Territory</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Darwin Port Corporation<br/>
+<b>State: </b>Northern Territory<br/>
+<b>Websites</b><br/>
+<a href="http://www.nt.gov.au/dpa/">Port of Darwin</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>130.841,-12.463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DERBY, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Western Metals<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>123.629,-17.303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DEVONPORT, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port of Devonport Corporation Pty Ltd<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.portdev.com.au">Port of Devonport</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>146.309,-41.215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDEN, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Eden (NSW Waterways)<br/>
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.eden.nsw.gov.au">Port of Eden</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>149.942,-37.075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESPERANCE, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Esperance Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.esperanceport.com.au">Esperance Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>121.888,-33.866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FLINDERS ISLAND, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersislandonline.com.au">Flinders Island</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>148.24,-40.215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FREMANTLE, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Fremantle Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.freport.wa.gov.au">Fremantle Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.741,-32.052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEELONG, Victoria</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Geelong Port (Toll)<br/>
+<b>State: </b>Victoria<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>144.479,-38.12,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GERALDTON, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Geraldton Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.geroport.wa.gov.au">Geraldton Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>114.614,-28.779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GLADSTONE, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Gladstone Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.gpa.org.au">Gladstone Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>151.256,-23.843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOVE, Northern Territory</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Alcan<br/>
+<b>State: </b>Northern Territory<br/>
+<b>Websites</b><br/>
+<a href="http://www.alcangove.com.au/">Alcan Gove Pty Limited</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>136.681,-12.235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HASTINGS, Victoria</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Toll Ports<br/>
+<b>State: </b>Victoria<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.288,-38.266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HAY POINT, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>149.335,-21.217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HOBART, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Hobart Ports Corporation Pty Ltd<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.hpc.com.au">Hobart Ports Corporation</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>147.295,-42.887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KANGAROO ISLAND - Kingscote, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.662,-35.646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KANGAROO ISLAND - Penneshaw, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.941,-35.715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KARUMBA, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>140.84,-17.484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KING ISLAND, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Hobart Ports Corporation<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.hpc.com.au/king-island.htm">Port of Grassy</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>144.058,-40.069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KLEIN POINT, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Flinders Ports<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.766,-34.966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KWINANA, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.kwinanaport.com">Port Kwinana</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.757,-32.246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAUNCESTON, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port of Launceston Pty Ltd<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.portlaun.com.au">Port of Launceston</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>146.8550799,-41.14052843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LORD HOWE ISLAND, </name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>159.068,-31.515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUCINDA, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>146.337,-18.526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MACKAY, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Mackay Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.mackayports.com">Mackay Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>149.235,-21.166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MELBOURNE, Victoria</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Melbourne Port Corporation<br/>
+<b>State: </b>Victoria<br/>
+<b>Websites</b><br/>
+<a href="http://www.portofmelbourne.com">Port of Melbourne</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>144.905,-37.843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MILNER BAY, Northern Territory</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>GEMCO<br/>
+<b>State: </b>Northern Territory<br/>
+<b>Websites</b><br/>
+<a href="http://www.samancor.co.za/manganese/Gemco.htm">Samancor</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>136.415,-13.856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOURILYAN, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>146.122,-17.61,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEWCASTLE, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Newcastle Port Corporation<br/>
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.newcastlempt.com.au">Newcastle Multi-Purpose Terminal</a><br/>
+<a href="http://www.newportcorp.com.au">Newcastle Port Corporation</a><br/>
+<a href="http://www.pwcs.com.au">Port Waratah Coal Services</a>
+				]]>
+			</description>
+			<Point>
+				<coordinates>151.785,-32.923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NORFOLK ISLAND, </name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Transam Argosy<br/>
+<b>Websites</b><br/>
+<a href="http://www.dotars.gov.au">DoTARS</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>167.957,-29.058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT ADELAIDE, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port Adelaide (PSCA)<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>138.499,-34.85,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT BONYTHON, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Santos Limited<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.763,-32.984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT GILES, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port Giles (SA)<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.766,-35.044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT HEDLAND, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port Hedland Port Authority<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.phpa.wa.gov.au">Port Hedland Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>118.601,-20.31,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT KEMBLA, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port Kembla Port Corporation<br/>
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.kemblaport.com.au">Port Kembla Port Corpration</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>150.901,-34.465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT LATTA, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.ivanhoe-mines.com">Ivanhoe Mines</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.381,-40.853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT LINCOLN, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Flinders Ports<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>135.93,-34.739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT PIRIE, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Flinders Ports<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+<a href="http://www.zinifex.com">Zinifex Ltd</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.954,-33.107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORT STANVAC, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>138.471,-35.109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORTLAND, Victoria</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Port of Portland<br/>
+<b>State: </b>Victoria<br/>
+<b>Websites</b><br/>
+<a href="http://www.portofportland.com.au">Port of Portland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>141.602,-38.358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>QUINTELL BEACH, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>143.364,-12.78,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROCKHAMPTON - Port Alma, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Rockhampton Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.rpaport.com.au">Rockhampton Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>150.869,-23.57,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SKARDON RIVER, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>142,-11.767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STANLEY, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Hobart Ports Corporation<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.hpc.com.au/stanley.htm">Port of Stanley</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>145.303,-40.769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SYDNEY, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Sydney Ports<br/>
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.sydports.com.au">Sydney Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>151.251,-33.848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>THEVENARD, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Flinders Ports<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>133.651,-32.151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>THEVENARD ISLAND - Saladin, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Chevron Australia<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>114.989,-21.457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>THURSDAY ISLAND, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>142.221,-10.585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOWNSVILLE, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Townsville Port Authority<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.townsville-port.com.au">Townsville Port Authority</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>146.922,-19.218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TRIABUNNA - Spring Bay, Tasmania</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Hobart Ports Corporation<br/>
+<b>State: </b>Tasmania<br/>
+<b>Websites</b><br/>
+<a href="http://www.hpc.com.au/triabunna.htm">Port of Triabunna</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>147.914,-42.528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USELESS LOOP, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>113.396,-26.119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VARANUS ISLAND, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Apache Energy<br/>
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>115.576,-20.65,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WALLAROO, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Flinders Ports<br/>
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.flindersports.com.au">Flinders Ports</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.627,-33.94,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WEIPA, Queensland</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>Ports Corporation of Queensland<br/>
+<b>State: </b>Queensland<br/>
+<b>Websites</b><br/>
+<a href="http://www.pcq.com.au">Ports Corporation of Queensland</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>141.879,-12.63,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WHYALLA, South Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>South Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.onesteel.com.au">Onesteel Ltd</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>137.593,-33.016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WYNDHAM, Western Australia</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>State: </b>Western Australia<br/>
+<b>Websites</b><br/>
+<a href="http://www.aapma.org.au">AAPMA</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>128.164,-15.021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YAMBA, New South Wales</name>
+			<styleUrl>#customIcon</styleUrl>
+			<description>
+				<![CDATA[
+<b>Operator: </b>NSW Waterways<br/>
+<b>State: </b>New South Wales<br/>
+<b>Websites</b><br/>
+<a href="http://www.yamba.nsw.gov.au">Port of Yamba</a><br/>
+
+				]]>
+			</description>
+			<Point>
+				<coordinates>153.359,-29.44,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

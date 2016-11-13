@@ -1,0 +1,20 @@
+[19-Aug-2015 01:33:29 Australia/Melbourne] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/includes/config.php on line 128
+[19-Aug-2015 01:33:29 Australia/Melbourne] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/includes/config.php on line 136
+[19-Aug-2015 01:33:29 Australia/Melbourne] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/situatio/public_html/includes/config.php:128) in /home/situatio/public_html/includes/config.php on line 216
+[19-Aug-2015 01:33:29 Australia/Melbourne] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/situatio/public_html/includes/config.php:128) in /home/situatio/public_html/includes/config.php on line 216
+[19-Aug-2015 01:33:29 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/situatio/public_html/includes/config.php:128) in /home/situatio/public_html/push/push_alerts.php on line 4
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string(): Entity: line 66: parser error : CData section not finished
+WA Great Northern Highway, 60 kilometres east of R in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():  in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string(): Entity: line 66: parser error : Premature end of data in tag TextForWebCDATA line 39 in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():  in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string(): Entity: line 66: parser error : Premature end of data in tag AlertContent line 3 in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():  in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string(): Entity: line 66: parser error : Premature end of data in tag APIPushAlert line 2 in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():  in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/situatio/public_html/push/push_alerts.php on line 37
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/situatio/public_html/push/push_alerts.php on line 106
+[12-Oct-2015 18:43:44 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/situatio/public_html/push/push_alerts.php on line 142

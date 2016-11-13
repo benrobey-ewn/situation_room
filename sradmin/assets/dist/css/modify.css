@@ -1,0 +1,36 @@
+body { background: #0ca3d2 !important;}
+.skin-blue .main-header li.user-header { background: #0ca3d2 !important;}
+.main-header nav { background:#fff !important;}
+.skin-blue .main-header .navbar .sidebar-toggle, .skin-blue .main-header .navbar .nav > li > a { color:#5b5b5b;}
+.skin-blue .main-header .logo { background:#fff; color:#5b5b5b; border: 1px solid #bbb; border-top:none; border-left:none;}
+.skin-blue .main-header .logo:hover { background:#fff;}
+.skin-blue .main-header .navbar .nav > li > a:hover, .skin-blue .main-header .navbar .nav > li > a:active, .skin-blue .main-header .navbar .nav > li > a:focus, .skin-blue .main-header .navbar .nav .open > a, .skin-blue .main-header .navbar .nav .open > a:hover, .skin-blue .main-header .navbar .nav .open > a:focus { color:#5b5b5b;}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side { background:#fff; border-right:solid 1px #bbb;}
+.skin-blue .user-panel > .info, .skin-blue .user-panel > .info > a { color:#5b5b5b;}
+.skin-blue .sidebar a {color: #5b5b5b;}
+.skin-blue .sidebar-menu > li > .treeview-menu { margin:0px; background:#fff; padding-left: 0px;}
+.skin-blue .treeview-menu > li > a { color:#5b5b5b;}
+.skin-blue .treeview-menu > li.active > a, .skin-blue .treeview-menu > li > a {  transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-ms-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;-webkit-transition:all 0.3s ease 0s;}
+.skin-blue .treeview-menu > li.active > a, .skin-blue .treeview-menu > li > a:hover, .skin-blue .main-header .navbar .sidebar-toggle:hover {
+  background-color: #fbaf3f;
+  background-image: linear-gradient(to right, #ef5d34, #fbaf3f);
+  background-repeat: repeat-x;
+  color:#fff;
+   text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25); -moz-  text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);-ms-  text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);-o-  text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);-webkit-  text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);
+
+}
+.nav-tabs-custom > .nav-tabs > li.active {
+  border-top-color: #fbaf3f;
+}
+.btn-success {
+  background-color: #92c83d;
+  border-color: #92c83d;
+}
+.btn-danger {
+  background-color: #f2642b;
+  border-color: #f2642b;
+}
+.btn-info {
+  background-color: #337ab7;
+  border-color: #337ab7;
+}

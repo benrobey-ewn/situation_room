@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Folder>
+		<name>floodwise_boondall_z10_outline.kml</name>
+		<description>1 Items from Layer Ffa_zil10</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.050536,-27.356746,0 153.04981,-27.361278,0 153.061457,-27.365347,0 153.060921,-27.358168,0 153.050536,-27.356746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_brookfield_m3_outline.kml</name>
+		<description>Polygon M3</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							152.929798,-27.5074,0 152.928108,-27.505963,0 152.927233,-27.506282,0 152.92612,-27.506388,0 152.92594,-27.507115,0 152.924905,-27.50894,0 152.924227,-27.51199,0 152.924922,-27.512788,0 152.924442,-27.516582,0 152.925059,-27.516493,0 152.927028,-27.515643,0 152.928759,-27.514829,0 152.931921,-27.514724,0 152.931722,-27.514156,0 152.931504,-27.51405,0 152.931882,-27.51304,0 152.930511,-27.511177,0 152.929856,-27.509333,0 152.929798,-27.5074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_corinda_ox4_outline.kml</name>
+		<description>Polygon OX4</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							152.98581,-27.54698,0 152.980437,-27.546258,0 152.979173,-27.553471,0 152.986068,-27.554279,0 152.992413,-27.551885,0 152.992834,-27.544038,0 152.98649,-27.543057,0 152.98581,-27.54698,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_east_brisbane_nm20_outline.kml</name>
+		<description>1 Items from Layer Ffa_nor20</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.050009,-27.487864,0 153.04887,-27.488178,0 153.048602,-27.489449,0 153.047262,-27.489225,0 153.041831,-27.488494,0 153.039573,-27.488242,0 153.039255,-27.490179,0 153.039879,-27.490647,0 153.04057,-27.491585,0 153.041406,-27.494254,0 153.044381,-27.494696,0 153.044348,-27.495145,0 153.041298,-27.496266,0 153.041361,-27.496715,0 153.042556,-27.498075,0 153.044098,-27.498522,0 153.04864,-27.49882,0 153.050668,-27.498834,0 153.0506,-27.496697,0 153.049358,-27.494791,0 153.052339,-27.493248,0 153.052727,-27.493871,0 153.055224,-27.4926,0 153.055576,-27.492301,0 153.055559,-27.492092,0 153.057151,-27.491329,0 153.054455,-27.487286,0 153.050177,-27.486668,0 153.050009,-27.487864,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_hemmant_bm10_outline.kml</name>
+		<description>1 Items from Layer Ffa_bul10</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.119842,-27.444614,0 153.119245,-27.447654,0 153.120231,-27.44777,0 153.121249,-27.447857,0 153.122236,-27.448677,0 153.126372,-27.447061,0 153.125779,-27.445567,0 153.119842,-27.444614,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_hemmant_hm10_outline.kml</name>
+		<description>1 Items from Layer Ffa_hem10</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.127324,-27.447636,0 153.123427,-27.448752,0 153.123746,-27.44958,0 153.123907,-27.451212,0 153.123989,-27.453224,0 153.124379,-27.454609,0 153.12461,-27.455166,0 153.125103,-27.455986,0 153.125367,-27.456396,0 153.125794,-27.456748,0 153.125827,-27.456748,0 153.126255,-27.457187,0 153.12642,-27.457539,0 153.126322,-27.457949,0 153.126355,-27.45833,0 153.12606,-27.459122,0 153.12606,-27.45938599999999,0 153.126144,-27.459563,0 153.128982,-27.45885,0 153.131421,-27.458115,0 153.133145,-27.457616,0 153.133968,-27.458444,0 153.133626,-27.460597,0 153.13864,-27.46134899999999,0 153.138895,-27.453044,0 153.137277,-27.452738,0 153.137882,-27.449117,0 153.127324,-27.447636,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_herston_b4_outline.kml</name>
+		<description>Polygon B4</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffa0a0ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.03097,-27.438024,0 153.027103,-27.437529,0 153.027004,-27.438095,0 153.025616,-27.440927,0 153.019964,-27.44459,0 153.021353,-27.447032,0 153.022226,-27.446395,0 153.02298,-27.44604199999999,0 153.022996,-27.445963,0 153.024487,-27.445952,0 153.026688,-27.445669,0 153.027243,-27.445598,0 153.029643,-27.446022,0 153.03097,-27.438024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_northgate_pd2_outline.kml</name>
+		<description>Polygon PD2</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffffa0ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.072809,-27.402691,0 153.072841,-27.401213,0 153.075158,-27.397782,0 153.070998,-27.393557,0 153.067869,-27.395717,0 153.065618,-27.398053,0 153.065057,-27.401512,0 153.072809,-27.402691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_rocklea_r10_outline.kml</name>
+		<description>1 Items from Layer Ffa_rwh10</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.024553,-27.552206,0 153.021735,-27.544312,0 153.016446,-27.541282,0 153.016396,-27.541236,0 153.016393,-27.541231,0 153.01176,-27.533329,0 153.010867,-27.531806,0 153.01086,-27.531793,0 153.010564,-27.531115,0 153.001567,-27.531157,0 153.000726,-27.531607,0 153.000891,-27.536819,0 153.000892,-27.536855,0 153.006361,-27.539289,0 153.006369,-27.539293,0 153.006396,-27.539311,0 153.007044,-27.539846,0 153.007066,-27.53987,0 153.007128,-27.539951,0 153.007283,-27.540045,0 153.007975,-27.540412,0 153.007981,-27.540416,0 153.008546,-27.540751,0 153.008559,-27.54076,0 153.008997,-27.541085,0 153.009433,-27.541279,0 153.009441,-27.541283,0 153.009454,-27.541291,0 153.010151,-27.541744,0 153.010157,-27.541748,0 153.01054,-27.542025,0 153.011341,-27.542392,0 153.011806,-27.542606,0 153.011812,-27.542609,0 153.011829,-27.542619,0 153.012168,-27.542854,0 153.012184,-27.542867,0 153.012636,-27.543286,0 153.01264,-27.54329,0 153.0136,-27.544246,0 153.013611,-27.544259,0 153.014749,-27.545029,0 153.015297,-27.54538700000001,0 153.015605,-27.545673,0 153.0159,-27.545899,0 153.018334,-27.5477,0 153.019018,-27.548211,0 153.019599,-27.548227,0 153.0198,-27.548167,0 153.019848,-27.54816,0 153.019891,-27.548165,0 153.02021,-27.548249,0 153.020547,-27.548333,0 153.020583,-27.548346,0 153.020583,-27.548346,0 153.021144,-27.548636,0 153.021514,-27.548699,0 153.021561,-27.548715,0 153.021608,-27.548752,0 153.021755,-27.548932,0 153.022183,-27.549363,0 153.022201,-27.549385,0 153.022203,-27.549389,0 153.022498,-27.549881,0 153.022808,-27.550223,0 153.022822,-27.55024,0 153.022837,-27.550273,0 153.022903,-27.550494,0 153.023194,-27.550783,0 153.023602,-27.551114,0 153.023631,-27.551146,0 153.023639,-27.551161,0 153.02379,-27.551474,0 153.024087,-27.55163599999999,0 153.024136,-27.551678,0 153.02443,-27.552088,0 153.024553,-27.552206,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_rocklea_ss10_outline.kml</name>
+		<description>1 Items from Layer Ffa_ssw10</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.011089,-27.54258,0 153.010387,-27.542258,0 153.010384,-27.542257,0 153.010381,-27.54225599999999,0 153.01038,-27.542255,0 153.010374,-27.542251,0 153.010367,-27.542247,0 153.010361,-27.542243,0 153.009968,-27.54196,0 153.009285,-27.541516,0 153.008845,-27.54132,0 153.00884,-27.541317,0 153.008838,-27.541316,0 153.008837,-27.541316,0 153.00883,-27.541312,0 153.008823,-27.541308,0 153.008816,-27.54130200000001,0 153.00837,-27.540971,0 153.007815,-27.54064199999999,0 153.007123,-27.540275,0 153.007121,-27.540274,0 153.007118,-27.540272,0 153.007115,-27.54027,0 153.006932,-27.540159,0 153.006917,-27.540148,0 153.006904,-27.540136,0 153.006892,-27.540123,0 153.006824,-27.540033,0 153.006205,-27.539521,0 153.000901,-27.537161,0 153.001105,-27.543628,0 153.001105,-27.543631,0 153.001105,-27.543632,0 153.001105,-27.54375599999999,0 153.001389,-27.548304,0 153.006532,-27.556,0 153.00752,-27.556265,0 153.008591,-27.554449,0 153.008799,-27.552972,0 153.00915,-27.54934,0 153.00915,-27.549337,0 153.00915,-27.549334,0 153.009151,-27.549332,0 153.009783,-27.545384,0 153.009787,-27.545368,0 153.009794,-27.545352,0 153.009802,-27.545336,0 153.009807,-27.545328,0 153.009813,-27.545321,0 153.009819,-27.545315,0 153.01029,-27.544835,0 153.011089,-27.54258,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_rocklea_ss20_outline.kml</name>
+		<description>1 Items from Layer Ffa_ssw20</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff0080</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.024994,-27.553441,0 153.024771,-27.552818,0 153.024197,-27.552261,0 153.024181,-27.552243,0 153.023898,-27.551849,0 153.02359,-27.551681,0 153.023537,-27.551634,0 153.023529,-27.551619,0 153.023373,-27.551294,0 153.022983,-27.550978,0 153.022972,-27.550968,0 153.022652,-27.550649,0 153.022634,-27.550627,0 153.022618,-27.550594,0 153.022551,-27.55037,0 153.022252,-27.55004,0 153.022238,-27.550023,0 153.022236,-27.550019,0 153.021943,-27.54953,0 153.021522,-27.54910599999999,0 153.021513,-27.549096,0 153.021397,-27.548954,0 153.021062,-27.548897,0 153.021014,-27.548881,0 153.021014,-27.548881,0 153.020447,-27.548588,0 153.020127,-27.548509,0 153.020125,-27.548508,0 153.019851,-27.548436,0 153.01967,-27.54849,0 153.019622,-27.548497,0 153.019618,-27.548497,0 153.019057,-27.548546,0 153.018883,-27.548534,0 153.01713,-27.54727,0 153.016328,-27.546662,0 153.014629,-27.545411,0 153.013367,-27.54442,0 153.012415,-27.543471,0 153.011972,-27.543061,0 153.011653,-27.542839,0 153.011363,-27.542706,0 153.011215,-27.542669,0 153.010572,-27.544479,0 153.010418,-27.544937,0 153.00993,-27.545395,0 153.009261,-27.549428,0 153.008902,-27.553049,0 153.008722,-27.554332,0 153.007591,-27.556302,0 153.008222,-27.556453,0 153.008254,-27.556465,0 153.00831,-27.556514,0 153.00833,-27.556582,0 153.008323,-27.556622,0 153.008103,-27.557249,0 153.008375,-27.558861,0 153.008376,-27.558881,0 153.008374,-27.558905,0 153.007942,-27.560982,0 153.011422,-27.561374,0 153.011427,-27.561375,0 153.015987,-27.562031,0 153.01599,-27.562032,0 153.019933,-27.562663,0 153.02028,-27.560299,0 153.020464,-27.559027,0 153.020471,-27.558998,0 153.020702,-27.558424,0 153.020713,-27.558402,0 153.020716,-27.558398,0 153.021498,-27.557273,0 153.021543,-27.557232,0 153.0244,-27.55552,0 153.024994,-27.553441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_wynnum_w1_outline.kml</name>
+		<description>Polygon W1</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffff00ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.167993,-27.442599,0 153.169485,-27.444496,0 153.172338,-27.44227,0 153.171625,-27.44158,0 153.172319,-27.441072,0 153.172191,-27.440029,0 153.174873,-27.438137,0 153.174016,-27.435292,0 153.1695,-27.43665,0 153.170357,-27.43896,0 153.168115,-27.439583,0 153.168527,-27.44045699999999,0 153.166917,-27.441079,0 153.167993,-27.442599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>floodwise_wynnum_west_w2_outline.kml</name>
+		<description>Polygon W2</description>
+		<Placemark>
+			<name>MapInfo Saved Objects</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Field1</td><td></td></tr>]]></description>
+			<Style>
+				<LineStyle>
+					<color>ffffd580</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+					<outline>1</outline>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							153.164585,-27.454006,0 153.163492,-27.452371,0 153.163488,-27.449982,0 153.165645,-27.450156,0 153.166859,-27.449182,0 153.167454,-27.449601,0 153.169238,-27.448294,0 153.168542,-27.447565,0 153.170729,-27.445865,0 153.169485,-27.444496,0 153.167972,-27.44259,0 153.16447,-27.443544,0 153.165216,-27.445247,0 153.162687,-27.44494,0 153.161998,-27.448612,0 153.159965,-27.448283,0 153.159204,-27.453283,0 153.164585,-27.454006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Folder>
+</kml>

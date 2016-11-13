@@ -1,0 +1,68 @@
+[30-Jul-2015 09:37:40 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[30-Jul-2015 09:37:40 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[30-Jul-2015 09:37:40 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[19-Aug-2015 01:34:23 Australia/Melbourne] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/includes/config.php on line 128
+[19-Aug-2015 01:34:23 Australia/Melbourne] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/includes/config.php on line 136
+[19-Aug-2015 01:34:23 Australia/Melbourne] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/situatio/public_html/includes/config.php:128) in /home/situatio/public_html/includes/config.php on line 216
+[19-Aug-2015 02:14:20 Australia/Melbourne] PHP Parse error:  syntax error, unexpected ''layer' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/situatio/public_html/includes/config.php on line 147
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 8
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 8
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 9
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 9
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 11
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 11
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 12
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 12
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 14
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 14
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 15
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 15
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 107
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_query(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 107
+[19-Aug-2015 02:34:19 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 8
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 8
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 9
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 9
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 11
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 11
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 12
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 12
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 14
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 14
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 15
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 15
+[30-Aug-2015 17:58:04 Australia/Melbourne] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 107
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_query(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 107
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 8
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 8
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 9
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 9
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 11
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 11
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 12
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 12
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 14
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 14
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 15
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 15
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 107
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_query(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 107
+[30-Aug-2015 17:58:05 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[03-Sep-2015 18:02:57 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 8
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 8
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 9
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 9
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 11
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 11
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 12
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 12
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 14
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 14
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 15
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 15
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/situatio/public_html/radar/getRadar.php on line 107
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_query(): A link to the server could not be established in /home/situatio/public_html/radar/getRadar.php on line 107
+[29-Sep-2015 23:09:26 Australia/Melbourne] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/situatio/public_html/radar/getRadar.php on line 108
