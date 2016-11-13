@@ -33,7 +33,11 @@
 	var appendhtml;
 	var listpostcodes;
 	var label_class;
-	
+	var allD3bounds = [];
+	var layerP = false;
+	var svgP = false;
+
+
 	function show_nbn_loader() {
 	$("div.nbn-data-layers").find(".heading-name").after('<span class="ajaxwaitobj gauge-load"><i class=" fa fa-spinner fa-pulse icon-spin fa-2x"></i></span>');
 	}
@@ -54,11 +58,13 @@
 
 			post_overlayP.onAdd = function () {
 				//console.log("overlay onAdd");
-				var layerP = d3.select(this.getPanes().overlayMouseTarget).append("div").attr("class", "SvgOverlayP basins");
+				if(layerP == false) {
+					layerP = d3.select(this.getPanes().overlayMouseTarget).append("div").attr("class", "SvgOverlayP basins");
+				}
 				//console.log(svgP);
-				if (svgP)
-					$('svg').remove();
-				var svgP = layerP.append("svg").attr("width", width).attr("height", height);
+				if(svgP == false) {
+					svgP = layerP.append("svg").attr("width", width).attr("height", height);
+				}
 				var basinsP = svgP.append("g").attr("class", "basins");
 				var geometries=topology.objects.boundary.geometries;
 				//console.log(geometries.length);
@@ -80,11 +86,32 @@
 					}
 					var pathP = d3.geo.path().projection(googleMapProjectionP);
 
+					var basinPathsP = basinsP.selectAll("path")
+						.data(topojson.feature(topology, topology.objects.boundary).features)
+						.attr("d", pathP)
+						.enter().append("path")
+						.attr("d", pathP)
+						.attr("class", function(d){
+								if(checkClass.classes.hasOwnProperty(d.properties.name)){
+									return checkClass.classes[d.properties.name];
+								}else{
+									return 'activeG';
+								}
+							}
+
+						)
+						.attr("id", function(d){return "nbn_"+d.properties.name;})
+						.attr("title", function(d) {
+							var qhtml;
+							qhtml ='<div class="accordion_container"><a class="accordion_head" onclick="toggleModeOnOff(\'' + d.properties.name + '\');">'+d.properties.name+'<span class="hoverplusminus">+</span></a><div class="accordion_body" id="suburb_'+d.properties.name+'" style="display: none;overflow-y:scroll !important;max-height:400px;"><div>';
+							return qhtml;
+						})
+						.on('click', clickP)
+						.append("svg:title");
 
 				};
+
 			};
-
-
 
 
 			post_overlayP.onRemove = function () {
@@ -127,56 +154,26 @@
 			loadLayer(base+path);
 		});
 
-		$('svg path').qtip({
-			overwrite: true,
-			content: {
-				text: function(d) {
-					return ($(this).attr("title"));//returning the tooltip
-				}
-			},
-			position: {
-				/*viewport: $(window),*/
-				my: 'top right',  // Position my top left...
-				at: 'top center', // at the bottom right of...
-			},
-			hide: {
-				fixed: true,
-				delay: 300
-			},
-			style: 'qtip-light'
-		});
-
-		var layerP = d3.select(this.getPanes().overlayMouseTarget).append("div").attr("class", "SvgOverlayP basins");
-		//console.log(svgP);
-		if (svgP)
-			$('svg').remove();
-		var svgP = layerP.append("svg").attr("width", width).attr("height", height);
-		var basinsP = svgP.append("g").attr("class", "basins");
-
-		var basinPathsP = basinsP.selectAll("path")
-			.data(topojson.feature(topology, topology.objects.boundary).features)
-			.attr("d", pathP)
-			.enter().append("path")
-			.attr("d", pathP)
-			.attr("class", function(d){
-					if(checkClass.classes.hasOwnProperty(d.properties.name)){
-						return checkClass.classes[d.properties.name];
-					}else{
-						return 'activeG';
+		window.setTimeout(function() {
+			$('svg path').qtip({
+				overwrite: true,
+				content: {
+					text: function(d) {
+						return ($(this).attr("title"));//returning the tooltip
 					}
-				}
-
-			)
-			.attr("id", function(d){return "nbn_"+d.properties.name;})
-			.attr("title", function(d) {
-				var qhtml;
-				qhtml ='<div class="accordion_container"><a class="accordion_head" onclick="toggleModeOnOff(\'' + d.properties.name + '\');">'+d.properties.name+'<span class="hoverplusminus">+</span></a><div class="accordion_body" id="suburb_'+d.properties.name+'" style="display: none;overflow-y:scroll !important;max-height:400px;"><div>';
-				return qhtml;
-			})
-			.on("click", clickP)
-			.append("svg:title");
-
-
+				},
+				position: {
+					/*viewport: $(window),*/
+					my: 'top right',  // Position my top left...
+					at: 'top center', // at the bottom right of...
+				},
+				hide: {
+					fixed: true,
+					delay: 300
+				},
+				style: 'qtip-light'
+			});
+		}, 2000);
 
 
 		var centerControlDiv = document.createElement('div');
@@ -383,6 +380,7 @@
 	
 	//Click Event on Polygon
 	function clickP(d) {
+		console.log('sdfsdf')
 		if($("#drawing_mode").prop('checked') != true){
 			$("#alert_id").val('');
 			var temp_id = d.id;
@@ -390,7 +388,7 @@
 			var setPostcode=postid;
 			var $path = $("path#nbn_"+postid);
 			if(curr_user_access=='full_access'){
-				var classP = $path.attr('class'); 
+				var classP = $path.attr('class');
 
 			if(color_arr[postid] === undefined){
 				color_arr[postid] = classP;
