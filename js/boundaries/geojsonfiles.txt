@@ -1,2 +1,0 @@
-b-PC-geo.json
-b-SU-geo.json
