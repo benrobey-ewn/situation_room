@@ -139,7 +139,7 @@
 		//var path = "/js/boundaries/b-" + bTypeKey + "-geo-topo-" + z + ".json";
 
 		//i don't know how this shit is supposed to work so I'm going to load everything
-		var base = "/dev/js/boundaries/";
+		var base = "/js/boundaries/";
 
 		var paths = [
 			'b-PC-0-geo-topo-9.json',

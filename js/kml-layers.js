@@ -9,7 +9,7 @@ $( document ).ready(function() {
 function nrcKml() {
 	if ($("#hardcoded-kml").attr("checked")) {
 		//var url = 'http://situationroom.ewn.com.au/dev/kml/gps-position.kml';
-		var url = "//api3.ewn.com.au/exo/NrcTeleKml.aspx";
+		var url = "http://api3.ewn.com.au/exo/NrcTeleKml.aspx";
 		
 		if (nrcLayer !== '') {
 			nrcLayer.hideDocument();

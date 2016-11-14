@@ -9,13 +9,13 @@ class sit_room extends MysqliDb
 {
     // connection variables
     const DB_host = "localhost";
-    const DB_user = "situatio_dev";
+    const DB_user = "situatio_product";
     const DB_password = "sr*123";
-    const DB_database = "situatio_situationroom_dev";
+    const DB_database = "situatio_prod";
 
-    // useful variables 
+    // useful variables
     static $main_title = "Situation Room";
-    static $base_url = "http://situationroom.ewn.com.au/dev/sradmin/";
+    static $base_url = "http://situationroom.ewn.com.au/sradmin/";
     static $default_logo = "";
     public $data;
     public $arr = array();

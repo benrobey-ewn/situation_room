@@ -168,8 +168,10 @@ function bindPlacemarkClickEvent(placemark, requestID) {
 
 function remove_all_river_guages() {
 	for (var index in hashMarker) {
-		hashMarker[index].setMap(null);
-		delete hashMarker[index];
+		if (typeof hashMarker[index].setMap === "function") {
+			hashMarker[index].setMap(null);
+			delete hashMarker[index];
+		}
 	}
 	for (var index2 in clickedMarkerArr) {
 		delete clickedMarkerArr[index2];

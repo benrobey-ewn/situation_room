@@ -1,4 +1,6 @@
-<?php include 'includes/config.php'; 
+<?php
+error_reporting(E_ALL);
+include 'includes/config.php';
 include_once("includes/functions.php");
 if (empty($_SESSION['user_id'])) {
 	header('Location:login.php');

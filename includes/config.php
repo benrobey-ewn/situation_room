@@ -1,9 +1,9 @@
 <?php
 error_reporting(0);
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'password');
-define('DB_DATABASE', 'situatio_situationroom_dev');
+define('DB_USERNAME', 'situatio_product');
+define('DB_PASSWORD', 'sr*123');
+define('DB_DATABASE', 'situatio_prod');
 
 $con = mysql_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD);
 mysql_select_db(DB_DATABASE,$con);
@@ -164,17 +164,17 @@ $layer_names=array();
 $client_layers=array();
 
 $selectSQL = "SELECT DISTINCT layer_type,layer_id,placemarker_icon FROM layer_datas ORDER BY layer_data_id ASC ";
-$result = mysql_query($selectSQL); 
+$result = mysql_query($selectSQL);
 while($row=mysql_fetch_array($result)) {
-	if($row['layer_type']=='NBNWAS') {
-		$row['layer_type']=='NBN NWAS';
-	} else if($row['layer_type']=='NBNFAS') {
-		$row['layer_type']=='NBN NFAS';
-	}
-  $layer_names[$row['layer_id']]=array($row['layer_type'],$row['placemarker_icon']);
-  if($row['layer_id']>10) {
-     $client_layers[]=$row['layer_id'];
- }
+    if($row['layer_type']=='NBNWAS') {
+        $row['layer_type']=='NBN NWAS';
+    } else if($row['layer_type']=='NBNFAS') {
+        $row['layer_type']=='NBN NFAS';
+    }
+    $layer_names[$row['layer_id']]=array($row['layer_type'],$row['placemarker_icon']);
+    if($row['layer_id']>10) {
+        $client_layers[]=$row['layer_id'];
+    }
 }
 // get system information
 function system_info()
@@ -183,7 +183,7 @@ function system_info()
     $user_agent     =   $_SERVER['HTTP_USER_AGENT'];
 
     $os_platform    =   "Unknown OS Platform";
-    
+
     $browser        =   "Unknown Browser";
 
     $os_array       =   array(
@@ -210,43 +210,43 @@ function system_info()
         '/android/i'            =>  'Android',
         '/blackberry/i'         =>  'BlackBerry',
         '/webos/i'              =>  'Mobile',
-        '/Windows Phone/i'      =>   'Windows Phone' 
-        );
-
-foreach ($os_array as $regex => $value) { 
-
-    if (preg_match($regex, $user_agent)) {
-        $os_platform    =   $value;
-    }
-
-} 
-
-
-$browser_array  =   array(
-    '/mobile/i'     =>  'Handheld Browser',
-    '/msie|MSIE|iemobile/i'       =>  'Internet Explorer',
-    '/trident/i'    =>  'Internet Explorer',
-    '/firefox/i'    =>  'Firefox',
-    '/safari/i'     =>  'Safari',
-    '/chrome/i'     =>  'Chrome',
-    '/opera/i'      =>  'Opera',
-    '/netscape/i'   =>  'Netscape',
-    '/maxthon/i'    =>  'Maxthon',
-    '/konqueror/i'  =>  'Konqueror',
+        '/Windows Phone/i'      =>   'Windows Phone'
     );
 
-foreach ($browser_array as $regex => $value) { 
+    foreach ($os_array as $regex => $value) {
 
-    if (preg_match($regex, $user_agent)) {
-        $browser    =   $value;
+        if (preg_match($regex, $user_agent)) {
+            $os_platform    =   $value;
+        }
+
     }
-}
 
-return array(
-   "user_agent"     =>    $user_agent,
-   "os"     =>    $os_platform,
-   "browser"     =>    $browser,
-   );
+
+    $browser_array  =   array(
+        '/mobile/i'     =>  'Handheld Browser',
+        '/msie|MSIE|iemobile/i'       =>  'Internet Explorer',
+        '/trident/i'    =>  'Internet Explorer',
+        '/firefox/i'    =>  'Firefox',
+        '/safari/i'     =>  'Safari',
+        '/chrome/i'     =>  'Chrome',
+        '/opera/i'      =>  'Opera',
+        '/netscape/i'   =>  'Netscape',
+        '/maxthon/i'    =>  'Maxthon',
+        '/konqueror/i'  =>  'Konqueror',
+    );
+
+    foreach ($browser_array as $regex => $value) {
+
+        if (preg_match($regex, $user_agent)) {
+            $browser    =   $value;
+        }
+    }
+
+    return array(
+        "user_agent"     =>    $user_agent,
+        "os"     =>    $os_platform,
+        "browser"     =>    $browser,
+    );
 }
 // get system information
 // user session update function
@@ -312,36 +312,36 @@ session_start();
 $externalRadarLink = "common/radar.php?radar=713";
 switch ($_SESSION['username']) {
     case 'linfoxnsw':
-    $externalRadarLink = "common/radar.php?radar=712";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=712";
+        break;
+
     case 'linfoxqld':
-    $externalRadarLink = "common/radar.php?radar=662";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=662";
+        break;
+
     case 'linfoxvic':
-    $externalRadarLink = "common/radar.php?radar=022";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=022";
+        break;
+
     case 'linfoxnt':
-    $externalRadarLink = "common/radar.php?radar=632";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=632";
+        break;
+
     case 'linfoxsa':
-    $externalRadarLink = "common/radar.php?radar=642";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=642";
+        break;
+
     case 'linfoxtas':
-    $externalRadarLink = "common/radar.php?radar=762";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=762";
+        break;
+
     case 'linfox':
-    $externalRadarLink = "common/radar.php?radar=702";
-    break;
-    
+        $externalRadarLink = "common/radar.php?radar=702";
+        break;
+
     default:
-    $externalRadarLink = "common/radar.php?radar=713";
-    break;
+        $externalRadarLink = "common/radar.php?radar=713";
+        break;
 }
 
 function generateRandomStr($length=5){

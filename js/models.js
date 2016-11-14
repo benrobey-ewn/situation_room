@@ -364,7 +364,7 @@ function change_model_forecast_time(when) {
 
 	function updatemodelforecasttimes() {
 		$.ajax({
-			url: "http://54.153.195.116/storage/scripts/create_run_times.php?model=" + mapmodel,
+			url: "//54.153.195.116/storage/scripts/create_run_times.php?model=" + mapmodel,
 			dataType: 'jsonp',
 			async: false,
 			jsonpCallback: 'addforecasttimes',
