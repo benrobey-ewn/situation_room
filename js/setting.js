@@ -258,7 +258,6 @@ function settingsApply() {
 	settingsSetSituationRoomRiverGauges();
 	settingsSetSituationRoomLayers();
 	settingsSetSituationRoomForecastModel();
-	nbnDataLayerLoad();
 	settingsUpdate();
 	logEWNCopyright();
 }
@@ -563,5 +562,5 @@ function settingsSetSituationRoomForecastModel() {
 
 function logEWNCopyright() {
 	//Lower Case
-	console.log("    ___ __      __ ____  \n   / _ \\\\ \\ /\\ / /|  _ \\ \n  |  __/ \\ V  V / | | | |\n   \\___|  \\_/\\_/  |_| |_|\n   early warning network \n        © ewn 2015.");
+	console.log("    ___ __      __ ____  \n   / _ \\\\ \\ /\\ / /|  _ \\ \n  |  __/ \\ V  V / | | | |\n   \\___|  \\_/\\_/  |_| |_|\n   early warning network \n        ï¿½ ewn 2015.");
 }

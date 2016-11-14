@@ -723,7 +723,7 @@
 								if ($current_time >= '09:00:00') {
 									$current_day = date('D')." 9am + 24hrs";
 									$tomorrow = date("D", time() + 86400)." 9am + 24hrs";
-								} 
+								}
 								else {
 									$current_day = date("D", time() - 86400)." 9am + 24hrs";
 									$tomorrow  = date('D')." 9am + 24hrs";
@@ -985,7 +985,7 @@
 										<?php
 											if ($_SESSION['username'] == 'admin') {
 													$select = "SELECT DISTINCT `layer_id`,`layer_type` FROM `layer_datas` as `ld` WHERE `ld`.`layer_id` > '10' ORDER BY `ld`.`layer_id` ASC";
-											} 
+											}
 											else {
 												$select = "SELECT DISTINCT `ld`.`layer_id`,`layer_type`,`client_id` FROM `layer_datas` as `ld` INNER JOIN `client_layers` as `cl` ON `ld`.`layer_id` = `cl`.`layer_id` WHERE `client_id` = '".$_SESSION['user_id']."' AND `ld`.`layer_id` > '10' ORDER BY `ld`.`layer_id` ASC";
 											}
@@ -993,7 +993,7 @@
 											if (mysql_num_rows($select_rs) > 0) {
 												$option  = '' ;
 												while ($row = mysql_fetch_assoc($select_rs)) {
-													$option .= '<option value="'.$row['layer_id'].'">'.$row['layer_type'].'</option>'; 
+													$option .= '<option value="'.$row['layer_id'].'">'.$row['layer_type'].'</option>';
 												}
 											echo $option;
 											}
@@ -1139,7 +1139,7 @@
 							</div>
 						</div>
 						<div class="col-md-11">&nbsp;</div>
-					</div>					
+					</div>
 					<div class="row model_controls container-btm-mrgn">
 						<div class="col-md-4">
 							<label for="forecast_storm_play">Model Loop</label>
@@ -1169,7 +1169,18 @@
 			</div><!-- /forecast model-->
 
 			<!--Hacky Kml Stuff-->
-			<?php if ($_SESSION['username'] == 'admin') { ?>
+			<?php
+			$isNRC = false;
+			if ($_SESSION['username'] == 'Shane.Rayner@natresponse.com.au' ||
+				$_SESSION['username'] == 'Raneeta.Beric@natresponse.com.au' ||
+				$_SESSION['username'] == 'Lisa.Carbone@natresponse.com.au' ||
+				$_SESSION['username'] == 'NRC-Second' ||
+				$_SESSION['username'] == 'NRC-Third') {
+				$isNRC = true;
+			}
+			?>
+
+			<?php if ($_SESSION['username'] == 'admin' || (isset($isNRC) && $isNRC)) { ?>
 				<div class="row additional-kml">
 					<div class="header-collapse col-md-12 border-bottom-20">
 						<div class="switch">
@@ -1220,19 +1231,19 @@
 							<div class="info-text info-text-sml" id="loading_nbn_layers" style="display:none;">
 								<p>Loading NBN layers.</p>
 							</div>
-							
-							<div class="form-group my_polygons">	
+
+							<div class="form-group my_polygons">
 									<input  type="checkbox"  id="drawing_mode" value="1" data-docid="1"> <label class="text-primary">Draw Polygon</label>
-									
+
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-12">
-							
+
 							<input type="hidden" id="nbn_user_type" value="<?php echo $_SESSION['nbn_user_type'];?>">
 							<input type="hidden" id="data_uploaded" value="">
-							
+
 						</div>
 					</div>
 					<div class="row">
@@ -1242,9 +1253,9 @@
 									 <button type="button" name="save_poly" value="save_poly" id="open_alert_form" class="btn btn-primary" style="display:none;">Send Alert</button>
 							</div>
 					</div>
-					
+
 					<div class="pre_drawn_nbn_polygons col-md-12" style="margin-top:5px;">
-							<?php 
+							<?php
 							$current_user_id = $_SESSION['user_id'];
 							$glob = glob("user_kmls/$current_user_id/*.kml");
 							if(!empty($glob))
@@ -1257,13 +1268,13 @@
 									<input layer-name="'.$newElementName.'" type="checkbox" class="load_saved_kmls hitlayer'.$counter.'" name="'.$elements.'" id="'.$elements.'" value="'.$elements.'"> <label for="'.$elements.'" class="text-primary">'.basename($elements).'</label>
 									<a onclick="javascript:remove_draw_polygon(&quot;'.$counter.'&quot;,&quot;'.$elements.'&quot;,1)" href="javascript:void(0);" class="btn btn-default btn-xs pull-right"><i class="glyphicon glyphicon-trash"></i></a >
 									<a href="'.$elements.'" target="_blank" title="download KML"  download class="btn btn-default btn-xs pull-right"><i class="glyphicon glyphicon-download-alt"></i></a >
-									</div>'; 
+									</div>';
 									$counter++;
 								}
 							}
 							?>
-					</div> 
-					
+					</div>
+
 				</div>
 			</div>
 			<?php }?>
@@ -1307,10 +1318,10 @@
 						<label for="title" style="color:#000;">Title *</label>
 						<input type="text" class="form-control" name="title" id="title-polygon">
 					</div>
-					<div class="form-group">	
+					<div class="form-group">
 						<label for="description" style="color:#000;">Description</label>
 						<textarea name="description" id="description-polygon" class="description form-control" cols="30" rows="10"></textarea>
-					</div>	
+					</div>
 				</div>
 				<div class="modal-footer">
 					<input type="hidden" name="save_polygon" value="save_polygon">
@@ -1357,10 +1368,10 @@
 						<label for="title" style="color:#000;">Title *</label>
 						<input type="text" class="form-control" name="title" id="title-nbn-polygon">
 					</div>
-					<div class="form-group">	
+					<div class="form-group">
 						<label for="description" style="color:#000;">Description</label>
 						<textarea name="description" id="description-nbn-polygon" class="description form-control" cols="30" rows="10"></textarea>
-					</div>	
+					</div>
 				</div>
 				<div class="modal-footer">
 					<input type="hidden" name="save_polygon" value="save_polygon">
@@ -1398,10 +1409,10 @@
                             <option value="Black">Black</option>
                         </select>
                     </div>
-                    <div class="form-group">    
+                    <div class="form-group">
                         <label for="description" style="color:#000;">Alert Message</label>
                         <textarea id="nbn_description_polygon" name="nbn_description_polygon"  class="form-control" cols="30" rows="10" style="width:100% !important;"></textarea>
-                    </div>  
+                    </div>
                 </div>
                 <div class="modal-footer">
                 <input type="hidden" id="send_alert_type">

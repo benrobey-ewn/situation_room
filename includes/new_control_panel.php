@@ -1181,7 +1181,18 @@
 			</div><!-- /forecast model-->
 
 			<!--Hacky Kml Stuff-->
-			<?php if ($_SESSION['username'] == 'admin') { ?>
+			<?php
+			$isNRC = false;
+			if ($_SESSION['username'] == 'Shane.Rayner@natresponse.com.au' ||
+				$_SESSION['username'] == 'Raneeta.Beric@natresponse.com.au' ||
+				$_SESSION['username'] == 'Lisa.Carbone@natresponse.com.au' ||
+				$_SESSION['username'] == 'NRC-Second' ||
+				$_SESSION['username'] == 'NRC-Third') {
+				$isNRC = true;
+			}
+			?>
+
+			<?php if ($_SESSION['username'] == 'admin' || (isset($isNRC) && $isNRC)) { ?>
 				<div class="row additional-kml">
 					<div class="header-collapse col-md-12 border-bottom-20">
 						<div class="switch">

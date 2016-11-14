@@ -139,9 +139,10 @@
 		//var path = "/js/boundaries/b-" + bTypeKey + "-geo-topo-" + z + ".json";
 
 		//i don't know how this shit is supposed to work so I'm going to load everything
-		var base = "/js/boundaries/";
+		var base = "/dev/js/boundaries/";
 
 		var paths = [
+			'b-PC-0-geo-topo-9.json',
 			'b-PC-2-geo-topo-9.json',
 			'b-PC-3-geo-topo-9.json',
 			'b-PC-4-geo-topo-9.json',
@@ -838,11 +839,7 @@
 		if(typeof svgP!=='undefined') {
 				svgP.selectAll("path").remove();
 			}
-			
-			if(post_overlayP) {
-				post_overlayP.setMap(null);
-				post_overlayP=false;
-			}
+
 			
 		curZP=0;
 		if(currentPolygonObj!==undefined && currentPolygonObj!=""){
