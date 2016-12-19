@@ -544,7 +544,6 @@
 		              	sortPostcode.length=0;
 						var postcodes=res.postcodes;
 						if(postcodes!='error'){
-							console
 								for (var j = 0; j < postcodes.length; j++) {
 									sortPostcode.push(topoObject[postcodes[j]].name);
 								} 
