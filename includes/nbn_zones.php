@@ -216,7 +216,7 @@
 	                        </select>
 	                    </div>
 	                    <div class="form-group">
-							<div class="nbn_description_polygon_alert"></div>
+							<div style="color:red; font-size:10px;" class="nbn_description_polygon_alert"></div>
 	                        <label for="description" style="color:#000;">Alert Message</label>
 	                        <textarea id="nbn_description_polygon" name="nbn_description_polygon"  class="form-control" cols="8" rows="2" style="max-width:360px !important;"></textarea>
 	                    </div>  

@@ -44,6 +44,18 @@ function domReadyLoadMain() {
 	domReadySliders();
 	domReadySetSituationRoom();
 	domReadyMenuCollapse();
+
+	$('#nbn_description_polygon').on('keyup', function() {
+
+		if($(this).val().length > 160) {
+			$('.nbn_description_polygon_alert').html('Warning: message can not exceed 160 characters, recipients will receive a link to a full text version.');
+			$('#save_nbn_alert_details').prop('disabled', 'disabled');
+		}
+		else {
+			$('.nbn_description_polygon_alert').html('');
+			$('#save_nbn_alert_details').prop('disabled', false);
+		}
+	});
 }
 
 //Date for radar
