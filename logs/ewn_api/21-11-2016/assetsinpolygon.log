@@ -1,0 +1,46 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"152.992859 -27.80021,152.992859 -27.880356,153.187866 -27.894922,153.171387 -27.783202,152.992859 -27.80021"},"error":"Connection timed out after 40000 milliseconds","httpcode":null,"response":"error:Connection timed out after 40000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"153.256531 -27.612972,153.237305 -27.724867,153.297729 -27.644606,153.256531 -27.612972"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"153.256531 -27.612972,153.237305 -27.724867,153.297729 -27.644606,153.256531 -27.612972"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"153.341675 -28.863918,153.424072 -28.854296,153.407593 -28.950476,153.319702 -28.950476,153.341675 -28.863918"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"152.808838 -29.590177,153.149414 -29.649869,152.9599 -29.759609,152.808838 -29.590177"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"152.808838 -29.590177,153.149414 -29.649869,152.9599 -29.759609,152.808838 -29.590177"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"152.808838 -29.590177,153.149414 -29.649869,152.9599 -29.759609,152.808838 -29.590177"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection timed out","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection timed out","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10000 milliseconds","httpcode":null,"response":"error:Connection timed out after 10000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"","httpcode":null,"response":"{\"postcodes\":null}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10001 milliseconds","httpcode":null,"response":"error:Connection timed out after 10001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10001 milliseconds","httpcode":null,"response":"error:Connection timed out after 10001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10000 milliseconds","httpcode":null,"response":"error:Connection timed out after 10000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10000 milliseconds","httpcode":null,"response":"error:Connection timed out after 10000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10000 milliseconds","httpcode":null,"response":"error:Connection timed out after 10000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"error":"Connection timed out after 10001 milliseconds","httpcode":null,"response":"error:Connection timed out after 10001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.437988 -26.92207,141.437988 -26.155438,142.888184 -26.352498,141.987305 -27.137368,141.437988 -26.92207"},"httpcode":200,"response":"{","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.293945 -29.458731,148.535156 -29.573457,148.535156 -30.826781,144.975586 -30.789037,146.293945 -29.458731"},"httpcode":200,"response":"{","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"141.987305 -30.826781,143.217773 -30.826781,143.613281 -31.690782,141.899414 -31.690782,141.987305 -30.826781"},"httpcode":200,"response":"{","status":"false"}
+

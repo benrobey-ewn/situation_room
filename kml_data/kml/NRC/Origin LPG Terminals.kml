@@ -1,0 +1,1171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Origin LPG Terminals</name>
+		<description><![CDATA[Location of Origin LPG Terminals in Australia]]></description>
+		<Folder>
+			<name>LPG Terminal Details - AUS Oct 16.xlsx</name>
+			<Placemark>
+				<name>CAIRNS LPG TERMINAL </name>
+				<description><![CDATA[No.: 1<br>Address 1: 85-91 DRAPER STREET<br>City: CAIRNS<br>Postal Code: 4870<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>1.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>85-91 DRAPER STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>CAIRNS</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4870</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>85-91 DRAPER STREET CAIRNS 4870</address>
+			</Placemark>
+			<Placemark>
+				<name>TOWNSVILLE LPG TERMINAL</name>
+				<description><![CDATA[No.: 2<br>Address 1: BENWELL ROAD<br>City: TOWNSVILLE<br>Postal Code: 4810<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>2.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>BENWELL ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>TOWNSVILLE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4810</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>BENWELL ROAD TOWNSVILLE 4810</address>
+			</Placemark>
+			<Placemark>
+				<name>GLADSTONE LPG TERMINAL</name>
+				<description><![CDATA[No.: 3<br>Address 1: MARK FENTON DRIVE<br>City: GLADSTONE<br>Postal Code: 4680<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>3.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>MARK FENTON DRIVE</value>
+					</Data>
+					<Data name='City'>
+						<value>GLADSTONE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4680</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>MARK FENTON DRIVE GLADSTONE 4680</address>
+			</Placemark>
+			<Placemark>
+				<name>MACKAY LPG TERMINAL</name>
+				<description><![CDATA[No.: 4<br>Address 1: 42 Outer Harbour Road, Mackay<br>City: MACKAY<br>Postal Code: 4740<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>4.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>42 Outer Harbour Road, Mackay</value>
+					</Data>
+					<Data name='City'>
+						<value>MACKAY</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4740</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>42 Outer Harbour Road, Mackay MACKAY 4740</address>
+			</Placemark>
+			<Placemark>
+				<name>MT ISA LPG TERMINAL</name>
+				<description><![CDATA[No.: 5<br>Address 1: 50 MICA CREEK ROAD<br>City: MOUNT ISA<br>Postal Code: 4825<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>5.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>50 MICA CREEK ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>MOUNT ISA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4825</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>50 MICA CREEK ROAD MOUNT ISA 4825</address>
+			</Placemark>
+			<Placemark>
+				<name>ROCKHAMPTON LPG TERMINAL </name>
+				<description><![CDATA[No.: 1<br>Address 1: 12 BURKE ST PARKHURST<br>City: ROCKHAMPTON<br>Postal Code: 4700<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>1.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>12 BURKE ST PARKHURST</value>
+					</Data>
+					<Data name='City'>
+						<value>ROCKHAMPTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4700</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>12 BURKE ST PARKHURST ROCKHAMPTON 4700</address>
+			</Placemark>
+			<Placemark>
+				<name>BULWER ISLAND LPG TERMINAL</name>
+				<description><![CDATA[No.: 2<br>Address 1: 206 TINGIRA STREET<br>City: PINKENBA<br>Postal Code: 4008<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>2.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>206 TINGIRA STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>PINKENBA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4008</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>206 TINGIRA STREET PINKENBA 4008</address>
+			</Placemark>
+			<Placemark>
+				<name>LYTTON LPG TERMINAL</name>
+				<description><![CDATA[No.: 3<br>Address 1: 50 SOUTH STREET<br>City: LYTTON<br>Postal Code: 4178<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>3.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>50 SOUTH STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>LYTTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4178</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>50 SOUTH STREET LYTTON 4178</address>
+			</Placemark>
+			<Placemark>
+				<name>TOOWOOMBA LPG TERMINAL</name>
+				<description><![CDATA[No.: 4<br>Address 1: 254 ANZAC AVENUE<br>City: TOOWOOMBA<br>Postal Code: 4350<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>4.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>254 ANZAC AVENUE</value>
+					</Data>
+					<Data name='City'>
+						<value>TOOWOOMBA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4350</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>254 ANZAC AVENUE TOOWOOMBA 4350</address>
+			</Placemark>
+			<Placemark>
+				<name>MARYBOROUGH LPG TERMINAL</name>
+				<description><![CDATA[No.: 5<br>Address 1: 53 BOWEN STREET<br>City: MARYBOROUGH<br>Postal Code: 4650<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>5.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>53 BOWEN STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>MARYBOROUGH</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4650</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>53 BOWEN STREET MARYBOROUGH 4650</address>
+			</Placemark>
+			<Placemark>
+				<name>GLEN INNES LPG TERMINAL</name>
+				<description><![CDATA[No.: 6<br>Address 1: GASWORKS ROAD<br>City: GLEN INNES<br>Postal Code: 2370<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>6.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>GASWORKS ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>GLEN INNES</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2370</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>GASWORKS ROAD GLEN INNES 2370</address>
+			</Placemark>
+			<Placemark>
+				<name>WARWICK LPG TERMINAL</name>
+				<description><![CDATA[No.: 7<br>Address 1: 41 GRAFTON STREET<br>City: WARWICK<br>Postal Code: 4370<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>7.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>41 GRAFTON STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>WARWICK</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4370</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>41 GRAFTON STREET WARWICK 4370</address>
+			</Placemark>
+			<Placemark>
+				<name>BURLEIGH HEADS LPG TERMINAL (MULTIGAS)</name>
+				<description><![CDATA[No.: 8<br>Address 1: 6 BEE COURT<br>City: BURLEIGH HEADS<br>Postal Code: 4220<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>8.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>6 BEE COURT</value>
+					</Data>
+					<Data name='City'>
+						<value>BURLEIGH HEADS</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4220</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>6 BEE COURT BURLEIGH HEADS 4220</address>
+			</Placemark>
+			<Placemark>
+				<name>GYMPIE LPG TERMINAL (HAPPYGAS)</name>
+				<description><![CDATA[No.: 9<br>Address 1: 2A STEWART TERRACE<br>City: GYMPIE<br>Postal Code: 4570<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>9.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>2A STEWART TERRACE</value>
+					</Data>
+					<Data name='City'>
+						<value>GYMPIE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>4570</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>2A STEWART TERRACE GYMPIE 4570</address>
+			</Placemark>
+			<Placemark>
+				<name>PORT BOTANY LPG TERMINAL</name>
+				<description><![CDATA[No.: 10<br>Address 1: 47 FRIENDSHIP ROAD<br>City: PORT BOTANY<br>Postal Code: 2036<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>10.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>47 FRIENDSHIP ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>PORT BOTANY</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2036</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>47 FRIENDSHIP ROAD PORT BOTANY 2036</address>
+			</Placemark>
+			<Placemark>
+				<name>NEWCASTLE LPG TERMINAL</name>
+				<description><![CDATA[No.: 11<br>Address 1: EGRET STREET<br>City: KOORAGANG<br>Postal Code: 2304<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>11.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>EGRET STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>KOORAGANG</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2304</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>EGRET STREET KOORAGANG 2304</address>
+			</Placemark>
+			<Placemark>
+				<name>COFFS HARBOUR LPG TERMINAL</name>
+				<description><![CDATA[No.: 12<br>Address 1: 3 CHRISTMAS BELLS ROAD<br>City: COFFS HARBOUR<br>Postal Code: 2450<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>12.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>3 CHRISTMAS BELLS ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>COFFS HARBOUR</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2450</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>3 CHRISTMAS BELLS ROAD COFFS HARBOUR 2450</address>
+			</Placemark>
+			<Placemark>
+				<name>PARKES LPG TERMINAL</name>
+				<description><![CDATA[No.: 13<br>Address 1: ACROYD STREET<br>City: PARKES<br>Postal Code: 2870<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>13.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>ACROYD STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>PARKES</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2870</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>ACROYD STREET PARKES 2870</address>
+			</Placemark>
+			<Placemark>
+				<name>TAMWORTH LPG TERMINAL</name>
+				<description><![CDATA[No.: 14<br>Address 1: HINKLER ROAD <br>City: TAMWORTH<br>Postal Code: 2340<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>14.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>HINKLER ROAD </value>
+					</Data>
+					<Data name='City'>
+						<value>TAMWORTH</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2340</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>HINKLER ROAD  TAMWORTH 2340</address>
+			</Placemark>
+			<Placemark>
+				<name>WELLINGTON LPG TERMINAL</name>
+				<description><![CDATA[No.: 15<br>Address 1: FALLS ROAD<br>City: WELLINGTON<br>Postal Code: 2820<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>15.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>FALLS ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>WELLINGTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2820</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>FALLS ROAD WELLINGTON 2820</address>
+			</Placemark>
+			<Placemark>
+				<name>MINTO SPEED-E-GAS LPG TERMINAL</name>
+				<description><![CDATA[No.: 16<br>Address 1: 26 PEMBURY ROAD<br>City: MINTO<br>Postal Code: 2566<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>16.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>26 PEMBURY ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>MINTO</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2566</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>26 PEMBURY ROAD MINTO 2566</address>
+			</Placemark>
+			<Placemark>
+				<name>COWRA LPG TERMINAL</name>
+				<description><![CDATA[No.: 17<br>Address 1: 9 NANGAR ST COWRA<br>City: COWRA<br>Postal Code: 2794<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>17.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>9 NANGAR ST COWRA</value>
+					</Data>
+					<Data name='City'>
+						<value>COWRA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2794</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>9 NANGAR ST COWRA COWRA 2794</address>
+			</Placemark>
+			<Placemark>
+				<name>EDEN LPG TERMINAL</name>
+				<description><![CDATA[No.: 18<br>Address 1: 71-73 PRINCES HIGHWAY<br>City: EDEN<br>Postal Code: 2551<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>18.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>71-73 PRINCES HIGHWAY</value>
+					</Data>
+					<Data name='City'>
+						<value>EDEN</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2551</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>71-73 PRINCES HIGHWAY EDEN 2551</address>
+			</Placemark>
+			<Placemark>
+				<name>WAGGA WAGGA LPG TERMINAL</name>
+				<description><![CDATA[No.: 19<br>Address 1: 25 LEWINGTON STREET<br>City: WAGGA WAGGA<br>Postal Code: 2650<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>19.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>25 LEWINGTON STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>WAGGA WAGGA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2650</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>25 LEWINGTON STREET WAGGA WAGGA 2650</address>
+			</Placemark>
+			<Placemark>
+				<name>PORT MACQUARIE LPG TERMINAL</name>
+				<description><![CDATA[No.: 20<br>Address 1: 55-57 JAMBALI ROAD<br>City: PORT MACQUARIE<br>Postal Code: 2444<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>55-57 JAMBALI ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>PORT MACQUARIE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2444</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>55-57 JAMBALI ROAD PORT MACQUARIE 2444</address>
+			</Placemark>
+			<Placemark>
+				<name>ULLADULLA LPG TERMINAL</name>
+				<description><![CDATA[No.: 21<br>Address 1: 96 PRINCES HIGHWAY<br>City: ULLADULLA<br>Postal Code: 2539<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>21.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>96 PRINCES HIGHWAY</value>
+					</Data>
+					<Data name='City'>
+						<value>ULLADULLA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2539</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>96 PRINCES HIGHWAY ULLADULLA 2539</address>
+			</Placemark>
+			<Placemark>
+				<name>THORNTON SPEED-E-GAS LPG TERMINAL </name>
+				<description><![CDATA[No.: 22<br>Address 1: 46 BONVILLE AVENUE<br>City: THORNTON<br>Postal Code: 2322<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>22.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>46 BONVILLE AVENUE</value>
+					</Data>
+					<Data name='City'>
+						<value>THORNTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2322</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>46 BONVILLE AVENUE THORNTON 2322</address>
+			</Placemark>
+			<Placemark>
+				<name>MOREE LPG TERMINAL</name>
+				<description><![CDATA[No.: 23<br>Address 1: 474 FROME STREET<br>City: MOREE<br>Postal Code: 2400<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>23.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>474 FROME STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>MOREE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2400</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>474 FROME STREET MOREE 2400</address>
+			</Placemark>
+			<Placemark>
+				<name>CANBERRA LPG TERMINAL</name>
+				<description><![CDATA[No.: 24<br>Address 1: 2 tooth street, Mitchell ACT 2911<br>City: <br>Postal Code: 2911<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>24.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>2 tooth street, Mitchell ACT 2911</value>
+					</Data>
+					<Data name='City'>
+						<value></value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2911</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>2 tooth street, Mitchell ACT 2911 2911</address>
+			</Placemark>
+			<Placemark>
+				<name>GRAFTON LPG TERMINAL</name>
+				<description><![CDATA[No.: 25<br>Address 1: 35-36 MULGRI DRIVE Dr <br>City: GRAFTON<br>Postal Code: 2460<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>25.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>35-36 MULGRI DRIVE Dr </value>
+					</Data>
+					<Data name='City'>
+						<value>GRAFTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2460</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>35-36 MULGRI DRIVE Dr  GRAFTON 2460</address>
+			</Placemark>
+			<Placemark>
+				<name>HOBART LPG TERMINAL</name>
+				<description><![CDATA[No.: 26<br>Address 1: GAS ROAD<br>City: SELFS POINT<br>Postal Code: 7008<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>26.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>GAS ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>SELFS POINT</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>7008</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>GAS ROAD SELFS POINT 7008</address>
+			</Placemark>
+			<Placemark>
+				<name>DEVONPORT LPG TERMINAL</name>
+				<description><![CDATA[No.: 27<br>Address 1: 20 WESTPORT ROAD<br>City: DEVONPORT<br>Postal Code: 7310<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>27.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>20 WESTPORT ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>DEVONPORT</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>7310</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>20 WESTPORT ROAD DEVONPORT 7310</address>
+			</Placemark>
+			<Placemark>
+				<name>LAUNCESTON LPG TERMINAL</name>
+				<description><![CDATA[No.: 28<br>Address 1: 40 MURPHY STREET<br>City: INVERMAY<br>Postal Code: 7248<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>28.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>40 MURPHY STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>INVERMAY</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>7248</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>40 MURPHY STREET INVERMAY 7248</address>
+			</Placemark>
+			<Placemark>
+				<name>KING ISLAND LPG TERMINAL</name>
+				<description><![CDATA[No.: 29<br>Address 1: GRASSY WHARF<br>City: KING ISLAND<br>Postal Code: 7256<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>29.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>GRASSY WHARF</value>
+					</Data>
+					<Data name='City'>
+						<value>KING ISLAND</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>7256</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>GRASSY WHARF KING ISLAND 7256</address>
+			</Placemark>
+			<Placemark>
+				<name>SHEPPARTON LPG TERMINAL (LEMNOS)</name>
+				<description><![CDATA[No.: 30<br>Address 1: 40 LEMNOS NORTH ROAD<br>City: LEMNOS<br>Postal Code: 3631<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>40 LEMNOS NORTH ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>LEMNOS</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>3631</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>40 LEMNOS NORTH ROAD LEMNOS 3631</address>
+			</Placemark>
+			<Placemark>
+				<name>SHEPPARTON LPG TERMINAL (BENALLA ROAD)</name>
+				<description><![CDATA[No.: 31<br>Address 1: 125 BENALLA ROAD<br>City: SHEPPARTON<br>Postal Code: 3630<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>31.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>125 BENALLA ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>SHEPPARTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>3630</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>125 BENALLA ROAD SHEPPARTON 3630</address>
+			</Placemark>
+			<Placemark>
+				<name>SOMERTON LPG TERMINAL (POWERGAS)</name>
+				<description><![CDATA[No.: 32<br>Address 1: 110 SOMERTON ROAD<br>City: SOMERTON<br>Postal Code: 3064<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>32.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>110 SOMERTON ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>SOMERTON</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>3064</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>110 SOMERTON ROAD SOMERTON 3064</address>
+			</Placemark>
+			<Placemark>
+				<name>CAVAN LPG TERMINAL</name>
+				<description><![CDATA[No.: 33<br>Address 1: 64 CAVAN ROAD<br>City: ADELAIDE<br>Postal Code: 5094<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>33.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>64 CAVAN ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>ADELAIDE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>5094</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>64 CAVAN ROAD ADELAIDE 5094</address>
+			</Placemark>
+			<Placemark>
+				<name>BROKEN HILL LPG TERMINAL</name>
+				<description><![CDATA[No.: 34<br>Address 1: 499 CRYSTAL STREET<br>City: BROKEN HILL<br>Postal Code: 2880<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>34.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>499 CRYSTAL STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>BROKEN HILL</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>2880</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>499 CRYSTAL STREET BROKEN HILL 2880</address>
+			</Placemark>
+			<Placemark>
+				<name>MT BARKER LPG TERMINAL</name>
+				<description><![CDATA[No.: 35<br>Address 1: 14 MOUNT BARKER ROAD<br>City: MOUNT BARKER<br>Postal Code: 5250<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>35.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>14 MOUNT BARKER ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>MOUNT BARKER</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>5250</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>14 MOUNT BARKER ROAD MOUNT BARKER 5250</address>
+			</Placemark>
+			<Placemark>
+				<name>NARACOORTE LPG TERMINAL</name>
+				<description><![CDATA[No.: 36<br>Address 1: 7 SMITH STREET<br>City: NARACOORTE<br>Postal Code: 5271<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>36.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>7 SMITH STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>NARACOORTE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>5271</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>7 SMITH STREET NARACOORTE 5271</address>
+			</Placemark>
+			<Placemark>
+				<name>PORT LINCOLN LPG TERMINAL</name>
+				<description><![CDATA[No.: 37<br>Address 1: 28-30 GAWLER TERRACE<br>City: PORT LINCOLN<br>Postal Code: 5606<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>37.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>28-30 GAWLER TERRACE</value>
+					</Data>
+					<Data name='City'>
+						<value>PORT LINCOLN</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>5606</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>28-30 GAWLER TERRACE PORT LINCOLN 5606</address>
+			</Placemark>
+			<Placemark>
+				<name>RENMARK LPG TERMINAL</name>
+				<description><![CDATA[No.: 38<br>Address 1: LOT 30-32 KUHLMANN ROAD<br>City: RENMARK<br>Postal Code: 5341<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>38.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>LOT 30-32 KUHLMANN ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>RENMARK</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>5341</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>LOT 30-32 KUHLMANN ROAD RENMARK 5341</address>
+			</Placemark>
+			<Placemark>
+				<name>ALBANY LPG TERMINAL</name>
+				<description><![CDATA[No.: 45<br>Address 1: BRUNSWICK ROAD<br>City: ALBANY<br>Postal Code: 6330<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>45.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>BRUNSWICK ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>ALBANY</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>6330</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>BRUNSWICK ROAD ALBANY 6330</address>
+			</Placemark>
+			<Placemark>
+				<name>KALGOORLIE LPG TERMINAL</name>
+				<description><![CDATA[No.: 46<br>Address 1: Cnr Craig & West Kalgoorlie Rd <br>City: KALGOORLIE<br>Postal Code: 6430<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>46.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>Cnr Craig &amp; West Kalgoorlie Rd </value>
+					</Data>
+					<Data name='City'>
+						<value>KALGOORLIE</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>6430</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Cnr Craig &amp; West Kalgoorlie Rd  KALGOORLIE 6430</address>
+			</Placemark>
+			<Placemark>
+				<name>PINJARRA LPG TERMINAL</name>
+				<description><![CDATA[No.: 47<br>Address 1: 335 HARRIES WAY<br>City: PINJARRA<br>Postal Code: 6208<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>47.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>335 HARRIES WAY</value>
+					</Data>
+					<Data name='City'>
+						<value>PINJARRA</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>6208</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>335 HARRIES WAY PINJARRA 6208</address>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[No.: <br>Address 1: Crn Richardson St & Mandurah Rd<br>City: Kwinana<br>Postal Code: <br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value></value>
+					</Data>
+					<Data name='Address 1'>
+						<value>Crn Richardson St &amp; Mandurah Rd</value>
+					</Data>
+					<Data name='City'>
+						<value>Kwinana</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Crn Richardson St &amp; Mandurah Rd Kwinana</address>
+			</Placemark>
+			<Placemark>
+				<name>ALICE SPRINGS LPG TERMINAL</name>
+				<description><![CDATA[No.: 48<br>Address 1: LOT 4574 SMITH STREET<br>City: ALICE SPRINGS<br>Postal Code: 0870<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>48.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>LOT 4574 SMITH STREET</value>
+					</Data>
+					<Data name='City'>
+						<value>ALICE SPRINGS</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>0870</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>LOT 4574 SMITH STREET ALICE SPRINGS 0870</address>
+			</Placemark>
+			<Placemark>
+				<name>DARWIN LPG TERMINAL</name>
+				<description><![CDATA[No.: 49<br>Address 1: 16 MCKINNON ROAD<br>City: BERRIMAH<br>Postal Code: 0828<br>Site contact: ]]></description>
+				<styleUrl>#icon-1899-A52714</styleUrl>
+				<ExtendedData>
+					<Data name='No.'>
+						<value>49.0</value>
+					</Data>
+					<Data name='Address 1'>
+						<value>16 MCKINNON ROAD</value>
+					</Data>
+					<Data name='City'>
+						<value>BERRIMAH</value>
+					</Data>
+					<Data name='Postal Code'>
+						<value>0828</value>
+					</Data>
+					<Data name='Site contact'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>16 MCKINNON ROAD BERRIMAH 0828</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-A52714-normal'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-A52714-highlight'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-A52714'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-A52714-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-A52714-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

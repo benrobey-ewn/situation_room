@@ -1,0 +1,4974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Layers" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Layers</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle127">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffa80084</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle16">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle10">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle11">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>pointer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.916667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>pointer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.916667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle12">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffc500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>pointer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.916667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle130">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff73ffa3</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>NRC_OE_Facilities</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Reedy Creek GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Reedy Creek GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Reedy Creek</div> <div>Andrew McHugh 0475 813 875</div> <div>Andrew Shapland 0477 387 047</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.3808593105542,-26.35701132532061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Eurombah Creek GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Eurombah Creek GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Spring Gully</div> <div>Jim Meldrum</div> <div>0477 313 034</div> <div>Pat Ford</div> <div>0457 509 616</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Spring Gully</div> <div>Allan Palmer</div> <div>0438 501 192</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.2064488484182,-25.93629249051661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Strathblane GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Strathblane GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Spring Gully</div> <div>Jim Meldrum</div> <div>0477 313 034</div> <div>Pat Ford</div> <div>0457 509 616</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Spring Gully</div> <div>Allan Palmer</div> <div>0438 501 192</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.1337253494099,-25.87858358852393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Orana GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Orana GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Talinga/Orana</div> Zac Wright 0477 717 185 Martin Helme 0467 799 757</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Condabri</div> <div>Brad Robertson</div> <div>0459 829 129</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.5432434845327,-26.88873223144116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Condabri Central GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Condabri Central GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Condabri</div> <div>Greg Young</div> <div>0467 762 605</div> <div>Matt Playsted</div> <div>0477 300 254</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Condabri</div> <div>Brad Robertson</div> <div>0459 829 129</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.2041374015635,-26.79605336536716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Arcturus GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arcturus GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Manager - Denison</div> <div>Michael Kelly</div> <div>0428 642 334</div> <div>Nigel Oates</div> <div>0467 672 073</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>148.5039417898154,-24.09038161738821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Peat GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Peat GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Lead - Peat</div> <div>Grant Hall</div> <div>0459 846 037</div> <div>Brendon De Bakker</div> <div>0439 976 305</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.0924094802653,-26.0096860808227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Condabri South GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Condabri South GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Condabri</div> <div>Greg Young</div> <div>0467 762 605</div> <div>Matt Playsted</div> <div>0477 300 254</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Condabri</div> <div>Brad Robertson</div> <div>0459 829 129</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.2215939336165,-26.93386616428621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Taloona GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Taloona GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Spring Gully</div> <div>Jim Meldrum</div> <div>0477 313 034</div> <div>Pat Ford</div> <div>0457 509 616</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Spring Gully</div> <div>Allan Palmer</div> <div>0438 501 192</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.1153632694799,-26.0394140264154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Condabri North GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Condabri North GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Condabri</div> <div>Greg Young</div> <div>0467 762 605</div> <div>Matt Playsted</div> <div>0477 300 254</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Condabri</div> <div>Brad Robertson</div> <div>0459 829 129</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.2276447255087,-26.67407503945403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Spring Gully GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Spring Gully GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Spring Gully</div> <div>Jim Meldrum</div> <div>0477 313 034</div> <div>Pat Ford</div> <div>0457 509 616</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Spring Gully</div> <div>Allan Palmer</div> <div>0438 501 192</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.0647174374521,-25.94548995345428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Combabula GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Combabula GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Reedy Creek</div> <div>Andrew McHugh 0475 813 875</div> <div>Andrew Shapland 0477 387 047</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>149.5095972544777,-26.23672821544765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Talinga GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Talinga GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Plant Manager - Talinga/Orana</div> Zac Wright 0477 717 185 Martin Helme 0467 799 757</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Condabri</div> <div>Brad Robertson</div> <div>0459 829 129</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>Field Emergency Response Specialist</div> <div>Darryn Dickson</div> <div>0477 364 077</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>150.3534893975686,-26.88263513837062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Springton GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Springton GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Manager - Denison</div> <div>Michael Kelly</div>  <div>0428 642 334</div> <div>Nigel Oates</div> <div>0467 672 073</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div>  <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div>  <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div>  <div>Ben Visser</div>  <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div>  <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002</styleUrl>
+			<Point>
+				<coordinates>148.4025184087817,-23.9541957004314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Yellowbank CTP</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Yellowbank CTP</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Manager - Denison</div> <div>Michael Kelly</div> <div>0428 642 334</div> <div>Nigel Oates</div> <div>0467 672 073</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>148.4004549203905,-25.44768486950044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Rolleston CTP</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rolleston CTP</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Manager - Denison</div> <div>Michael Kelly</div> <div>0428 642 334</div> <div>Nigel Oates</div> <div>0467 672 073</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>148.6726127619427,-24.49321839320614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Yandina GPF</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Yandina GPF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Field/Plant Manager - Denison</div> <div>Michael Kelly</div> <div>0428 642 334</div> <div>Nigel Oates</div> <div>0467 672 073</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Production Manager - Denison/Pilots/Peat</div> <div>Rowan Kendall</div> <div>0419 022 179</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td><div>APLNG Field ER/S Specialist (SG)</div> <div>Col Neal</div> <div>0477 738 074</div> <div>APLNG Field ER/S Specialist (West)</div> <div>Brett McHugh</div> <div>0477 361 146</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>General Manager Production Operations (East)</div> <div>Ben Visser</div> <div>0457 553 473</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>148.5104758948554,-24.19273299932726,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="FeatureLayer1">
+		<name>NRC_OE_Areas</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_10000">
+			<name>Darling Downs Pipeline System - ML1A SGW to Talinga</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - OERL (South)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Darling Downs Pipeline System - ML1A SGW to Talinga</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - OERL (South)</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - OERL (South)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle10</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2147539145857,-26.85540736433352,0 150.1945515505884,-26.85191512732781,0 150.1877317345873,-26.84560889132915,0 150.1832003665874,-26.84373783332856,0 150.1532236545919,-26.83975536631932,0 150.140866960595,-26.84106141031363,0 150.1278036135924,-26.82837061331657,0 150.086858462597,-26.81909516430638,0 150.0629597265883,-26.7858960183181,0 150.0464509725842,-26.76746307232333,0 149.9230981236024,-26.74990650128594,0 149.9157025356012,-26.74311394328734,0 149.8893424616007,-26.72866340228614,0 149.8834363976009,-26.72608209628546,0 149.8763453336021,-26.72533321528314,0 149.854986981599,-26.70739918228611,0 149.8468988275999,-26.70526191328427,0 149.8383196735986,-26.69784296328561,0 149.7839355655957,-26.66323868728613,0 149.772117857594,-26.6530938832879,0 149.7613747265961,-26.65263456428395,0 149.7467820935955,-26.64398320428368,0 149.7266768615971,-26.63758426827982,0 149.7207789995965,-26.63300821928038,0 149.7029399946001,-26.63274247927351,0 149.690315976598,-26.62123302427582,0 149.6438164236013,-26.6057307892673,0 149.5863714246037,-26.58225214825948,0 149.5599100375995,-26.55857197526402,0 149.5391929846029,-26.55614902325737,0 149.5130516576046,-26.54690143325288,0 149.4941101276074,-26.54394958424726,0 149.479479365607,-26.5353846442469,0 149.4757557226059,-26.53094572524823,0 149.4716311006059,-26.52883689924794,0 149.4651117566074,-26.52914483024517,0 149.4131067886269,-26.54979878821155,0 149.3991398646301,-26.55014034020581,0 149.3918233126325,-26.55222699920161,0 149.3869493206351,-26.55602700119728,0 149.3238282196599,-26.58365830815486,0 149.3099151156669,-26.59338961614323,0 149.2811515996862,-26.62541232411163,0 149.2444179827076,-26.65779274907667,0 149.2368302137117,-26.66366193906996,0 149.2028863017269,-26.68295215204438,0 149.1937556077295,-26.68432481703992,0 149.1800526357395,-26.70147894802368,0 149.190182607739,-26.70534014302524,0 149.200346714736,-26.70356151803037,0 149.2110372017321,-26.69966881903707,0 149.2487797617151,-26.67820062806551,0 149.2952002016887,-26.63847415910893,0 149.3206078786714,-26.60980100113708,0 149.334485881664,-26.59900095314938,0 149.4040163206364,-26.56804248619643,0 149.4189650686329,-26.56726542720282,0 149.4656286666153,-26.54854184723311,0 149.486782004616,-26.56100190623358,0 149.5074392646129,-26.56428117323967,0 149.5344060776112,-26.57376992724432,0 149.5509618116083,-26.57531207524989,0 149.5759604966123,-26.59781942924552,0 149.6360869036098,-26.62239550125369,0 149.6802289736067,-26.63712755826179,0 149.6932798196092,-26.65011662525868,0 149.7105701496059,-26.65070507126514,0 149.7379528076041,-26.66027453026987,0 149.7564624056045,-26.67067870627058,0 149.7635637666031,-26.67099996427318,0 149.7913625036057,-26.69127596427127,0 149.8259529226071,-26.71210950627167,0 149.8360205246086,-26.72104548826997,0 149.8443404636078,-26.72316929927191,0 149.8660394216107,-26.74117820026902,0 149.8792829216092,-26.74429762427226,0 149.9032745826096,-26.75742699427336,0 149.9126345506113,-26.76620932227147,0 149.9625710566044,-26.77451989528585,0 150.036295338593,-26.78391461630888,0 150.0742631006057,-26.83379955829207,0 150.1161656446017,-26.84498383530144,0 150.1333886976038,-26.85881788829939,0 150.1518911275996,-26.85794341930722,0 150.1765304025959,-26.86111893231488,0 150.1807407375972,-26.86634815131319,0 150.1850081185972,-26.86854967931348,0 150.2117002085936,-26.87319307432099,0 150.2147539145857,-26.85540736433352,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10001">
+			<name>Spring Gully to ML1A Trunkline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - OERL (North)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Spring Gully to ML1A Trunkline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - OERL (North)</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - OERL (North)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle11</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.0850322604946,-26.05955244039062,0 149.0978815224979,-26.07416025038654,0 149.101392357505,-26.09323703137594,0 149.0997400125179,-26.12350402635622,0 149.1061052175235,-26.14058890734798,0 149.1089967695313,-26.16089532733634,0 149.1088382795388,-26.17920126732475,0 149.1146240135498,-26.20895874830832,0 149.1083161835579,-26.22521490429557,0 149.1139641175917,-26.30995957224442,0 149.113965857608,-26.34939444121958,0 149.1154728556094,-26.3534800682176,0 149.1224174956111,-26.36142536321534,0 149.122627051624,-26.39253965519583,0 149.1269969186336,-26.41808521418145,0 149.123822354642,-26.43684938716836,0 149.122437116651,-26.45790047915454,0 149.123628392654,-26.46567763315012,0 149.137714233665,-26.49956957813432,0 149.1309753696849,-26.54409700510357,0 149.1312661576877,-26.55110335409927,0 149.1356614776947,-26.57010561808903,0 149.147039592698,-26.58401827308475,0 149.1436977107103,-26.61208585806572,0 149.1559640847162,-26.63272139505755,0 149.163058651724,-26.6551500510462,0 149.1639874617275,-26.66424773504083,0 149.1764763737386,-26.69733923402488,0 149.1800526357395,-26.70147894802368,0 149.1937556077295,-26.68432481703992,0 149.1834896927214,-26.65968688705141,0 149.1827914607183,-26.65167747405619,0 149.1748134027095,-26.62636254706901,0 149.1637144217042,-26.6078663170763,0 149.167008704695,-26.58716886109066,0 149.1667954756915,-26.57857954309599,0 149.1551044316878,-26.56371899110074,0 149.1511658456822,-26.54826481810893,0 149.1580343016598,-26.49773083614351,0 149.1501033106542,-26.47989666715163,0 149.1494984896522,-26.47483826815459,0 149.1424763086463,-26.45681388516315,0 149.1471740546289,-26.41730035618994,0 149.1426500326192,-26.39159647520436,0 149.142220057605,-26.35684650622609,0 149.1339021986019,-26.34502831323024,0 149.1340317845873,-26.30988974225243,0 149.1284709135543,-26.22697482630247,0 149.1313616355517,-26.2219189783068,0 149.1348765495455,-26.20898334631635,0 149.1288001575335,-26.17660891333433,0 149.1289862335265,-26.1596269543451,0 149.1257838665179,-26.13714618635798,0 149.1197878255126,-26.12123741436562,0 149.1212848064998,-26.09080804238537,0 149.1163380704907,-26.06615710939893,0 149.1047648304877,-26.05303407840258,0 149.0850322604946,-26.05955244039062,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10002">
+			<name>Ruby Spur Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Ruby Spur Line</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.859073713613,-27.23910157234049,0 150.8667840266099,-27.23523141734598,0 150.8682292436064,-27.22755689035146,0 150.8731836236026,-27.2206850003578,0 150.8978203405916,-27.20572277037699,0 150.9111170235819,-27.18834166539332,0 150.9143743435784,-27.18145472039901,0 150.9142286855764,-27.17656602740208,0 150.9112829285753,-27.17248048640355,0 150.8969834295763,-27.16777653540099,0 150.9032963005588,-27.12810894742888,0 150.9016151885532,-27.11373454143743,0 150.8986139735525,-27.11041753043839,0 150.8827494035615,-27.12479830242299,0 150.882967063563,-27.12854725642067,0 150.8792068125733,-27.15198935240417,0 150.8767745655766,-27.15881121439886,0 150.8771130785785,-27.16376854539582,0 150.8731080515807,-27.16719409439206,0 150.8714564405829,-27.17169081238852,0 150.8724661355847,-27.17663783138574,0 150.8755672255856,-27.18022784538466,0 150.8895392385846,-27.18463038538729,0 150.8829201535895,-27.19332045237913,0 150.8585358236003,-27.20788674736029,0 150.8467290156084,-27.22194114134668,0 150.849592185613,-27.23463141733967,0 150.8537716906136,-27.23807772633909,0 150.859073713613,-27.23910157234049,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10003">
+			<name>Orana Spur Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Orana Spur Line</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.542174049563,-26.96203150239393,0 150.5453776995583,-26.95231946440139,0 150.5446873065566,-26.94766540840409,0 150.5375130515541,-26.93800073240746,0 150.5370678515526,-26.93407178540978,0 150.5396947285444,-26.91531241342281,0 150.5506210495352,-26.89830623943795,0 150.5524855925322,-26.89193470544275,0 150.5501746005297,-26.88456955844654,0 150.5436109215295,-26.88095424044627,0 150.5379368345309,-26.88155430444368,0 150.533653395533,-26.88453650344008,0 150.5317778195362,-26.8915136034349,0 150.5208057955454,-26.90863106641966,0 150.5169627555561,-26.93269175840279,0 150.5182108805604,-26.94407609639602,0 150.5245164655628,-26.95289597139286,0 150.522135750566,-26.95939622638777,0 150.5290932425686,-26.96923765438421,0 150.542174049563,-26.96203150239393,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10004">
+			<name>Peat Field</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Peat Field</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.0793912892602,-25.99092101882945,0 150.0745807282616,-25.99181765882696,0 150.0664760452652,-25.99663184482071,0 150.0639126762672,-26.00035658881733,0 150.063585144269,-26.00468522981445,0 150.0734652142726,-26.01840093180967,0 150.0778449052729,-26.02134816080953,0 150.0806194492744,-26.02634452080747,0 150.0847442002745,-26.02861284480767,0 150.0845253992774,-26.03563848380313,0 150.0795647232811,-26.0423498597969,0 150.0807106412834,-26.04845575279348,0 150.085374952284,-26.05244564579281,0 150.091658070283,-26.0530672507949,0 150.1016507782782,-26.04619293380322,0 150.1046706702757,-26.04139884880748,0 150.1048245352712,-26.03044421581448,0 150.1100573562663,-26.0209019758226,0 150.1076841732638,-26.01384013082615,0 150.109528570262,-26.01003048282929,0 150.1105345042576,-25.99984844783615,0 150.1078749412563,-25.99513867283808,0 150.1025941962562,-25.9924485468377,0 150.0888314302596,-25.99392790783129,0 150.0793912892602,-25.99092101882945,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10005">
+			<name>APLNG Mainline South</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>APLNG Mainline South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.4600863837535,-24.91648650066204,0 150.4413821617545,-24.90998843965864,0 150.4371880987601,-24.92201412264933,0 150.4423278137685,-24.9457620056364,0 150.441208286773,-24.9564068516292,0 150.435671434779,-24.9686932096192,0 150.4342391077846,-24.98200867561021,0 150.4418513377893,-24.9976046876034,0 150.4490558697918,-25.00750247760003,0 150.4433391428012,-25.0280996135847,0 150.4534518468107,-25.0569417735705,0 150.4477601678154,-25.06591375456254,0 150.4483310748203,-25.0784956095548,0 150.4443715338288,-25.09784372054097,0 150.4373780838346,-25.10899329653111,0 150.4319930488464,-25.1359346345119,0 150.4285844528492,-25.14143703150705,0 150.4289735988514,-25.1471370675036,0 150.4228744298588,-25.16276452649127,0 150.4227052288668,-25.18241049847875,0 150.4203879068708,-25.19136619647215,0 150.4248524818736,-25.20054043246813,0 150.4233769918795,-25.21468818045858,0 150.4124441648936,-25.24458564543527,0 150.39622331191,-25.27759043140788,0 150.3974230289147,-25.29004844240047,0 150.3960851319201,-25.3030430373917,0 150.3923471319223,-25.30660383638794,0 150.3866664079276,-25.31705374437906,0 150.3846381199327,-25.32866947937089,0 150.3628991329585,-25.3824972763281,0 150.3635146619639,-25.39642318531951,0 150.3674518639678,-25.4080814693137,0 150.3707034829689,-25.41231203231231,0 150.3715823939713,-25.41874445830859,0 150.3686085809787,-25.43558067329673,0 150.3569445059875,-25.45192531928171,0 150.3569491739975,-25.47679046926595,0 150.3662073780051,-25.50016541425483,0 150.3769740470068,-25.5096719272531,0 150.3840168070063,-25.51213884025433,0 150.3804788320098,-25.5188142042487,0 150.3813876730191,-25.5424116252341,0 150.3791808550211,-25.54636850823071,0 150.3790953130229,-25.55087848722781,0 150.3727307570252,-25.55353771222358,0 150.3672647000288,-25.55973164221746,0 150.3552110620422,-25.58715378019528,0 150.3352336860566,-25.61317779917081,0 150.313411505075,-25.64810352213996,0 150.3059769480782,-25.65248616013422,0 150.2983119550837,-25.66244552412486,0 150.294065226089,-25.67347443511616,0 150.2907920600975,-25.69304586610245,0 150.276330684109,-25.71437255908315,0 150.2750389521214,-25.74447048206356,0 150.2658833111285,-25.75770928905151,0 150.2567369831329,-25.76404051504385,0 150.2397683421448,-25.78503982102378,0 150.2284207071758,-25.85628397197407,0 150.2045522271953,-25.89280393994141,0 150.1953162031989,-25.89699024293509,0 150.1917698442022,-25.90352954292953,0 150.1914035202096,-25.92154354191796,0 150.1879506562224,-25.95144156989761,0 150.1833829812282,-25.96339586188821,0 150.1794575722367,-25.98246861387455,0 150.1802975642434,-25.99937593186415,0 150.1779308552566,-26.0307642128433,0 150.1856125292649,-26.05509834983089,0 150.1899311392676,-26.06378409982709,0 150.2019715592695,-26.07436846682515,0 150.2129548052697,-26.08019596282581,0 150.232532575286,-26.13002523880191,0 150.2285152572992,-26.16080656478078,0 150.2607727273228,-26.23458728874667,0 150.2258693193369,-26.2521134697217,0 150.1884105283566,-26.28206143868787,0 150.1857057043591,-26.28656937668393,0 150.1825203683677,-26.3063481506701,0 150.1851292343746,-26.32440822765965,0 150.2048587543679,-26.31789527267159,0 150.2017080843666,-26.31297848967347,0 150.2027662603637,-26.30634348667811,0 150.2048955633578,-26.29297868568744,0 150.2376124063406,-26.26680069371702,0 150.2776037763244,-26.24678949174556,0 150.282005212321,-26.24062305075123,0 150.2814042183179,-26.23286945975592,0 150.2484103802938,-26.15719376079095,0 150.2525831932809,-26.12751800681146,0 150.2315651262624,-26.07139552183878,0 150.2283474832614,-26.06737839584005,0 150.2143284872612,-26.0601327228391,0 150.2066921012601,-26.05365267484018,0 150.204706080257,-26.04499273384488,0 150.2008523722547,-26.03732010184823,0 150.1981743682518,-26.02893879285248,0 150.1989065532424,-26.00607612586729,0 150.2005010112397,-26.00018694587166,0 150.1993845692335,-25.98431066488128,0 150.2031857902256,-25.96676636189393,0 150.2076957342197,-25.95453469190349,0 150.2097908242089,-25.92867963492073,0 150.2121242072061,-25.92305819292523,0 150.2117322452008,-25.90981209893347,0 150.2196414991976,-25.90572189993921,0 150.2472631351749,-25.86323882697715,0 150.2586968321438,-25.79183101502701,0 150.271307946135,-25.77644491004178,0 150.2811512871303,-25.76953397405009,0 150.2937086311204,-25.75128440506666,0 150.2963433341142,-25.73716660407667,0 150.296592694107,-25.71937458408805,0 150.3097311770962,-25.69909363410615,0 150.3134458860869,-25.67774102512117,0 150.3162946570834,-25.67038707112696,0 150.3200914650807,-25.66548715213159,0 150.3289445930766,-25.65979522613874,0 150.3521502970571,-25.6227134241715,0 150.3716104520432,-25.59776491119508,0 150.3791728980361,-25.58357707820711,0 150.3843668880293,-25.56937663321818,0 150.3893235790278,-25.56796254922106,0 150.3960506620245,-25.5629736222269,0 150.4009987420168,-25.54619997523951,0 150.4003214560074,-25.52250467925427,0 150.4048928700036,-25.51528807426067,0 150.4041118829996,-25.50496871826691,0 150.3989112129979,-25.49818537326913,0 150.3880942529985,-25.49443269526719,0 150.3833960829978,-25.4903639762679,0 150.3768665419926,-25.47435792427545,0 150.3764800209855,-25.45657473728656,0 150.3874488649775,-25.4418125323003,0 150.3915315319677,-25.41943443531611,0 150.3898813449628,-25.40650974232365,0 150.3855290229612,-25.40019912732591,0 150.3831039689588,-25.39300855232949,0 150.3828229099562,-25.38635224133361,0 150.4037236119311,-25.33412434437505,0 150.4054695999264,-25.32305589038277,0 150.4088759869232,-25.31685490838806,0 150.4155937259191,-25.30978050839523,0 150.4174123569109,-25.29032269840828,0 150.4160039359076,-25.28115617641353,0 150.4203253069028,-25.27148953042138,0 150.4252127799,-25.26668929442639,0 150.4268667878961,-25.25765156343276,0 150.4307949428928,-25.25156777643819,0 150.4431134578773,-25.21854889846404,0 150.4448323708697,-25.20039117847622,0 150.4442136208677,-25.19523667247924,0 150.4410075158662,-25.18996277048129,0 150.4424679038636,-25.18410376048559,0 150.4426283888562,-25.16575706649727,0 150.4487781318489,-25.15024791350956,0 150.4561754708333,-25.11497828053485,0 150.4634382568272,-25.10314489954525,0 150.4681620788171,-25.07994506256183,0 150.4674964218134,-25.07048762656756,0 150.4741426918075,-25.05891177057755,0 150.4636298617968,-25.02694318359357,0 150.4694001477866,-25.00423738761026,0 150.4542969377798,-24.97997725661953,0 150.4550729707768,-24.97276852762442,0 150.4607611747707,-24.96013818863468,0 150.462152957765,-24.94634872564397,0 150.4571205427572,-24.92442173565582,0 150.4600863837535,-24.91648650066204,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10006">
+			<name>Spring Gully Gooimbah Lateral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Spring Gully Gooimbah Lateral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.0599861544449,-25.92557472146494,0 149.0517795644441,-25.91946859146551,0 149.0303675414495,-25.92154437645568,0 149.0191170164536,-25.92562789544861,0 148.9925303204652,-25.94000119242897,0 148.94901815848,-25.95340443340319,0 148.9428789144834,-25.95831334139765,0 148.919628662485,-25.95024892539345,0 148.8939960024879,-25.94385856038725,0 148.8738744954951,-25.95078610837485,0 148.8531870414994,-25.95043612536683,0 148.7995674675012,-25.92668381836034,0 148.7923343995033,-25.92804186435659,0 148.7881254305065,-25.93347158635152,0 148.7885272565087,-25.93909487634814,0 148.7924674295096,-25.943420157347,0 148.8478898695078,-25.96804330635366,0 148.8772367305018,-25.96880059436488,0 148.8935794904957,-25.96251482037535,0 148.942988172491,-25.976928800386,0 148.9548261484871,-25.9734428863929,0 148.9596493624842,-25.96906985139758,0 148.9697941864806,-25.96543252840391,0 149.0005779094703,-25.95662674142173,0 149.0281477264583,-25.94175000744207,0 149.0353916604557,-25.93916217044659,0 149.0453261834531,-25.93810521145122,0 149.0507838934541,-25.94310733845024,0 149.0534163164559,-25.94894295244763,0 149.0560414964588,-25.95741091744335,0 149.0647174374521,-25.94548995345431,0 149.0618610974516,-25.94312948445465,0 149.0611472594489,-25.93613386945877,0 149.0599861544449,-25.92557472146494,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10007">
+			<name>Combabula Spur Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Combabula Spur Line</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.4276360595463,-26.36176877633612,0 149.4380291275413,-26.35481957534463,0 149.4467377435313,-26.33506091436058,0 149.4501572565234,-26.31745375137305,0 149.4696123715108,-26.29687380639376,0 149.4862282225026,-26.28545266540757,0 149.4944407614955,-26.27228005841916,0 149.5093432654865,-26.25786895743418,0 149.5117494404839,-26.2528564824383,0 149.5201903244796,-26.24663538044557,0 149.5215632054767,-26.24026580145014,0 149.5204349534747,-26.23479593845315,0 149.5164872844739,-26.23101556045398,0 149.5108832014746,-26.2298227274525,0 149.5037224594774,-26.23288289444773,0 149.4947808984834,-26.24288341243787,0 149.4926176354857,-26.24749039543411,0 149.4783282854944,-26.26150879241957,0 149.4707082495009,-26.27327650540911,0 149.4548582475089,-26.28459143739569,0 149.4317968235239,-26.30924414737097,0 149.4275460175332,-26.32984163635627,0 149.4214410675384,-26.33938601634781,0 149.4181662175444,-26.3522452793384,0 149.4276360595463,-26.36176877633612,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10008">
+			<name>Woleebee Lateral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Woleebee Lateral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.1851292343746,-26.32440822765965,0 150.1825203683677,-26.3063481506701,0 150.1425975213772,-26.30970709965218,0 150.1115883433832,-26.30899774364036,0 150.1029197473856,-26.31056764463592,0 150.0930889013908,-26.31852778262698,0 150.0736788034074,-26.34936583559972,0 150.0578709634119,-26.35249879859148,0 150.0500820684155,-26.35772661458509,0 150.0376693414186,-26.35900343157937,0 150.0310096954191,-26.35690051357807,0 150.0229801974186,-26.35163275257824,0 150.0045048134215,-26.34949345157229,0 149.9656983984316,-26.35491466855349,0 149.9503146544371,-26.36060849754379,0 149.9216282584414,-26.356582115535,0 149.8976005074499,-26.36524405752001,0 149.8829779674515,-26.36197370851629,0 149.8735603554545,-26.36445584951099,0 149.8647757334543,-26.35970838551052,0 149.8537797424566,-26.35969546750619,0 149.8493137324585,-26.36195891850298,0 149.8444489054619,-26.36782431049734,0 149.8388004284697,-26.38394163448488,0 149.8383830454735,-26.39322189847884,0 149.8416130454771,-26.40363352547352,0 149.8312339714805,-26.40669855946747,0 149.8255630284832,-26.41035415346291,0 149.757998603494,-26.40251684844115,0 149.7520268794961,-26.40477248143736,0 149.7488370074988,-26.40977073843293,0 149.7131867735044,-26.4052221924217,0 149.6626004875088,-26.39039868341107,0 149.6420480385128,-26.38952607740349,0 149.5628583735247,-26.37828980137925,0 149.5043151415344,-26.37201837236003,0 149.4985876415331,-26.36590378036162,0 149.4848548305341,-26.36123503135913,0 149.4380291275413,-26.35481957534463,0 149.4150213595525,-26.3702034453258,0 149.4799356175423,-26.3787664503461,0 149.4868577715418,-26.38100521634743,0 149.4932363575431,-26.38738784734592,0 149.4982422965429,-26.38953449834655,0 149.5585693015329,-26.39600846636634,0 149.6401885715205,-26.40752353439136,0 149.6589135485169,-26.40817684039835,0 149.6927192455145,-26.41957719440451,0 149.7117652265122,-26.42366204540945,0 149.7578674645049,-26.42901262942431,0 149.7639778965027,-26.42681409542812,0 149.7672970134998,-26.42157950043274,0 149.8288755824901,-26.42884890845249,0 149.8334125194886,-26.42764238945505,0 149.8400976204854,-26.42302813446061,0 149.8544678684806,-26.41863263046908,0 149.8618955584761,-26.4112849064767,0 149.8637442914724,-26.40305564348264,0 149.8580827984678,-26.38921218548917,0 149.861630208463,-26.37927183849688,0 149.8731113964621,-26.3827769534992,0 149.8789484104609,-26.38284202250147,0 149.883709158459,-26.38051408050483,0 149.8990690184571,-26.38369085250888,0 149.9247271104482,-26.37467719052475,0 149.9459273534454,-26.37866893353061,0 149.9562531424432,-26.37847117953481,0 149.9654632444403,-26.37593541254006,0 149.9715801534376,-26.37239187954473,0 150.0045554144289,-26.36758373256082,0 150.0156071934271,-26.36873258456446,0 150.0212561834277,-26.37295708256402,0 150.0317756124273,-26.37726730156544,0 150.0426001054254,-26.37816802056915,0 150.0477850214234,-26.37566482757278,0 150.0554824644217,-26.375402322576,0 150.0653243094175,-26.37001174858331,0 150.0859943704113,-26.36512569159459,0 150.1110842503909,-26.32768492462828,0 150.1464945053838,-26.32786537264218,0 150.1672361243784,-26.32491529665225,0 150.1851292343746,-26.32440822765965,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10009">
+			<name>Condabri Lateral North</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Condabri Lateral North</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2159141595623,-26.79895526136992,0 150.2284735225295,-26.72513977742186,0 150.236367536526,-26.72050989942791,0 150.2392547405235,-26.71575415743207,0 150.2418359575161,-26.69917978644365,0 150.2405178875143,-26.69395204244645,0 150.2426108205082,-26.68017756345604,0 150.2404578485062,-26.67407732245908,0 150.2445111705029,-26.66825679446437,0 150.2494655324888,-26.63620046348673,0 150.2562710154829,-26.62504664549651,0 150.2610951594679,-26.59085193252018,0 150.2505536404583,-26.56202739453437,0 150.2384006504553,-26.54858002053813,0 150.2382557504493,-26.53407091554733,0 150.2280403374417,-26.51026253155843,0 150.226881529437,-26.49838039056553,0 150.2151419524316,-26.47917641557311,0 150.2135664644261,-26.46490633358156,0 150.1958961934147,-26.42835008759785,0 150.1955714004124,-26.4223993456015,0 150.205062648386,-26.36252755864331,0 150.2041900713813,-26.35028691765074,0 150.209038622374,-26.33496328666239,0 150.2048587543679,-26.31789527267159,0 150.1851292343746,-26.32440822765965,0 150.188541701378,-26.33461308065451,0 150.183721262385,-26.34931503164327,0 150.1850279203896,-26.36134358263614,0 150.1751205604195,-26.4296666835888,0 150.1942241084321,-26.47009863057062,0 150.196016611438,-26.48519766556174,0 150.2070508284431,-26.50325147955461,0 150.2109727044501,-26.52239657154398,0 150.2183990884548,-26.53761254753723,0 150.2188991544619,-26.55513781952629,0 150.2316857664651,-26.56938061952226,0 150.2407790844725,-26.59195223951148,0 150.236735504485,-26.62049155349173,0 150.23027106249,-26.62955191948341,0 150.2251732145044,-26.66234642146052,0 150.2183323865094,-26.67104217945229,0 150.2186414285112,-26.67554601444956,0 150.222159733513,-26.68164672544706,0 150.2199395285193,-26.6959102024371,0 150.2212570355212,-26.7011223944343,0 150.2200949035244,-26.70857490042912,0 150.2123353725279,-26.71309645842317,0 150.2094078885303,-26.71761016341915,0 150.1981181355622,-26.78968314136883,0 150.1949045835654,-26.79602488636353,0 150.2159141595623,-26.79895526136992,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10010">
+			<name>Condabri Lateral South</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Condabri Lateral South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2308910745911,-26.8765315453264,0 150.2117002085936,-26.87319307432099,0 150.2048905826113,-26.91285438829306,0 150.2061775056135,-26.91875437328981,0 150.2047490636176,-26.92804213628334,0 150.206082389619,-26.93209810928127,0 150.2105471126202,-26.93722334827976,0 150.2228824766197,-26.94208990828151,0 150.2293413506173,-26.93969192028556,0 150.2325011586144,-26.93410261929036,0 150.2308017006122,-26.92790536429365,0 150.2255749476117,-26.92404996029405,0 150.2268109116085,-26.91682849329913,0 150.2253229696069,-26.91221261330149,0 150.2308910745911,-26.8765315453264,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10011">
+			<name>Sardine Creek, Springvale, Myrtleville, Punchbowl and Yellowbank Pipelines</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Sardine Creek, Springvale, Myrtleville, Punchbowl and Yellowbank Pipelines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.409012909386,-25.44129850150787,0 148.4018389443824,-25.42878760551281,0 148.3979432813819,-25.4255091725133,0 148.3952227453799,-25.41904785051623,0 148.3901677353799,-25.4163303875159,0 148.3842719413813,-25.41665661251333,0 148.3325840593643,-25.34795779153543,0 148.3311462773615,-25.34031702753961,0 148.3262822903606,-25.33552817454064,0 148.3588461463448,-25.31442490756693,0 148.3648679813432,-25.3137010205698,0 148.3770195003418,-25.31672676257281,0 148.3850152463393,-25.31484952357721,0 148.3936210953326,-25.30313722558798,0 148.3950121233298,-25.2971006655923,0 148.394633482329,-25.2949421745935,0 148.4001692563232,-25.28353879960285,0 148.3999306443209,-25.27783479160632,0 148.3955095103179,-25.26822817761053,0 148.3871664323185,-25.26546713260889,0 148.3823442273203,-25.26721384160586,0 148.3790904723226,-25.27103877760215,0 148.3790196183253,-25.27771487559797,0 148.3729277083346,-25.29717299558337,0 148.3662680023354,-25.29549689058174,0 148.3514358143393,-25.29713623757473,0 148.3098920743597,-25.32469525754081,0 148.3082541003591,-25.32235036954161,0 148.3081065733554,-25.31323488854724,0 148.3060303913543,-25.30943445254878,0 148.3003069863543,-25.30637405654838,0 148.2937893843561,-25.30725282054521,0 148.2888443113594,-25.31285286753973,0 148.2883524913645,-25.32492009853198,0 148.2937080453676,-25.33521196952773,0 148.2868065683733,-25.34544581451855,0 148.2857243233753,-25.3496637585155,0 148.2866394323775,-25.35547928451223,0 148.2898529033785,-25.35974530351086,0 148.2946447843785,-25.36216448351129,0 148.3016778303771,-25.36260298251384,0 148.3068623013779,-25.36720494651306,0 148.3142122373763,-25.3674054825159,0 148.3197434663733,-25.36288010852095,0 148.3551528143849,-25.40998786150578,0 148.3374998473888,-25.41021940149853,0 148.3327636943905,-25.41178489349565,0 148.3285455513941,-25.41817552348996,0 148.3310548613965,-25.42526934348655,0 148.3375618883963,-25.42820043748733,0 148.3686626893894,-25.42796145549999,0 148.3814505463903,-25.43709099049943,0 148.3807324163934,-25.44416328449472,0 148.3858372673945,-25.44951450149342,0 148.4004549203905,-25.44768486950044,0 148.409012909386,-25.44129850150787,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10012">
+			<name>Arcturus Trunkline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Arcturus Trunkline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.4946185668181,-24.09207408238337,0 148.5129156538391,-24.1539168633524,0 148.5178815178489,-24.18061906333782,0 148.5285625628482,-24.18448342133976,0 148.521705519856,-24.20024919232717,0 148.5307413278669,-24.23192481531116,0 148.5797501558862,-24.30516786428553,0 148.5840203088925,-24.32307415827612,0 148.5980606699009,-24.35104157526443,0 148.597574901904,-24.35860454725953,0 148.6115061099144,-24.39147481424471,0 148.6255453719225,-24.41883560423337,0 148.6388679719272,-24.43725035322732,0 148.6568276699413,-24.48149132220704,0 148.6615851029436,-24.48960243020393,0 148.6726127619427,-24.49321839320614,0 148.6812772569389,-24.48820813721278,0 148.6806074619373,-24.48399411421513,0 148.675966029935,-24.47603238221822,0 148.6558535629197,-24.4276409452402,0 148.6428765179154,-24.41018699424581,0 148.6297265299078,-24.38456889325642,0 148.6172489148985,-24.35519328226964,0 148.618351280894,-24.34456140627671,0 148.6138754938929,-24.33956987127801,0 148.6026686078862,-24.31712980728741,0 148.5981751798795,-24.29827995829731,0 148.5487482898601,-24.22438282032317,0 148.5402914338496,-24.19417195833853,0 148.5321381328335,-24.15001691536267,0 148.5142710218127,-24.08922065439316,0 148.4946185668181,-24.09207408238337,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10013">
+			<name>APLNG Mainline North</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>APLNG Mainline North</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.4600863837535,-24.91648650066204,0 150.4625180797505,-24.91006449766706,0 150.4730907807468,-24.90603812267386,0 150.486242941739,-24.8926519726876,0 150.4847328437316,-24.87324946469927,0 150.4888297257222,-24.8517639667145,0 150.4878533317201,-24.8457597917179,0 150.4889163917138,-24.83045254872802,0 150.4923505027055,-24.81134124674147,0 150.4877693397026,-24.80169634674573,0 150.4937061646886,-24.76931853876858,0 150.4895942526819,-24.7505265687788,0 150.4913697276718,-24.72590978679508,0 150.489730389668,-24.71569004580087,0 150.490083374662,-24.70065230481051,0 150.4847504576575,-24.68670682781718,0 150.4844767616539,-24.67765619682278,0 150.4791409176485,-24.66128043683098,0 150.4594364326362,-24.62088861684854,0 150.4521291166294,-24.60035622485857,0 150.4446846406256,-24.58723203786386,0 150.4352625176153,-24.55655461987942,0 150.430058806612,-24.5458106868841,0 150.4310996896073,-24.53433108389175,0 150.4255560545929,-24.49528884191415,0 150.4247685095843,-24.4733131619277,0 150.4209687835769,-24.45287683693905,0 150.4173390655753,-24.44681162194141,0 150.4244422535624,-24.41775599496259,0 150.4253321355499,-24.38666623998255,0 150.4220528385438,-24.36963364599196,0 150.4137462395375,-24.34977045400111,0 150.4142442325346,-24.34259982500584,0 150.4278002385235,-24.32096136902495,0 150.4396103505184,-24.31380595203423,0 150.4465927925137,-24.30525509204243,0 150.4753044995025,-24.29050279706332,0 150.4999526714948,-24.28290701607807,0 150.506050475492,-24.27856132508327,0 150.5230950924864,-24.27227994309411,0 150.571977682464,-24.23876328213497,0 150.5915843214559,-24.22749804615,0 150.5947022884551,-24.22698002315158,0 150.6151533524561,-24.23921254415214,0 150.6296609794534,-24.23930035415793,0 150.6442145894487,-24.23412998316706,0 150.6527661904475,-24.23514694716988,0 150.6594140444458,-24.23393216317333,0 150.6676430094421,-24.22844600118011,0 150.6769816404408,-24.22956918218318,0 150.689981912435,-24.22097532219385,0 150.6952856024335,-24.21950678919691,0 150.6987576214317,-24.21656163820017,0 150.7020138844286,-24.21029874220544,0 150.7118561184239,-24.20308478221395,0 150.7212741984161,-24.18760694822752,0 150.7238160834132,-24.18131556523251,0 150.72272653041,-24.17274020123748,0 150.725271368407,-24.16630560624256,0 150.7416778553991,-24.15376313625711,0 150.7492590013969,-24.15175168926144,0 150.7542906603944,-24.14779029026596,0 150.7574218093901,-24.13836255527318,0 150.7686788473851,-24.13097782428238,0 150.7718844933823,-24.12510478128738,0 150.7721805853804,-24.12041596929046,0 150.7909169533751,-24.11581079830093,0 150.830155315362,-24.10058769932638,0 150.8332722373599,-24.09677299033003,0 150.8343904503574,-24.09086279633422,0 150.841093329355,-24.08783915033883,0 150.8486728523532,-24.0867138763426,0 150.8528679243512,-24.08363511734624,0 150.8621829963389,-24.05673701836696,0 150.869859066335,-24.05028580437413,0 150.8885756463279,-24.0409087953876,0 150.9228790923181,-24.03174534840725,0 150.9759135683002,-24.01064159944199,0 150.9797547462975,-24.00518128644698,0 150.9819665912916,-23.99142971945655,0 150.9819569092831,-23.96925439747052,0 151.0000280742683,-23.93982228649639,0 151.0125557332544,-23.91016110752016,0 151.0213328812467,-23.89439037653363,0 151.0331884782414,-23.88626579554356,0 151.036083110239,-23.88144748354777,0 151.0395724572307,-23.86176552456159,0 151.0361962632279,-23.85294756456577,0 151.0362178472255,-23.84686156456961,0 151.0279609832198,-23.82817857357804,0 151.0165094532173,-23.8165946105807,0 151.029278026212,-23.80908243359062,0 151.0496520612009,-23.78985900361097,0 151.0571034681985,-23.78703079861575,0 151.0653105171949,-23.7814468816226,0 151.0745071221882,-23.76844947163451,0 151.082657716186,-23.76652014463902,0 151.0871511681833,-23.76178719964382,0 151.1207738751779,-23.76313723465658,0 151.179931662166,-23.75961771968272,0 151.1861865001641,-23.75759355068653,0 151.1906240411644,-23.76030354668663,0 151.1959044301635,-23.76048920868865,0 151.2023350671608,-23.75639040569381,0 151.2050708831571,-23.74799756270022,0 151.201596382155,-23.74100779070323,0 151.1943780401552,-23.73836565870197,0 151.184894015157,-23.73861093569797,0 151.1775115001593,-23.74136444969325,0 151.1359714821678,-23.74410594067472,0 151.1223853991704,-23.74479613566879,0 151.1158544101708,-23.74274903966743,0 151.108723447173,-23.74511513966306,0 151.0818612371774,-23.74414671065279,0 151.0625044601847,-23.75413396463867,0 151.0510190401906,-23.7640173536278,0 151.0467757761942,-23.77123133662154,0 151.0382664461972,-23.77487594461579,0 151.0166773072088,-23.79503364959435,0 151.0065903522126,-23.80010066258708,0 150.9969256032183,-23.81029634257674,0 150.9976074052231,-23.82285522656913,0 150.9998973162246,-23.827696846567,0 151.0108350122263,-23.83716555956546,0 151.0166733422306,-23.85092376355916,0 151.0163907952327,-23.85623164955569,0 151.0196859732348,-23.86304659855272,0 151.0173567362396,-23.87420670554476,0 151.0102754922424,-23.87817636953939,0 151.0043542622462,-23.88524426153254,0 150.9945574192549,-23.90290386451746,0 150.9823117292684,-23.9319253264942,0 150.9629409502843,-23.96373005646632,0 150.9612544662976,-23.99702692644465,0 150.9160737363127,-24.01478878041519,0 150.8814905223226,-24.02406049839537,0 150.859132674331,-24.03509356037938,0 150.8453136953382,-24.04686044536638,0 150.8373684463487,-24.07008170534852,0 150.819358398355,-24.07779995433637,0 150.8162102353572,-24.08179771733258,0 150.8150933923594,-24.08695955432888,0 150.7834038873699,-24.09900381930849,0 150.7638123293754,-24.10383892229751,0 150.7560370903784,-24.10774077629192,0 150.7523684333811,-24.11295961828714,0 150.7524298673839,-24.12011334728265,0 150.7432933823874,-24.12474850527605,0 150.7374302213929,-24.13600395926657,0 150.7231625113984,-24.14338278525617,0 150.708853263406,-24.15594866024246,0 150.7029127274127,-24.17016710423111,0 150.7034300634164,-24.17991575722516,0 150.6963712844223,-24.19164412321492,0 150.6816406634299,-24.20399242620119,0 150.672608080434,-24.21003519919372,0 150.6637164094354,-24.20938842819054,0 150.6570962734374,-24.21159473918648,0 150.6516430074403,-24.21624612718134,0 150.6410652694421,-24.21593599617727,0 150.6276335604464,-24.22058219016891,0 150.615538672448,-24.21884427216512,0 150.600509857447,-24.20916076516515,0 150.5851969654501,-24.2097292621586,0 150.5613353034599,-24.22337984114037,0 150.5120292734824,-24.25706935509922,0 150.4967766244873,-24.2624168110897,0 150.4911190534901,-24.26660047708477,0 150.4671874064975,-24.27394436007048,0 150.4346951195102,-24.29068090304681,0 150.4262307095156,-24.30028806203734,0 150.4188548305183,-24.30361249303227,0 150.4099442665232,-24.31166835702358,0 150.3953731185358,-24.33668084200194,0 150.3939296615418,-24.35101958499233,0 150.4030492055494,-24.37461056398115,0 150.4056099265542,-24.38797328197376,0 150.4049059435649,-24.41481564895655,0 150.3975682925795,-24.44819573793256,0 150.3987568855814,-24.45341308792975,0 150.4020908735827,-24.45850046592788,0 150.4050985165887,-24.47502868291868,0 150.4059286025973,-24.49718092990505,0 150.4113417266113,-24.53489365588344,0 150.4103259236169,-24.54877498987426,0 150.4165019306211,-24.56223660486827,0 150.4261132066317,-24.59357781585237,0 150.4339672796357,-24.60752029184674,0 150.4411386986425,-24.62791539083674,0 150.4456328506443,-24.63479153283423,0 150.4606930946545,-24.66777193381946,0 150.464947369659,-24.68102092881281,0 150.4654225396628,-24.69090538480675,0 150.4703195756667,-24.70293323480111,0 150.4699606606722,-24.71669130079229,0 150.4714841486755,-24.72579964078714,0 150.4697999866864,-24.7523300837697,0 150.4737994096925,-24.76981722376026,0 150.4714661446991,-24.78523563174957,0 150.4670225077059,-24.8000943297384,0 150.4693732767089,-24.8088603687338,0 150.4724586647101,-24.81327928873225,0 150.4692102997168,-24.82861702172126,0 150.4678164897239,-24.84571066270988,0 150.4689185327258,-24.85110649170691,0 150.4649565767346,-24.87128478669256,0 150.4661390367406,-24.88696218868313,0 150.4600565327438,-24.89213725667741,0 150.4510134587463,-24.89410974767254,0 150.4459938737491,-24.89879925566755,0 150.4413821617545,-24.90998843965864,0 150.4600863837535,-24.91648650066204,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10014">
+			<name>Eurombah Lateral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Eurombah Lateral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.4276360595463,-26.36176877633612,0 149.4181662175444,-26.3522452793384,0 149.400847403546,-26.34734017833462,0 149.3834265785494,-26.34646310632828,0 149.3801899015437,-26.33102483133675,0 149.373974086543,-26.32618801033733,0 149.3517449485322,-26.28849785935231,0 149.3403045875313,-26.28035133335291,0 149.3275782635319,-26.27540625235099,0 149.3058328805358,-26.27367160734346,0 149.2970784125331,-26.26262042034695,0 149.2894177055333,-26.25919648334608,0 149.2741164655303,-26.24407753634954,0 149.269598918528,-26.23583664135293,0 149.2699617035225,-26.22287223736126,0 149.2652650595192,-26.21228562836608,0 149.2602356645175,-26.20577993736818,0 149.2537823415121,-26.18913207537611,0 149.2424129655103,-26.17895318837801,0 149.2276690024777,-26.09205730042693,0 149.2271357864655,-26.06212573344557,0 149.229086847461,-26.05227646245256,0 149.227266231453,-26.03180584046472,0 149.2242245464507,-26.02469292846801,0 149.2190589754504,-26.0212831414681,0 149.220575594448,-26.01613024247194,0 149.2183349564423,-26.00098737648059,0 149.2207588664365,-25.98831161548954,0 149.2181390344342,-25.98119908949298,0 149.2163297884267,-25.96206948850431,0 149.2189259684201,-25.94737924151459,0 149.2178091634161,-25.93701473852068,0 149.2154875684148,-25.9326382405225,0 149.2074247264152,-25.92938295452134,0 149.1995974674184,-25.93326552751578,0 149.197696859421,-25.93841212551178,0 149.1989294734246,-25.94803598550621,0 149.1962269724291,-25.95758624549912,0 149.1994691404411,-25.98858018548089,0 149.1983096294466,-26.00128091547242,0 149.19955060645,-26.01012354746734,0 149.1993428074517,-26.01426498246466,0 149.1958510364542,-26.01842710646065,0 149.1950811134563,-26.02319693745734,0 149.1971808024577,-26.02770949045534,0 149.2078876914596,-26.03781650445323,0 149.2082641774619,-26.04370584444967,0 149.2071485084696,-26.06177455543784,0 149.2077566104826,-26.09376665341793,0 149.2231874015168,-26.1847607973667,0 149.225363352518,-26.18879137536503,0 149.23692172252,-26.19976412036271,0 149.2421472735247,-26.21374092135598,0 149.2474272645264,-26.22057466635376,0 149.249951782528,-26.22592816335139,0 149.2493018815317,-26.23453500934569,0 149.2512303545348,-26.24306367534108,0 149.2578328335382,-26.25464719133641,0 149.2772207895419,-26.2736608323321,0 149.2835453665417,-26.27646248533284,0 149.2919189825453,-26.28948993132795,0 149.296663443545,-26.29120569932874,0 149.3217681595403,-26.29277327333772,0 149.3352805195403,-26.29961046733876,0 149.3580517575512,-26.33782097432366,0 149.3622253115518,-26.34143031032305,0 149.3660180395584,-26.35955623631312,0 149.371999023559,-26.36402667931266,0 149.3968622935542,-26.36507062432184,0 149.4150213595525,-26.3702034453258,0 149.4276360595463,-26.36176877633612,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10015">
+			<name>Strathblane to Spring Gully Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Strathblane to Spring Gully Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.0794345194464,-25.93919476146413,0 149.0714398534436,-25.92828193446781,0 149.11650733043,-25.91861104449187,0 149.1203810894267,-25.91253082949724,0 149.1219610684199,-25.89683858850776,0 149.1271667374159,-25.88960466351437,0 149.1405262814112,-25.88515815652251,0 149.142932740409,-25.88124047152593,0 149.1429593884072,-25.87675866152877,0 149.1375947044057,-25.87024554553072,0 149.132048646406,-25.86805849552989,0 149.1273323784072,-25.86864719252763,0 149.1147814444122,-25.87420684051912,0 149.1106339094146,-25.87802135551508,0 149.103166295421,-25.88967427850475,0 149.101298310424,-25.89616375149992,0 149.1013352814271,-25.90375907949516,0 149.0697521144364,-25.90998839547865,0 149.0599861544449,-25.92557472146494,0 149.0611472594489,-25.93613386945877,0 149.0618610974516,-25.94312948445465,0 149.0647174374521,-25.94548995345431,0 149.0794345194464,-25.93919476146413,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10016">
+			<name>Fairview Spring Gully Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Fairview Spring Gully Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.0599861544449,-25.92557472146494,0 149.0697521144364,-25.90998839547865,0 149.0628732794345,-25.90190564348098,0 149.0571686654345,-25.89876089548069,0 149.0544464984337,-25.89551913248164,0 149.0540999124308,-25.88841191848597,0 149.0506291624292,-25.88261184648824,0 149.053491168427,-25.8787410504918,0 149.0542722914246,-25.87329601249555,0 149.0508145574207,-25.86202510750126,0 149.0517885064169,-25.85323729850718,0 149.0494979184105,-25.8363191895169,0 149.0413241554089,-25.82817593951875,0 149.0314499604086,-25.82247233251839,0 149.0227675684038,-25.80622430652513,0 149.0231981064003,-25.79802997853046,0 149.0157034223978,-25.78798392453378,0 149.0222382363872,-25.76560682455045,0 149.0212127713856,-25.76104452555292,0 149.0171293223845,-25.75608814455439,0 148.9998446343855,-25.74985006455141,0 148.9882008293851,-25.74272901155123,0 148.9823596393857,-25.74122310554984,0 148.974779613388,-25.74280408654581,0 148.9707544523913,-25.74888524054039,0 148.9718136893936,-25.75486821553705,0 148.9775796183947,-25.76054408453579,0 148.9852239703938,-25.76240534053767,0 148.9906905723945,-25.76685260453706,0 149.0007215813932,-25.7690461015397,0 148.9962678643973,-25.77673230553308,0 148.9933887234063,-25.79711184451913,0 148.9968367334076,-25.80183831951754,0 149.0023996404072,-25.80397418951841,0 149.0020664854094,-25.80913163851506,0 149.0057643784128,-25.81918117851021,0 149.0141488134163,-25.83224972750534,0 149.0204005034173,-25.83780327350434,0 149.0303168674175,-25.84342923150476,0 149.031552253421,-25.8526045414995,0 149.0307068944254,-25.86287772049269,0 149.0327559684289,-25.87261359348739,0 149.0293746304323,-25.87905166948199,0 149.029093135435,-25.88557897647778,0 149.0338913944376,-25.89423269847425,0 149.0366542984422,-25.90706117646728,0 149.049577949443,-25.91560612646707,0 149.0517795644441,-25.91946859146551,0 149.0599861544449,-25.92557472146494,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10017">
+			<name>Darling Downs Pipeline System - Talinga to DDPS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - OERL (South)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Darling Downs Pipeline System - Talinga to DDPS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - OERL (South)</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - OERL (South)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle10</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.8986139735525,-27.11041753043839,0 150.8923216695525,-27.10735107743789,0 150.8761734645554,-27.10660122643207,0 150.870431644557,-27.10788668742901,0 150.8660080275591,-27.11086822542537,0 150.8356920145637,-27.10724033841586,0 150.8262429055642,-27.10386667441433,0 150.8025591205685,-27.10297324040565,0 150.7798694255765,-27.11131347339145,0 150.7653121605786,-27.10947827138693,0 150.7455670855764,-27.09443653438884,0 150.7098325715824,-27.09152681037675,0 150.6435611765904,-27.078759483359,0 150.6307091445912,-27.07422907135689,0 150.6161894395884,-27.06048932736,0 150.6068468115717,-27.01515179338533,0 150.5954077765622,-26.98633523939926,0 150.5880480105606,-26.97877187040121,0 150.5824707085608,-26.97637686340056,0 150.5675480405592,-26.96536848540174,0 150.542174049563,-26.96203150239393,0 150.5290932425686,-26.96923765438421,0 150.522135750566,-26.95939622638777,0 150.5091945465679,-26.9576943033838,0 150.4915582435697,-26.95352602937954,0 150.4651816935736,-26.94992711937151,0 150.4629556235713,-26.94344600837477,0 150.4563370355714,-26.94016722037427,0 150.4500515515731,-26.9412810873711,0 150.4450718215767,-26.94783247336497,0 150.4387947195781,-26.94811609336232,0 150.4337350875806,-26.95157901935813,0 150.4148578575832,-26.94863401335261,0 150.3955683475815,-26.93481370835388,0 150.3752468555836,-26.9301137993489,0 150.3739525515807,-26.92241938735329,0 150.3700694215797,-26.91790630235464,0 150.3725889135733,-26.90339260036489,0 150.3519247475799,-26.90930971735302,0 150.3489306385852,-26.92074163734456,0 150.3492556625868,-26.92484604834205,0 150.354738176588,-26.93052573034058,0 150.3601835575921,-26.94316151133466,0 150.3730078825919,-26.94908050533593,0 150.3869881995901,-26.95161651333977,0 150.4076596005918,-26.96593174333874,0 150.4335052215882,-26.96994632434632,0 150.446123377584,-26.96617794335366,0 150.458864553582,-26.96738694735788,0 150.493619964577,-26.97232179836834,0 150.5053731545759,-26.97544065537095,0 150.5586418235678,-26.98195172238766,0 150.5777286325694,-26.99529330238661,0 150.5873516935776,-27.01977395837473,0 150.5977179315954,-27.06837556334773,0 150.6209226055996,-27.09016887634287,0 150.6382802225986,-27.09621991834578,0 150.7027502495908,-27.10868043036302,0 150.7157578455891,-27.11089331336667,0 150.7380452095849,-27.11161623737491,0 150.7564116625872,-27.1261390883728,0 150.7797472775839,-27.12952505637976,0 150.7848889115826,-27.12892688638213,0 150.8046014095756,-27.12130249739471,0 150.8105882605743,-27.12098522939725,0 150.8224463555722,-27.1217367524014,0 150.8311743335718,-27.12489605540279,0 150.8703220455658,-27.12919184041532,0 150.8788953045623,-27.1247579764215,0 150.8827494035615,-27.12479830242299,0 150.8986139735525,-27.11041753043839,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10018">
+			<name>Glentulloch, Merivale and Westgrove Pipelines</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Glentulloch, Merivale and Westgrove Pipelines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.4042218013943,-25.45902880649486,0 148.4004549203905,-25.44768486950044,0 148.3858372673945,-25.44951450149342,0 148.3855878173957,-25.45241698949151,0 148.3655819964161,-25.49120537745924,0 148.3502988084239,-25.50214970144626,0 148.3371283224334,-25.51816149043097,0 148.327653786439,-25.5265999704219,0 148.3200353584418,-25.52926560441717,0 148.3171605204449,-25.53546566441214,0 148.3246385754495,-25.55052156040575,0 148.325881255452,-25.55733792140198,0 148.3327259444551,-25.56847803439777,0 148.3324667084586,-25.57689265839242,0 148.3375760604596,-25.5817812793914,0 148.3427712504687,-25.60665690137795,0 148.3525520744802,-25.6398997953611,0 148.3524060794821,-25.64449336335817,0 148.3656683965006,-25.69619120033118,0 148.3666961825092,-25.71756824131822,0 148.3728092215112,-25.72562000531564,0 148.3708234625235,-25.75437888029686,0 148.3754594415268,-25.76478205029222,0 148.3735086355289,-25.76887256428888,0 148.3739785245307,-25.77336548528625,0 148.3688849435346,-25.78005347328004,0 148.368160077537,-25.78568582427621,0 148.3731064665409,-25.79779233727062,0 148.3806451495409,-25.80158513327127,0 148.3866463475389,-25.80016110027456,0 148.3905555425363,-25.79580026327886,0 148.3904479505313,-25.78358932028646,0 148.3936515505284,-25.77831903729102,0 148.3960628655225,-25.76546463630003,0 148.3956064075209,-25.7612446613025,0 148.3908897175181,-25.75207158930634,0 148.3925306195048,-25.72054815432671,0 148.3909364885035,-25.71662801732852,0 148.3862994065026,-25.71198748232957,0 148.3855642684954,-25.69423494434037,0 148.372395945477,-25.64264956436734,0 148.3729417934745,-25.63696442337111,0 148.3690199194718,-25.62825587837498,0 148.3550571184508,-25.56997020140581,0 148.3499498874474,-25.55891239341066,0 148.3511818604441,-25.55177489041562,0 148.3488557564431,-25.54792918041709,0 148.344736946443,-25.54551089541694,0 148.3443643144394,-25.53647347042243,0 148.3524028304348,-25.52977054842987,0 148.364688345426,-25.51476838144416,0 148.3805627804178,-25.50338999345765,0 148.4008642294232,-25.52712080445097,0 148.419664601425,-25.54148342244955,0 148.4158521704316,-25.55553995943923,0 148.4182925744337,-25.56202179943616,0 148.4228802374338,-25.5647361694363,0 148.4292113914326,-25.5651319734386,0 148.4369520494294,-25.56132940244408,0 148.4387493454271,-25.55684924444761,0 148.4377907764254,-25.55218171045013,0 148.4428015454191,-25.53952956046006,0 148.4416462624169,-25.53368209546325,0 148.4154173664149,-25.51472683246456,0 148.3904772594083,-25.48557215347277,0 148.4042218013943,-25.45902880649486,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10019">
+			<name>CTP Lateral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>CTP Lateral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.4004549203905,-25.44768486950044,0 148.4042218013943,-25.45902880649486,0 148.4312949033902,-25.46309656850321,0 148.4408205023873,-25.46108177650831,0 148.4508753763833,-25.4566432075151,0 148.548224063363,-25.45877228955289,0 148.5549564123609,-25.45721696655657,0 148.5882531423539,-25.45767813256966,0 148.599647430353,-25.46153025257182,0 148.6309930453466,-25.46244765058383,0 148.6384738003438,-25.45957844958864,0 148.6415761563406,-25.45326985859383,0 148.6396869903387,-25.44772595559655,0 148.6344713773385,-25.44437174859655,0 148.602649479345,-25.44363889158423,0 148.5915550293458,-25.43967948458224,0 148.5528445363539,-25.43914004656703,0 148.5469357593559,-25.44068511756369,0 148.4482670143763,-25.43853994352539,0 148.4313054243826,-25.44479277751466,0 148.409012909386,-25.44129850150787,0 148.4004549203905,-25.44768486950044,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10020">
+			<name>Rolleston Field</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Rolleston Field</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.6704016679501,-24.51037168419455,0 148.6726127619427,-24.49321839320614,0 148.6615851029436,-24.48960243020393,0 148.6525582859491,-24.49841674919475,0 148.6501175249556,-24.51338335218444,0 148.6342513869668,-24.53260413016602,0 148.6331045489663,-24.53088723516662,0 148.633835679963,-24.5230515971718,0 148.6299336479617,-24.51801252517336,0 148.6222353639628,-24.5166139161711,0 148.6157720189659,-24.52092185816579,0 148.6125890059711,-24.53207151515757,0 148.6087428179731,-24.53501935815416,0 148.6069691139753,-24.5394018121507,0 148.6087421669774,-24.54545623914766,0 148.6147168179775,-24.54907247114781,0 148.6178567589787,-24.55358479114628,0 148.6105967939835,-24.56157782413836,0 148.6110457669865,-24.56910796313385,0 148.6148410539871,-24.57271444213313,0 148.6201538369865,-24.57391729013454,0 148.6266154139842,-24.57143608513871,0 148.6359426709827,-24.57274229814168,0 148.6471755399783,-24.56774517814935,0 148.6498013449754,-24.56185588515409,0 148.6479496159693,-24.54597769316323,0 148.6681358609551,-24.52140191518676,0 148.6704016679501,-24.51037168419455,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10021">
+			<name>RGP Lateral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>RGP Lateral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.6726127619427,-24.49321839320614,0 148.6704016679501,-24.51037168419455,0 148.6900887759628,-24.55195310917661,0 148.7400567299734,-24.60397660416441,0 148.7702421549767,-24.62768505216186,0 148.7944998469813,-24.65164080515673,0 148.836314194998,-24.71453112013439,0 148.8422588499979,-24.71747198413494,0 148.8489736459961,-24.71618215313846,0 148.8532118769931,-24.71102060114341,0 148.8526185219906,-24.70462546714716,0 148.8103553139736,-24.64080589616992,0 148.7904109089695,-24.6203418791746,0 148.7542616329653,-24.59141576817801,0 148.7062819399552,-24.54146992718972,0 148.6812772569389,-24.48820813721278,0 148.6726127619427,-24.49321839320614,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10022">
+			<name>Yandina Field</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Yandina Field</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.5178815178489,-24.18061906333782,0 148.5096042628496,-24.178114884336,0 148.5024610928525,-24.18166338233089,0 148.5005369388547,-24.18599061632741,0 148.4995876638618,-24.2029233863165,0 148.5037767518627,-24.20757938331532,0 148.5101753548619,-24.20878011731717,0 148.5150403868601,-24.20684558432036,0 148.5186579828569,-24.20086853332555,0 148.521705519856,-24.20024919232717,0 148.5285625628482,-24.18448342133976,0 148.5178815178489,-24.18061906333782,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10023">
+			<name>Springton Trunkline &amp; Arcturus Field</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Springton Trunkline &amp; Arcturus Field</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.3939358737857,-23.95940037242465,0 148.4018118787881,-23.9693540484217,0 148.4065966987881,-23.97202884742197,0 148.4260218157916,-23.99091861741819,0 148.4416604867895,-23.99356640242294,0 148.4394182817945,-24.00484932741501,0 148.4616183797992,-24.02809089940966,0 148.4839644048025,-24.04794930640643,0 148.4872792178051,-24.05623397940264,0 148.4920422868056,-24.0599042894023,0 148.4904569098089,-24.06727679339709,0 148.4955660508102,-24.07322205639547,0 148.4946185668181,-24.09207408238337,0 148.5142710218127,-24.08922065439316,0 148.5158214688024,-24.06436913340923,0 148.511366488799,-24.05355133041414,0 148.4990060417945,-24.0361546834199,0 148.4758863527911,-24.01565753642319,0 148.4138759687786,-23.9521364254373,0 148.4122424967775,-23.94862170643881,0 148.3939358737857,-23.95940037242465,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10024">
+			<name>Moorooloo 1 Spurline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Moorooloo 1 Spurline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.4394182817945,-24.00484932741501,0 148.4416604867895,-23.99356640242294,0 148.4260218157916,-23.99091861741819,0 148.4026215008013,-24.00269550840132,0 148.3998331028041,-24.00811059239683,0 148.4013481358062,-24.01393716339383,0 148.4059963698066,-24.01744152839356,0 148.4121007808054,-24.01777837039584,0 148.4394182817945,-24.00484932741501,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10025">
+			<name>Turkey Creek and Springton Fields</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Turkey Creek and Springton Fields</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								148.4122424967775,-23.94862170643881,0 148.4120825067774,-23.94827745743896,0 148.4067882567772,-23.94494627843886,0 148.3522596497608,-23.8758825404594,0 148.3446075027598,-23.86933390546034,0 148.3453433607554,-23.85879533346719,0 148.3503481197525,-23.8541418604721,0 148.3505837367497,-23.84750897447631,0 148.3479399487487,-23.84370979747759,0 148.3436242497486,-23.84121759247737,0 148.3410861477454,-23.83188168148212,0 148.3416372357432,-23.82660932948561,0 148.339505508742,-23.82257795848723,0 148.3331434377421,-23.81944971348657,0 148.3261140977443,-23.82119323148261,0 148.3217485497467,-23.82501129847846,0 148.320235073749,-23.82978511247489,0 148.3237343697527,-23.84088051546944,0 148.3236442287576,-23.85292013446194,0 148.325279894759,-23.85722468745994,0 148.3219733817612,-23.86086043645634,0 148.3211284007632,-23.86556534645307,0 148.325538323767,-23.8771292634477,0 148.3365244997686,-23.88695709544611,0 148.3777076417809,-23.93890149143073,0 148.3765667247832,-23.94420961142697,0 148.3787201747847,-23.94906333342484,0 148.382987976785,-23.95185822542485,0 148.388257890784,-23.95222455242678,0 148.3939358737857,-23.95940037242465,0 148.4122424967775,-23.94862170643881,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10026">
+			<name>Condabri Lateral South &amp; Talinga Condabri Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Condabri Lateral South &amp; Talinga Condabri Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - South</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle12</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2393603045791,-26.85145114334571,0 150.2362465405759,-26.84221309435037,0 150.235357826575,-26.83957641935169,0 150.213760982568,-26.81161018736102,0 150.2159141595623,-26.79895526136992,0 150.1949045835654,-26.79602488636353,0 150.1929362655728,-26.8130698373519,0 150.1945006845747,-26.81842431634912,0 150.2162695675818,-26.84657974533974,0 150.2147539145857,-26.85540736433352,0 150.2213238335849,-26.85654305933538,0 150.2336897825832,-26.85859709633893,0 150.2453893085816,-26.86054351834228,0 150.2393603045791,-26.85145114334571,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10027">
+			<name>Condabri Lateral South, Talinga Condabri Pipeline &amp; ML1A SGW to Talinga</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Overlap - Talinga</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Condabri Lateral South, Talinga Condabri Pipeline &amp; ML1A SGW to Talinga</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Overlap - Talinga</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Talinga Condabri Pipeline/Condabri Lateral South</div> <div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div> <div>DDPS - ML1A SGW to Talinga</div> <div>Pipeline Supervisor - OERL (South)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle127</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2310257965907,-26.875668232327,0 150.2336770835832,-26.85867847633888,0 150.2336897825832,-26.85859709633893,0 150.2213238335849,-26.85654305933538,0 150.2147539145857,-26.85540736433352,0 150.2117002085936,-26.87319307432099,0 150.2308910745911,-26.8765315453264,0 150.2310257965907,-26.875668232327,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10028">
+			<name>Darling Downs Pipeline System - ML1A SGW to Talinga &amp; Talinga Condabri Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Overlap - Talinga</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Darling Downs Pipeline System - ML1A SGW to Talinga &amp; Talinga Condabri Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Overlap - Talinga</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Talinga Condabri Pipeline/Condabri Lateral South</div> <div>Pipeline Supervisor - South</div> <div>Phil Tonner/Dennis Jensen (B2B)</div> <div>0477 717 533</div> <div>DDPS - ML1A SGW to Talinga</div> <div>Pipeline Supervisor - OERL (South)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent South</div> <div>Eric Coetzee</div> <div>0467 769 248</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle127</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.2308910745911,-26.8765315453264,0 150.276925811585,-26.88453981433937,0 150.282351601585,-26.88731104433974,0 150.3268147855782,-26.89280120635369,0 150.335517512576,-26.89174962835777,0 150.3427661545749,-26.89271930236,0 150.345608959578,-26.90153951135549,0 150.3519247475799,-26.90930971735302,0 150.3725889135733,-26.90339260036489,0 150.3644451815713,-26.89474834036721,0 150.3638217095668,-26.88323746937431,0 150.3582936075656,-26.87773546537564,0 150.3368263145683,-26.8736752773698,0 150.3275917855706,-26.87468692236554,0 150.2906324305763,-26.87013762235393,0 150.2854918305763,-26.86763531835351,0 150.2336770835832,-26.85867847633888,0 150.2308910745911,-26.8765315453264,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10029">
+			<name>Spring Gully Taloona Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Spring Gully Taloona Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Operations - North</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle16</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.1047648304877,-26.05303407840258,0 149.1118108544847,-26.04911300540785,0 149.1171572504838,-26.0498774824095,0 149.1318681904796,-26.04718758341707,0 149.1394481444804,-26.05305459741638,0 149.1595250814771,-26.05561222442277,0 149.1706076624769,-26.06071894442396,0 149.2071485084696,-26.06177455543784,0 149.2082641774619,-26.04370584444967,0 149.1899170344651,-26.04198375844347,0 149.1831860124671,-26.04340629643987,0 149.1762862744683,-26.04280381243751,0 149.1643282964689,-26.03803667343574,0 149.1478092974716,-26.03610563143038,0 149.1413353364706,-26.03023368843151,0 149.1366965674708,-26.02846209743077,0 149.1190496974757,-26.03113971642205,0 149.1033437274769,-26.02582246241915,0 149.0907849634797,-26.02623064641389,0 149.0942500064807,-26.03036096041267,0 149.1023433054872,-26.05028828240334,0 149.1047648304877,-26.05303407840258,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_10030">
+			<name>Spring Gully to ML1A Trunkline &amp; Spring Gully Taloona Pipeline</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pipeline Overlap - Spring Gully</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pipeline Name</td>
+
+<td>Spring Gully to ML1A Trunkline &amp; Spring Gully Taloona Pipeline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Location</td>
+
+<td>Pipeline Overlap - Spring Gully</td>
+
+</tr>
+
+<tr>
+
+<td>Primary_Contact</td>
+
+<td><div>Spring Gully Taloona Pipeline</div> <div>Pipeline Supervisor - North</div> <div>Mick Birmingham/Paddy McCoy (B2B)</div> <div>0477 363 830</div> <div>Spring Gully to ML1A Trunkline</div> <div>Pipeline Supervisor - OERL (North)</div> <div>Mick Kennedy/Garry Norris (B2B)</div> <div>0459 828 849</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Secondary_Contact</td>
+
+<td><div>Pipeline Superintendent North</div> <div>Jayne Arthur</div> <div>0477 755 059</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation1</td>
+
+<td>O&amp;<div>M Pipeline Manager</div> <div>Burk McCaul</div> <div>0467 714 017</div></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Escalation2</td>
+
+<td><div>Pipelines Group Manager</div> <div>Dave Johnson</div> <div>0427 733 025</div></td>
+
+</tr>
+
+<tr>
+
+<td>Escalation3</td>
+
+<td><div>On-Call GEMT Leader</div> <div>0477 755 369</div></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle130</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.0647174374521,-25.94548995345431,0 149.0560414964588,-25.95741091744335,0 149.0641273344654,-25.97745019843397,0 149.0582948164781,-26.00558075641395,0 149.0643117214847,-26.02469339140431,0 149.0701832034875,-26.03453097740047,0 149.0766739334881,-26.03929079240004,0 149.0850322604946,-26.05955244039062,0 149.1047648304877,-26.05303407840258,0 149.1023433054872,-26.05028828240334,0 149.0942500064807,-26.03036096041267,0 149.0907849634797,-26.02623064641389,0 149.0942526584751,-26.0169640964211,0 149.0903626404681,-25.99777148143163,0 149.0879147964669,-25.99363180343326,0 149.088487051462,-25.98202079744079,0 149.0833085014582,-25.97010959144622,0 149.0794345194464,-25.93919476146413,0 149.0732621344488,-25.94183498246002,0 149.0647174374521,-25.94548995345431,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

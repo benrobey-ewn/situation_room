@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hume 50km Polygon.kml</name>
+	<Style id="poly-FFFFFF-0-102-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FFFFFF-0-102-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="poly-FFFFFF-0-102-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-FFFFFF-0-102-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-FFFFFF-0-102-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Hume 50km Polygon</name>
+		<styleUrl>#poly-FFFFFF-0-102-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						150.55564,-33.980994,0 150.339573,-34.168878,0 149.839144,-34.56814,0 149.206013,-34.58227700000001,0 148.322058,-34.604246,0 148.074223,-34.73214399999999,0 147.817789,-34.983758,0 147.475191,-35.196485,0 147.31079,-35.509384,0 146.625995,-35.912275,0 146.103431,-36.221536,0 145.566951,-36.548021,0 145.119288,-36.706765,0 144.922781,-36.867747,0 144.776183,-37.087303,0 144.775796,-37.406359,0 144.777146,-37.690509,0 144.845972,-38.024056,0 145.069665,-38.082625,0 145.265047,-38.033974,0 145.321717,-37.743985,0 145.305806,-37.491758,0 145.37239,-37.097573,0 145.750305,-36.945989,0 146.120297,-36.743509,0 146.623379,-36.42449100000001,0 147.191488,-36.180466,0 147.642596,-35.837908,0 147.980511,-35.407651,0 148.439998,-35.03806499999999,0 149.517545,-35.06113899999998,0 150.088688,-34.949648,0 150.467796,-34.75075,0 150.928023,-34.261566,0 151.323203,-34.143292,0 151.552191,-34.084662,0 151.652974,-33.87398500000001,0 151.541224,-33.646076,0 151.100465,-33.602672,0 150.727336,-33.670214,0 150.55564,-33.980994,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

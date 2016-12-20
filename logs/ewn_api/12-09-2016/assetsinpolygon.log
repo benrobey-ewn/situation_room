@@ -1,0 +1,4 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"151.693726 -29.668963,151.671753 -29.477861,152.512207 -29.540009,151.600342 -31.189308,150.69397 -29.716681,151.693726 -29.668963"},"error":"","httpcode":null,"response":"{\"postcodes\":[582,588,585,646,594,590,595,581,589,610,592,593]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"145.328178 -37.858049,145.258484 -37.847748,145.2808 -37.879731,145.311356 -37.852357,145.316505 -37.878918,145.328178 -37.858049"},"error":"Operation timed out after 40001 milliseconds with 0 bytes received","httpcode":null,"response":"error:Operation timed out after 40001 milliseconds with 0 bytes received","status":"false"}
+

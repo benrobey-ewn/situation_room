@@ -1,0 +1,18 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"148.73291 -35.942436,151.281738 -35.85344,151.391602 -37.509726,148.842773 -37.439974,148.73291 -35.942436"},"error":"","httpcode":null,"response":"{\"postcodes\":[702,699,762,765,694,760,766,757,703,1536,763,700,1537,764,1534,1538,701,767,1535,704]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"131.813965 -24.746831,137.131348 -26.55905,133.088379 -29.200123,131.813965 -24.746831"},"error":"","httpcode":null,"response":"{\"postcodes\":[2339,2340,303,2344]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"131.154785 -26.165299,134.13208 -24.136728,135.12085 -26.892679,131.154785 -26.165299"},"error":"","httpcode":null,"response":"{\"postcodes\":[303,2344]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"110.390625 -10.444598,118.388672 -15.665354,104.72168 -19.973349,110.390625 -10.444598"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"119.311523 -13.11158,120.27832 -19.020577,112.543945 -17.434511,119.311523 -13.11158"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"144.008789 -39.232253,141.196289 -41.178654,145.327148 -40.010787,144.008789 -39.232253"},"error":"","httpcode":null,"response":"{\"postcodes\":[2751]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"136.054688 -10.185187,137.900391 -11.781325,134.428711 -11.436955,136.054688 -10.185187"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"139.350586 -8.363693,146.821289 -8.798225,139.350586 -11.436955,139.350586 -8.363693"},"error":"","httpcode":null,"response":"{\"postcodes\":[1999]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"138.438721 -16.267414,139.75708 -17.277219,139.866943 -15.781682,138.438721 -16.267414"},"error":"","httpcode":null,"response":"{\"postcodes\":[]}","status":"false"}
+

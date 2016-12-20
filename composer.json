@@ -1,0 +1,13 @@
+{
+    "name": "root/dev",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ben Robey",
+            "email": "python08@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~5.0"
+    }
+}

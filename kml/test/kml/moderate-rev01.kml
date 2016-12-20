@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Style id="blacktri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/blacktriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="greytri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/greytriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="aquatri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/aquatriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="greentri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/greentriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="orangetri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/orangetriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="redtri">
+ <IconStyle>
+ <Scale>1.1</Scale>
+ <Icon>
+ <href>http://clients3.ewn.com.au/common/images/kml/rainfall/redtriangle.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+<Folder id="0"></Folder>
+ </Document>
+</kml>

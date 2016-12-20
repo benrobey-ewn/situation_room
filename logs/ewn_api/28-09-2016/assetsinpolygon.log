@@ -1,0 +1,8 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.335693 -37.120906,146.636719 -37.361862,146.267578 -37.496652,146.335693 -37.120906"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection refused","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection refused","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.744385 -37.288913,146.94873 -37.599435,146.57959 -37.540222,146.744385 -37.288913"},"error":"Failed to connect to apici.ewn.com.au port 55556: Connection refused","httpcode":null,"response":"error:Failed to connect to apici.ewn.com.au port 55556: Connection refused","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.625732 -37.037113,147.102539 -37.456895,146.326904 -37.364394,146.625732 -37.037113"},"error":"","httpcode":null,"response":"{\"postcodes\":[1519,1518,1516,1435,1426,1399]}","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"146.381836 -37.112584,146.724609 -37.408128,146.01709 -37.446516,146.381836 -37.112584"},"error":"","httpcode":null,"response":"{\"postcodes\":[1516,1426,1419]}","status":"false"}
+

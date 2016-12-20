@@ -1,0 +1,10 @@
+{"request":{"BoundaryTypeKey":"PC","Polygon":"119.926758 -23.765237,120.234375 -34.885931,130.693359 -34.921971,130.209961 -23.120154,119.926758 -23.765237"},"error":"Connection timed out after 40000 milliseconds","httpcode":null,"response":"error:Connection timed out after 40000 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"121.113281 -23.483401,119.575195 -35.710838,129.067383 -32.287133,128.935547 -23.160563,121.113281 -23.483401"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"120.893555 -23.644524,120.27832 -34.921971,128.759766 -33.94336,129.023438 -23.402765,120.761719 -23.362429,120.893555 -23.644524"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"121.289063 -23.604262,120.454102 -34.524661,129.111328 -31.840233,129.023438 -23.32208,121.289063 -23.604262"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
+{"request":{"BoundaryTypeKey":"PC","Polygon":"145.063477 -30.675715,144.667969 -32.916485,146.733398 -32.990236,146.733398 -30.372875,145.063477 -30.675715"},"error":"Connection timed out after 40001 milliseconds","httpcode":null,"response":"error:Connection timed out after 40001 milliseconds","status":"false"}
+
