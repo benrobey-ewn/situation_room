@@ -788,7 +788,9 @@
 									alert("Alert has been sent successfully."); 
 					       			$("#save_nbn_alert_details").html('Send');
 					       		   	$('#save_nbn_alert_form')[0].reset();
-					       		   	$("#drawing_mode").attr("disabled", false);
+									$('.nbn_description_polygon_alert').html('');
+									console.log('message sent');
+									$("#drawing_mode").attr("disabled", false);
 					       		   	nbnMainHide($("#nbn_zones_alert"));
 					       		   	nbnMainHide('#nbn_zones_div');
 					       		   	enableSubjectTextBox();
