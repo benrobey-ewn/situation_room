@@ -838,6 +838,7 @@ function confirm_alert()
          sendAlertEwn(formData);
          setTimeout(function(){ alert("Alert has been sent successfully"); }, 2000);
          $('#save_nbn_alert_form')[0].reset();
+          $('.nbn_description_polygon_alert').html('');
          $('#popup_nbn_polygon').modal('toggle');
       }else{
           return false;

@@ -4,6 +4,11 @@ include '../includes/functions.php';
 $postcodes = explode(",",$_REQUEST['postcodes']);
 $ewn_response=array();
 
+$smscontent = $_REQUEST['nbn_description_polygon'];
+if(strlen($smscontent) > 160) {
+    $smscontent = substr($smscontent, 0, 160);
+}
+
 if($_REQUEST['alert_type']=='Green' && $_REQUEST['alert_id']!=''){
 	$class='activeG';
 	$color='Green';
@@ -27,8 +32,8 @@ if($_REQUEST['alert_type']=='Green' && $_REQUEST['alert_id']!=''){
 						"AlertKey"=>0,
 						"AlertGroupKey" => $AlertGroupKey,
 						"Subject" =>$alertSubject,
-						"TextForWeb" =>$_REQUEST['nbn_description_polygon'],
-						"TextForSMS" =>$_REQUEST['nbn_description_polygon'],
+                        "TextForWeb" => strlen($_REQUEST['nbn_description_polygon']) > 300 ? substr($_REQUEST['nbn_description_polygon'], 0, 300) : $_REQUEST['nbn_description_polygon'],
+                        "TextForSMS" => $smscontent,
 						"AlertType" => "GIS",
 						"DeliveryLocations" =>$DeliveryLocations
 					);
@@ -111,8 +116,8 @@ foreach ($postcodes as $postcode) {
 						"AlertKey"=>0,
 						"AlertGroupKey" => $AlertGroupKey,
 						"Subject" =>$alertSubject,
-						"TextForWeb" =>$_REQUEST['nbn_description_polygon'],
-						"TextForSMS" =>$_REQUEST['nbn_description_polygon'],
+                        "TextForWeb" => strlen($_REQUEST['nbn_description_polygon']) > 300 ? substr($_REQUEST['nbn_description_polygon'], 0, 300) : $_REQUEST['nbn_description_polygon'],
+                        "TextForSMS" => $smscontent,
 						"AlertType" => "GIS",
 						"DeliveryLocations" =>$DeliveryLocations
 					);
@@ -237,7 +242,7 @@ $alertData = array(
 					"AlertGroupKey" => $AlertGroupKey,
 					"Subject" =>$alertSubject,
 					"TextForWeb" => strlen($_REQUEST['nbn_description_polygon']) > 300 ? substr($_REQUEST['nbn_description_polygon'], 0, 300) : $_REQUEST['nbn_description_polygon'],
-					"TextForSMS" => strlen($_REQUEST['nbn_description_polygon']) > 160 ? substr($_REQUEST['nbn_description_polygon'], 0, 160) : $_REQUEST['nbn_description_polygon'],
+					"TextForSMS" => $smscontent,
 					"AlertType" => "GIS",
 					"DeliveryLocations" =>$DeliveryLocations
 				);

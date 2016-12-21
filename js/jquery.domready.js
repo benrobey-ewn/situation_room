@@ -47,9 +47,13 @@ function domReadyLoadMain() {
 
 	$('#nbn_description_polygon').on('keyup', function() {
 
-		if($(this).val().length > 160) {
-			$('.nbn_description_polygon_alert').html('Warning: message can not exceed 160 characters, recipients will receive a link to a full text version.');
+		if($(this).val().length > 5000) {
+			$('.nbn_description_polygon_alert').html('Warning: Total message length can not exceed 5000 characters.');
 			$('#save_nbn_alert_details').prop('disabled', 'disabled');
+		}
+		else if($(this).val().length > 160) {
+			$('.nbn_description_polygon_alert').html('SMS content limit of 160 characters has been reached. Text input after this point will be visible by email only.');
+			$('#save_nbn_alert_details').prop('disabled', false);
 		}
 		else {
 			$('.nbn_description_polygon_alert').html('');
